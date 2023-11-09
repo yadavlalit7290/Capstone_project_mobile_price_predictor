@@ -1,0 +1,962 @@
+model,price,rating,card,os,Dual_Display,has_5g,has_nfc,has_ir_blaster,processor_name,processor_brand,num_core,processor_speed_GHz,ram_capacity,internal_memory,battery_capacity_mAh,fast_charging_available,fast_charging,screen_size_inches,resolution,refresh_rate,num_rear_cameras,num_front_cameras,primary_camera_rear,primary_camera_front,brand_name
+xiaomi redmi note 13 pro max 5g,20499,83.0,"memory card supported, upto 512 gb",android,0,True,False,True,snapdragon  7 gen1,qualcomm snapdragon,8,2.4,6.0,128,5200.0,1,67.0,6.67,1080 x 2460 ,120,4,1,108.0,32.0,xiaomi
+motorola edge 40 neo,22999,83.0,None,android,0,True,True,False,dimensity 7030,dimensity,8,2.5,8.0,128,5000.0,1,68.0,6.55,1080 x 2400 ,144,2,1,50.0,32.0,motorola
+xiaomi redmi note 13 pro plus,21990,87.0,memory card not supported,android,0,True,True,True,dimensity 7200 ultra,dimensity,8,2.8,12.0,256,5000.0,1,120.0,6.67,1220 x 2712 ,144,3,1,200.0,16.0,xiaomi
+samsung galaxy s21 fe 5g,24994,87.0,memory card not supported,android,0,True,True,False,exynos  2100,exynos,8,2.9,8.0,128,4500.0,1,25.0,6.4,1080 x 2340 ,120,3,1,12.0,32.0,samsung
+motorola moto g54 5g,13999,85.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,dimensity 7020,dimensity,8,2.2,8.0,128,6000.0,1,33.0,6.5,1080 x 2400 ,120,2,1,50.0,16.0,motorola
+xiaomi redmi note 12 turbo harry potter edition,27990,83.0,memory card not supported,android,0,True,True,True,snapdragon 7+ gen2,qualcomm snapdragon,8,2.91,12.0,256,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,xiaomi
+vivo y200 5g,21999,81.0,"memory card (hybrid), upto 2 tb",android,0,True,False,False,snapdragon 4 gen1,qualcomm snapdragon,8,2.0,8.0,128,4800.0,1,44.0,6.67,1080 x 2400 ,120,2,1,64.0,16.0,vivo
+motorola edge 40 neo (12gb ram + 256gb),24999,85.0,None,android,0,True,True,False,dimensity 7030,dimensity,8,2.5,12.0,256,5000.0,1,68.0,6.55,1080 x 2400 ,144,2,1,50.0,32.0,motorola
+motorola moto g54 5g (12gb ram +256gb),15999,87.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,dimensity 7020,dimensity,8,2.2,12.0,256,6000.0,1,33.0,6.5,1080 x 2400 ,120,2,1,50.0,16.0,motorola
+vivo t2 pro 5g,23999,81.0,None,android,0,True,False,False,dimensity 7200,dimensity,8,2.8,8.0,128,4600.0,1,66.0,6.78,1080 x 2400 ,120,2,1,64.0,16.0,vivo
+oneplus nord ce 3 lite 5g,19638,85.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 695 5g,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,67.0,6.72,1080 x 2400 ,120,3,1,108.0,16.0,oneplus
+oneplus nord ce 3 5g,24562,84.0,"memory card (hybrid), upto 1 tb",android,0,True,True,True,snapdragon  782g,qualcomm snapdragon,8,2.7,8.0,128,5000.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,oneplus
+vivo v29,32195,85.0,None,android,0,True,True,False,snapdragon 778g,qualcomm snapdragon,8,2.4,8.0,128,4600.0,1,80.0,6.78,1260 x 2800 ,120,3,1,50.0,50.0,vivo
+xiaomi redmi note 14 pro max,29990,88.0,"memory card supported, upto 1 tb",android,0,True,False,True,dimensity 6080,dimensity,8,2.4,8.0,128,5200.0,1,15.0,6.78,1080 x 2460 ,144,4,1,200.0,32.0,xiaomi
+xiaomi redmi 12 5g,11999,75.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 4 gen2,qualcomm snapdragon,8,2.2,4.0,128,5000.0,1,18.0,6.79,1080 x 2460 ,90,2,1,50.0,8.0,xiaomi
+samsung galaxy f54,24879,89.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1380,exynos,8,2.4,8.0,256,6000.0,1,25.0,6.7,1080 x 2408 ,120,3,1,108.0,32.0,samsung
+motorola edge 40 5g,26999,87.0,None,android,0,True,True,False,dimensity 8020,dimensity,8,2.6,8.0,256,4400.0,1,68.0,6.55,1080 x 2400 ,144,2,1,50.0,32.0,motorola
+xiaomi redmi note 13 pro 5g,15990,85.0,None,android,0,True,True,True,snapdragon 7s gen 2,qualcomm snapdragon,8,2.4,8.0,128,5100.0,1,67.0,6.67,1220 x 2712 ,120,3,1,200.0,16.0,xiaomi
+vivo t2x 5g (6gb ram + 128gb),12999,78.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity 6020,dimensity,8,2.2,6.0,128,5000.0,1,18.0,6.58,1080 x 2408 ,60,2,1,50.0,8.0,vivo
+xiaomi redmi 12 5g (6gb ram + 128gb),12999,77.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 4 gen2,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,18.0,6.79,1080 x 2460 ,90,2,1,50.0,8.0,xiaomi
+realme 11 pro plus,25999,89.0,memory card not supported,android,0,True,True,False,dimensity 7050,dimensity,8,2.6,8.0,256,5000.0,1,100.0,6.7,1080 x 2412 ,120,3,1,200.0,32.0,realme
+realme gt 5,33990,86.0,memory card not supported,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,5240.0,1,150.0,6.74,1240 x 2772 ,144,3,1,50.0,16.0,realme
+xiaomi redmi 12 5g (8gb ram + 256gb),14999,80.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 4 gen2,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,18.0,6.79,1080 x 2460 ,90,2,1,50.0,8.0,xiaomi
+samsung galaxy s25 ultra,124990,86.0,memory card not supported,android,0,True,False,False,snapdragon 8 gen3,qualcomm snapdragon,8,,12.0,256,5100.0,1,65.0,6.83,1800 x 3440 ,144,4,1,200.0,60.0,samsung
+apple iphone 13,50999,78.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,4.0,128,3240.0,1,15.0,6.1,1170 x 2532 ,60,2,1,12.0,12.0,apple
+realme 11x 5g,13999,79.0,"memory card supported, upto 2 tb",android,0,True,True,False,dimensity 6100 plus,dimensity,8,2.2,6.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,120,2,1,64.0,8.0,realme
+oneplus open,139998,,memory card not supported,android,1,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,16.0,512,4805.0,1,67.0,7.82,2268 x 2440 ,120,3,2,64.0,32.0,oneplus
+realme 11 pro,21999,85.0,None,android,0,True,True,False,dimensity 7050,dimensity,8,2.6,8.0,128,5000.0,1,67.0,6.7,1080 x 2412 ,120,2,1,100.0,16.0,realme
+infinix note 30 5g (8gb ram + 256gb),14699,87.0,"memory card supported, upto 2 tb",android,0,True,True,False,dimensity 6080,dimensity,8,2.4,8.0,256,5000.0,1,45.0,6.78,1080 x 2460 ,120,3,1,108.0,16.0,infinix
+oneplus 11r 5g,39999,85.0,None,android,0,True,True,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,100.0,6.74,1240 x 2772 ,120,3,1,50.0,16.0,oneplus
+samsung galaxy m34 5g,16499,82.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1280,exynos,8,2.4,6.0,128,6000.0,1,25.0,6.5,1080 x 2340 ,120,3,1,50.0,13.0,samsung
+apple iphone 14,56999,80.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,128,3279.0,1,15.0,6.1,1170 x 2532 ,60,2,1,12.0,12.0,apple
+vivo v29 pro,39999,84.0,None,android,0,True,False,False,dimensity  8200,dimensity,8,3.1,8.0,256,4600.0,1,80.0,6.78,1260 x 2800 ,120,3,1,50.0,50.0,vivo
+motorola moto g84 5g,18999,84.0,None,android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,12.0,256,5000.0,1,30.0,6.55,1080 x 2400 ,120,2,1,50.0,16.0,motorola
+vivo v29e,26150,85.0,memory card (hybrid),android,0,True,True,False,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,44.0,6.78,1080 x 2400 ,120,2,1,64.0,50.0,vivo
+samsung galaxy m14 (6gb ram + 128gb),12725,79.0,"memory card supported, upto 1 tb",android,0,True,False,False,exynos 1330,exynos,8,2.4,6.0,128,6000.0,1,25.0,6.6,1080 x 2408 ,90,3,1,50.0,13.0,samsung
+oppo reno 10,32999,88.0,memory card (hybrid),android,0,True,True,True,dimensity 7050,dimensity,8,2.6,8.0,256,5000.0,1,67.0,6.7,1080 x 2412 ,120,3,1,64.0,32.0,oppo
+oneplus nord 3 5g,30425,85.0,None,android,0,True,True,True,dimensity 9000,dimensity,8,3.05,8.0,128,5000.0,1,80.0,6.74,1240 x 2772 ,120,3,1,50.0,16.0,oneplus
+samsung galaxy s21 fe (snapdragon),33999,88.0,memory card not supported,android,0,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,8.0,256,4500.0,1,25.0,6.4,1080 x 2340 ,120,3,1,12.0,32.0,samsung
+iqoo z7 pro 5g,23999,80.0,None,android,0,True,False,False,dimensity 7200,dimensity,8,2.8,8.0,128,4600.0,1,66.0,6.78,1080 x 2400 ,120,2,1,64.0,16.0,iqoo
+realme gt 5 (240w),42990,89.0,memory card not supported,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,24.0,1024,4600.0,1,240.0,6.74,1240 x 2772 ,144,3,1,50.0,16.0,realme
+oppo reno 8t,21275,86.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,4800.0,1,67.0,6.7,1080 x 2412 ,120,3,1,108.0,32.0,oppo
+realme gt 5 pro,59990,89.0,memory card not supported,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,3.3,8.0,256,4700.0,1,240.0,6.78,1264 x 2780 ,144,3,1,64.0,32.0,realme
+realme narzo 60x,11749,75.0,"memory card supported, upto 2 tb",android,0,True,False,False,dimensity 6100 plus,dimensity,8,2.2,4.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,120,2,1,50.0,8.0,realme
+samsung galaxy s23 ultra 5g,103999,,memory card not supported,android,0,True,True,False,snapdragon 8 gen 2,qualcomm snapdragon,8,3.36,12.0,256,5000.0,1,45.0,6.8,1440 x 3088 ,120,4,1,200.0,12.0,samsung
+oneplus 11r 5g (18gb ram + 512gb),45999,88.0,None,android,0,True,True,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,18.0,512,5000.0,1,100.0,6.74,1240 x 2772 ,120,3,1,50.0,16.0,oneplus
+infinix gt 10 pro,21999,88.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity  8050,dimensity,8,3.0,8.0,256,5000.0,1,45.0,6.67,1080 x 2460 ,120,3,1,108.0,32.0,infinix
+samsung galaxy s22 5g,39999,86.0,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,8.0,128,3700.0,1,25.0,6.1,1080 x 2340 ,120,3,1,50.0,10.0,samsung
+vivo y78t,12990,77.0,None,android,0,True,False,False,snapdragon 6 gen1,qualcomm snapdragon,8,2.2,8.0,128,6000.0,1,44.0,6.64,1080 x 2388 ,120,2,1,50.0,8.0,vivo
+xiaomi 14 pro,56990,,memory card not supported,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,3.3,12.0,256,4880.0,1,120.0,6.73,1440 x 3200 ,120,3,1,50.0,32.0,xiaomi
+samsung galaxy s24 ultra,119990,83.0,memory card not supported,android,0,True,False,False,snapdragon 8 gen3,qualcomm snapdragon,8,,12.0,256,5000.0,1,45.0,6.8,1200 x 2860 ,144,4,1,200.0,12.0,samsung
+vivo t2x 5g,11999,75.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity 6020,dimensity,8,2.2,4.0,128,5000.0,1,18.0,6.58,1080 x 2408 ,60,2,1,50.0,8.0,vivo
+xiaomi redmi note 12 pro 5g,20890,79.0,None,android,0,True,False,True,dimensity 1080,dimensity,8,2.6,6.0,128,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,50.0,16.0,xiaomi
+poco f5,23999,84.0,None,android,0,True,False,True,snapdragon 7+ gen2,qualcomm snapdragon,8,2.91,8.0,256,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,poco
+samsung galaxy a73 5g (8gb ram + 256gb),32399,,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 778g,qualcomm snapdragon,8,2.4,8.0,256,5000.0,1,25.0,6.7,1080 x 2400 ,120,4,1,108.0,32.0,samsung
+xiaomi redmi note 13,12990,78.0,None,android,0,True,False,True,dimensity 6080,dimensity,8,2.4,6.0,128,5000.0,1,33.0,6.67,1080 x 2400 ,120,2,1,100.0,16.0,xiaomi
+realme narzo 60 5g,15749,82.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 6020,dimensity,8,2.2,8.0,128,5000.0,1,33.0,6.43,1080 x 2400 ,90,2,1,64.0,16.0,realme
+oneplus nord ce 3 lite 5g (8gb ram + 256gb),21498,86.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 695 5g,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,67.0,6.72,1080 x 2400 ,120,3,1,108.0,16.0,oneplus
+oppo find x6 pro,71990,,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,100.0,6.82,1440 x 3168 ,120,3,1,50.0,32.0,oppo
+realme 11 5g (8gb ram + 256gb),17897,84.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 6100 plus,dimensity,8,2.2,8.0,256,5000.0,1,67.0,6.72,1080 x 2400 ,120,2,1,108.0,16.0,realme
+oneplus 12,60999,89.0,memory card not supported,android,0,True,True,False,snapdragon 8 gen3,qualcomm snapdragon,8,3.3,12.0,256,5400.0,1,100.0,6.82,1440 x 3168 ,120,3,1,64.0,32.0,oneplus
+samsung galaxy a74 5g,42999,,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 7 gen1,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,33.0,6.7,1080 x 2412 ,120,4,1,108.0,32.0,samsung
+xiaomi redmi 12c,6999,70.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio  g85,helio,8,2.0,4.0,64,5000.0,0,0.0,6.71,720 x 1650 ,60,2,1,50.0,5.0,xiaomi
+samsung galaxy s23 fe 5g,59999,85.0,memory card not supported,android,0,True,True,False,exynos 2200,exynos,8,2.8,8.0,128,4500.0,1,25.0,6.4,1080 x 2340 ,120,3,1,50.0,10.0,samsung
+oppo a79 5g,19999,81.0,"memory card supported, upto 1 tb",android,0,True,True,True,dimensity 6020,dimensity,8,2.2,8.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,90,2,1,50.0,8.0,oppo
+vivo t2 pro 5g (8gb ram + 256gb),24999,82.0,None,android,0,True,False,False,dimensity 7200,dimensity,8,2.8,8.0,256,4600.0,1,66.0,6.78,1080 x 2400 ,120,2,1,64.0,16.0,vivo
+xiaomi 13 ultra 5g,71499,,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,90.0,6.73,1440 x 3200 ,120,4,1,50.3,32.0,xiaomi
+infinix zero 30 5g (12gb ram + 256gb),24999,88.0,None,android,0,True,True,False,dimensity 8020,dimensity,8,2.6,12.0,256,5000.0,1,68.0,6.78,1080 x 2400 ,144,3,1,108.0,50.0,infinix
+oneplus nord ce 2 lite 5g,16955,81.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,33.0,6.59,1080 x 2412 ,120,3,1,64.0,16.0,oneplus
+apple iphone 14 plus,64999,82.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,128,4325.0,1,15.0,6.7,1284 x 2778 ,60,2,1,12.0,12.0,apple
+samsung galaxy a34 5g,25999,83.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,dimensity 1080,dimensity,8,2.6,6.0,128,5000.0,1,25.0,6.6,1080 x 2340 ,120,3,1,48.0,13.0,samsung
+poco m6 pro 5g,10999,74.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 4 gen2,qualcomm snapdragon,8,2.2,4.0,64,5000.0,1,18.0,6.79,1080 x 2460 ,90,2,1,50.0,8.0,poco
+itel s23 plus,13999,78.0,None,android,0,False,True,False,tiger  t616,tiger,8,2.0,8.0,128,5000.0,1,18.0,6.78,1080 x 2400 ,60,2,1,50.0,32.0,itel
+samsung galaxy m14,11990,77.0,"memory card supported, upto 1 tb",android,0,True,False,False,exynos 1330,exynos,8,2.4,4.0,128,6000.0,1,25.0,6.6,1080 x 2408 ,90,3,1,50.0,13.0,samsung
+oneplus 11 5g,51998,89.0,memory card not supported,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,100.0,6.7,1440 x 3216 ,120,3,1,50.0,16.0,oneplus
+samsung galaxy a54 5g,34399,88.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1380,exynos,8,2.4,8.0,128,5000.0,1,25.0,6.4,1080 x 2340 ,120,3,1,50.0,32.0,samsung
+xiaomi redmi note 12 5g,15998,77.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 4 gen 1,qualcomm snapdragon,8,2.0,4.0,128,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,48.0,13.0,xiaomi
+poco x5 pro,18499,80.0,memory card not supported,android,0,True,False,True,snapdragon 778g,qualcomm snapdragon,8,2.4,6.0,128,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,108.0,16.0,poco
+samsung galaxy f34 5g,16499,83.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1280,exynos,8,2.4,6.0,128,6000.0,1,25.0,6.5,1080 x 2340 ,120,3,1,50.0,13.0,samsung
+motorola moto g32 (8gb ram + 128gb),10999,81.0,"memory card (hybrid), upto 1 tb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,33.0,6.55,1080 x 2400 ,90,3,1,50.0,16.0,motorola
+oneplus nord ce 3 (12gb ram + 256gb),27287,85.0,"memory card (hybrid), upto 1 tb",android,0,True,True,True,snapdragon  782g,qualcomm snapdragon,8,2.7,12.0,256,5000.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,oneplus
+vivo t2 5g,17999,79.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,4500.0,1,44.0,6.38,1080 x 2400 ,90,2,1,64.0,16.0,vivo
+oneplus 12 pro,69999,85.0,None,android,0,True,True,False,snapdragon  8 gen3,qualcomm snapdragon,8,,12.0,256,4800.0,1,100.0,6.73,1440 x 3412 ,144,3,1,108.0,32.0,oneplus
+vivo v27,29498,85.0,None,android,0,True,False,False,dimensity 7200,dimensity,8,2.8,8.0,128,4600.0,1,66.0,6.78,1080 x 2400 ,120,3,1,50.0,50.0,vivo
+samsung galaxy s22 ultra 5g,83500,,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,12.0,256,5000.0,1,45.0,6.8,1440 x 3080 ,120,4,1,108.0,40.0,samsung
+vivo v29 (12gb ram + 256gb),36999,87.0,None,android,0,True,True,False,snapdragon 778g,qualcomm snapdragon,8,2.4,12.0,256,4600.0,1,80.0,6.78,1260 x 2800 ,120,3,1,50.0,50.0,vivo
+vivo t2x 5g (8gb ram + 128gb),14999,80.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity 6020,dimensity,8,2.2,8.0,128,5000.0,1,18.0,6.58,1080 x 2408 ,60,2,1,50.0,8.0,vivo
+apple iphone 15 pro max,159900,89.0,memory card not supported,ios,0,True,True,False,a17 pro,bionic,6,3.78,8.0,256,4422.0,1,15.0,6.7,1290 x 2796 ,120,3,1,48.0,12.0,apple
+realme 11x 5g (8gb ram + 128gb),14816,81.0,"memory card supported, upto 2 tb",android,0,True,True,False,dimensity 6100 plus,dimensity,8,2.2,8.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,120,2,1,64.0,8.0,realme
+poco m6 pro 5g (6gb ram + 128gb),11999,77.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 4 gen2,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,18.0,6.79,1080 x 2460 ,90,2,1,50.0,8.0,poco
+vivo y78 plus,17990,75.0,memory card not supported,android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,44.0,6.78,1080 x 2400 ,120,2,1,50.0,8.0,vivo
+xiaomi redmi 12 4g,9499,75.0,"memory card (hybrid), upto 1 tb",android,0,False,False,True,helio g88,helio,8,2.0,4.0,128,5000.0,1,18.0,6.79,1080 x 2460 ,90,3,1,50.0,8.0,xiaomi
+samsung galaxy s20 fe 5g,26990,88.0,memory card (hybrid),android,0,True,True,False,snapdragon 865,qualcomm snapdragon,8,2.84,8.0,128,4500.0,1,15.0,6.5,1080 x 2400 ,120,3,1,12.0,32.0,samsung
+iqoo z7s 5g,15999,80.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,4500.0,1,44.0,6.38,1080 x 2388 ,90,2,1,64.0,16.0,iqoo
+realme c53,9899,75.0,"memory card supported, upto 2 tb",android,0,False,False,False,tiger t612,tiger,8,1.82,4.0,128,5000.0,1,18.0,6.74,1080 x 2400 ,90,2,1,108.0,8.0,realme
+itel p55 5g (6gb ram + 128gb),9999,75.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 6080,dimensity,8,2.4,6.0,128,5000.0,1,18.0,6.6,1600 x 720 ,90,2,1,50.0,8.0,itel
+oppo reno 10 pro,39999,87.0,None,android,0,True,True,True,snapdragon 778g,qualcomm snapdragon,8,2.4,12.0,256,4600.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,32.0,oppo
+oneplus 10r 5g,26990,84.0,None,android,0,True,True,False,dimensity 8100 max,dimensity,8,2.85,8.0,128,5000.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,oneplus
+realme 11 pro plus (12gb ram + 256gb),29080,89.0,memory card not supported,android,0,True,True,False,dimensity 7050,dimensity,8,2.6,12.0,256,5000.0,1,100.0,6.7,1080 x 2412 ,120,3,1,200.0,32.0,realme
+nokia g42 5g,11999,76.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon  480+,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,20.0,6.56,720 x 1612 ,90,3,1,50.0,8.0,nokia
+vivo y100,17599,82.0,memory card (hybrid),android,0,True,False,False,dimensity  900,dimensity,8,2.4,8.0,128,4500.0,1,44.0,6.38,1080 x 2400 ,90,3,1,64.0,16.0,vivo
+realme narzo n53,7999,70.0,"memory card supported, upto 2 tb",android,0,False,False,False,unisoc t612,unisoc,8,1.8,4.0,64,5000.0,1,33.0,6.74,720 x 1600 ,90,2,1,50.0,8.0,realme
+xiaomi 14,44999,,None,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,3.3,8.0,256,4610.0,1,90.0,6.36,1200 x 2670 ,120,3,1,50.0,32.0,xiaomi
+xiaomi redmi 11 prime (6gb ram + 128gb),8399,76.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio g99,helio,8,2.2,6.0,128,5000.0,1,18.0,6.58,1080 x 2400 ,90,3,1,50.0,8.0,xiaomi
+apple iphone 12,40999,74.0,memory card not supported,ios,0,True,True,False,a14,bionic,6,3.1,4.0,64,2815.0,0,0.0,6.1,1170 x 2532 ,60,2,1,12.0,12.0,apple
+realme 12,14990,80.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity  810 5g,dimensity,8,2.4,8.0,128,5000.0,1,67.0,6.67,1080 x 2408 ,120,3,1,50.0,16.0,realme
+samsung galaxy f14 5g (6gb ram + 128gb),12490,71.0,"memory card supported, upto 1 tb",android,0,True,False,False,exynos 1330,exynos,8,,6.0,128,6000.0,1,25.0,6.6,2408 x 1080 ,60,2,1,50.0,13.0,samsung
+oppo a78,16499,79.0,memory card supported,android,0,True,True,False,dimensity 700 5g,dimensity,8,2.2,8.0,128,5000.0,1,33.0,6.56,720 x 1612 ,90,2,1,50.0,8.0,oppo
+oneplus 11 pro,69999,,None,android,0,True,True,False,snapdragon  8 gen2,qualcomm snapdragon,8,3.2,8.0,128,4500.0,1,100.0,6.7,1440 x 3216 ,120,3,1,50.0,16.0,oneplus
+apple iphone 15,79900,83.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,128,3349.0,1,15.0,6.1,1179 x 2556 ,60,2,1,48.0,12.0,apple
+motorola moto e13 (8gb ram + 128gb),7499,73.0,"memory card supported, upto 1 tb",android,0,False,False,False,tiger t606,tiger,8,2.0,8.0,128,5000.0,1,10.0,6.5,720 x 1600 ,60,1,1,13.0,5.0,motorola
+vivo t3 5g,21990,83.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 7 gen1,qualcomm snapdragon,8,2.4,8.0,128,4700.0,1,67.0,6.58,1080 x 2400 ,120,2,1,108.0,16.0,vivo
+samsung galaxy f04,6499,68.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio p35,helio,8,2.3,4.0,64,5000.0,1,15.0,6.5,720 x 1600 ,60,2,1,13.0,5.0,samsung
+google pixel 7a,35999,86.0,memory card not supported,android,0,True,True,False,tensor g2,tensor,8,2.85,8.0,128,4385.0,1,18.0,6.1,1080 x 2400 ,90,2,1,64.0,13.0,google
+iqoo neo 7 pro,32999,83.0,None,android,0,True,False,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,120.0,6.78,1080 x 2400 ,120,3,1,50.0,16.0,iqoo
+motorola moto g14,8499,69.0,"memory card supported, upto 1 tb",android,0,False,True,False,tiger  t616,tiger,8,2.0,4.0,128,5000.0,1,20.0,6.5,1080 x 2460 ,60,2,1,50.0,8.0,motorola
+xiaomi redmi note 14 pro 5g,18990,83.0,None,android,0,True,True,True,dimensity 6020,dimensity,8,2.2,8.0,128,5000.0,1,15.0,6.71,1080 x 2460 ,144,3,1,108.0,32.0,xiaomi
+iqoo 12 pro,69990,89.0,None,android,0,True,True,False,snapdragon 8 gen3,qualcomm snapdragon,8,3.3,12.0,256,5000.0,1,200.0,6.82,1440 x 3200 ,165,3,1,64.0,32.0,iqoo
+poco x5 pro (8gb ram + 256gb),19499,84.0,memory card not supported,android,0,True,False,True,snapdragon 778g,qualcomm snapdragon,8,2.4,8.0,256,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,108.0,16.0,poco
+samsung galaxy s23 5g,74999,88.0,None,android,0,True,True,False,snapdragon 8 gen 2,qualcomm snapdragon,8,3.36,8.0,128,3900.0,1,25.0,6.1,1080 x 2340 ,120,3,1,50.0,12.0,samsung
+samsung galaxy a14 5g,14445,75.0,"memory card supported, upto 1 tb",android,0,True,False,False,exynos 1330,exynos,8,2.4,4.0,64,5000.0,1,15.0,6.6,1080 x 2408 ,90,3,1,50.0,13.0,samsung
+oppo f23,21999,84.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,67.0,6.72,1080 x 2400 ,120,3,1,64.0,32.0,oppo
+poco x5 5g,13999,81.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,48.0,13.0,poco
+honor 90 5g,31998,89.0,None,android,0,True,True,False,snapdragon 7 gen 1 accelerated edition,qualcomm snapdragon,8,2.36,8.0,256,5000.0,1,66.0,6.7,1200 x 2664 ,120,3,1,200.0,50.0,honor
+vivo x100 pro 5g,64990,82.0,memory card not supported,android,0,True,True,True,dimensity 9300,dimensity,8,,12.0,256,5000.0,1,120.0,6.8,1260 x 2800 ,144,3,1,50.3,32.0,vivo
+poco c55,6799,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio  g85,helio,8,2.0,4.0,64,5000.0,1,10.0,6.71,720 x 1650 ,60,2,1,50.0,5.0,poco
+xiaomi redmi note 12 pro (8gb ram + 256gb),21649,82.0,None,android,0,True,False,True,dimensity 1080,dimensity,8,2.6,8.0,256,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,50.0,16.0,xiaomi
+samsung galaxy s21 fe 5g (8gb ram + 256gb),41599,88.0,memory card not supported,android,0,True,True,False,exynos  2100,exynos,8,2.9,8.0,256,4500.0,1,25.0,6.4,1080 x 2340 ,120,3,1,12.0,32.0,samsung
+samsung galaxy m34 5g (8gb ram + 256gb),20999,85.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1280,exynos,8,2.4,8.0,256,6000.0,1,25.0,6.5,1080 x 2340 ,120,3,1,50.0,13.0,samsung
+samsung galaxy f15,15990,73.0,"memory card supported, upto 1 tb",android,0,True,True,False,exynos,exynos,8,,6.0,128,6000.0,1,25.0,6.67,1080 x 2408 ,120,3,1,50.0,16.0,samsung
+realme c55 (8gb ram + 128gb),12699,79.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g88,helio,8,2.0,8.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,90,2,1,64.0,8.0,realme
+apple iphone 15 plus,89900,84.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,128,4383.0,1,15.0,6.7,1290 x 2796 ,60,2,1,48.0,12.0,apple
+realme narzo 60x (6gb ram + 128gb),12999,78.0,"memory card supported, upto 2 tb",android,0,True,False,False,dimensity 6100 plus,dimensity,8,2.2,6.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,120,2,1,50.0,8.0,realme
+vivo v29 pro (12gb ram + 256gb),42999,85.0,None,android,0,True,False,False,dimensity  8200,dimensity,8,3.1,12.0,256,4600.0,1,80.0,6.78,1260 x 2800 ,120,3,1,50.0,50.0,vivo
+oneplus nord 3 5g (16gb ram + 256gb),35877,87.0,None,android,0,True,True,True,dimensity 9000,dimensity,8,3.05,16.0,256,5000.0,1,80.0,6.74,1240 x 2772 ,120,3,1,50.0,16.0,oneplus
+realme 11,16999,83.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 6100 plus,dimensity,8,2.2,8.0,128,5000.0,1,67.0,6.72,1080 x 2400 ,120,2,1,108.0,16.0,realme
+oneplus 11r (16gb ram + 256gb),43780,87.0,None,android,0,True,True,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,16.0,256,5000.0,1,100.0,6.74,1240 x 2772 ,120,3,1,50.0,16.0,oneplus
+oppo reno 10 pro plus,54999,89.0,None,android,0,True,True,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,4700.0,1,100.0,6.74,1240 x 2772 ,120,3,1,64.0,32.0,oppo
+vivo v26 pro,42990,89.0,None,android,0,True,True,False,dimensity 9000 plus,dimensity,8,3.2,12.0,256,4800.0,1,100.0,6.7,1080 x 2400 ,120,3,1,200.0,32.0,vivo
+realme gt 2 pro 5g,27999,88.0,None,android,0,True,True,False,snapdragon 8 gen1,qualcomm snapdragon,8,3.0,8.0,128,5000.0,1,65.0,6.7,1440 x 3216 ,120,3,1,50.0,32.0,realme
+infinix hot 30 5g (8gb ram + 128gb),12499,82.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6020,dimensity,8,2.2,8.0,128,6000.0,1,18.0,6.78,1080 x 2460 ,120,2,1,50.0,8.0,infinix
+nokia 7610 5g,52990,89.0,None,android,0,True,True,False,snapdragon  7+ gen2,qualcomm snapdragon,8,2.91,12.0,256,4500.0,1,44.0,6.67,1080 x 2400 ,120,3,1,108.0,32.0,nokia
+apple iphone 11,36990,73.0,memory card not supported,ios,0,False,True,False,a13,bionic,6,2.65,4.0,64,3110.0,0,0.0,6.1,828 x 1792 ,60,2,1,12.0,12.0,apple
+iqoo z7 pro 5g (8gb ram + 256gb),24999,80.0,None,android,0,True,False,False,dimensity 7200,dimensity,8,2.8,8.0,256,4600.0,1,66.0,6.78,1080 x 2400 ,120,2,1,64.0,16.0,iqoo
+samsung galaxy s21 fe (snapdragon + 8gb ram + 128gb),32999,88.0,memory card not supported,android,0,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,8.0,128,4500.0,1,25.0,6.4,1080 x 2340 ,120,3,1,12.0,32.0,samsung
+realme narzo 60 pro (12gb ram + 1tb),26999,85.0,None,android,0,True,False,False,dimensity 7050,dimensity,8,2.6,12.0,1024,5000.0,1,67.0,6.7,1080 x 2400 ,120,2,1,100.0,16.0,realme
+realme c53 (6gb ram + 128gb),10999,77.0,"memory card supported, upto 2 tb",android,0,False,False,False,tiger t612,tiger,8,1.82,6.0,128,5000.0,1,18.0,6.74,1080 x 2400 ,90,2,1,108.0,8.0,realme
+vivo y17s,11499,70.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g85,helio,8,2.0,4.0,64,5000.0,1,15.0,6.56,720 x 1612 ,60,2,1,50.0,8.0,vivo
+infinix zero 30 5g,23999,87.0,None,android,0,True,True,False,dimensity 8020,dimensity,8,2.6,8.0,256,5000.0,1,68.0,6.78,1080 x 2400 ,144,3,1,108.0,50.0,infinix
+oppo reno 11 pro,47990,81.0,None,android,0,True,True,False,nan,nan,8,,16.0,256,5000.0,1,150.0,6.73,1080 x 2412 ,120,3,1,200.0,32.0,oppo
+oppo find n3,114990,,memory card not supported,android,1,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,512,4805.0,1,67.0,7.82,2268 x 2440 ,120,3,2,64.0,32.0,oppo
+lava agni 2 5g,19999,82.0,None,android,0,True,False,False,dimensity 7050,dimensity,8,2.6,8.0,256,4700.0,1,66.0,6.78,1080 x 2460 ,120,4,1,50.0,16.0,lava
+huawei p60 pro,83999,81.0,memory card (hybrid),harmony,0,False,True,True,snapdragon 8+ gen 1,qualcomm snapdragon,8,3.19,8.0,256,4815.0,1,88.0,6.67,1220 x 2700 ,120,3,1,48.0,13.0,huawei
+motorola moto x40,39999,89.0,None,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,4600.0,1,125.0,6.7,1080 x 2400 ,165,3,1,50.0,60.0,motorola
+jio jiophone 5g,9990,64.0,"memory card supported, upto 512 gb",android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,4.0,32,5000.0,1,18.0,6.5,720 x 1600 ,90,2,1,13.0,5.0,jio
+oppo a18,9969,64.0,memory card supported,android,0,False,False,False,helio g85,helio,8,2.0,4.0,64,5000.0,0,0.0,6.56,720 x 1612 ,60,2,1,8.0,5.0,oppo
+xiaomi redmi a2 (4gb ram + 64gb),6315,66.0,"memory card supported, upto 512 gb",android,0,False,False,False,helio g36,helio,8,2.2,4.0,64,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,xiaomi
+oneplus ace 2 pro,34990,86.0,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,150.0,6.74,1240 x 2772 ,120,3,1,50.0,16.0,oneplus
+nokia play 2 max,55990,,None,android,0,True,True,False,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,16.0,256,5000.0,1,67.0,6.6,1080 x 2400 ,120,2,1,108.0,32.0,nokia
+poco c51,5999,66.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g36,helio,8,2.2,4.0,64,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,poco
+samsung galaxy a34 5g (8gb ram + 256gb),27449,86.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,dimensity 1080,dimensity,8,2.6,8.0,256,5000.0,1,25.0,6.6,1080 x 2340 ,120,3,1,48.0,13.0,samsung
+nothing phone 2,39999,89.0,None,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,4700.0,1,45.0,6.7,1080 x 2412 ,120,2,1,50.0,32.0,nothing
+vivo v27 pro,34990,84.0,None,android,0,True,False,False,dimensity 8200,dimensity,8,3.1,8.0,128,4600.0,1,66.0,6.78,1080 x 2400 ,120,3,1,50.0,50.0,vivo
+iqoo neo 7 5g,27999,82.0,None,android,0,True,False,True,dimensity 8200,dimensity,8,3.1,8.0,128,5000.0,1,120.0,6.78,1080 x 2400 ,120,3,1,64.0,16.0,iqoo
+apple iphone 15 pro,134900,87.0,memory card not supported,ios,0,True,True,False,a17 pro,bionic,6,3.78,8.0,128,3274.0,1,15.0,6.1,1179 x 2556 ,120,3,1,48.0,12.0,apple
+apple iphone 14 pro,119900,84.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,128,3200.0,1,15.0,6.1,1179 x 2556 ,120,3,1,48.0,12.0,apple
+samsung galaxy s21 ultra,64700,,None,android,0,True,True,False,exynos  2100,exynos,8,2.9,12.0,256,5000.0,1,25.0,6.8,1440 x 3200 ,120,4,1,108.0,40.0,samsung
+oppo a2 pro 5g,20999,82.0,"memory card supported, upto 1 tb",android,0,True,False,True,dimensity 7050,dimensity,8,2.6,8.0,256,5000.0,1,67.0,6.7,1080 x 2412 ,120,2,1,64.0,8.0,oppo
+samsung galaxy a05s,14999,78.0,"memory card supported, upto 1 tb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,6.0,128,5000.0,1,25.0,6.7,1080 x 2400 ,60,3,1,50.0,13.0,samsung
+tecno pova 5 pro,14999,83.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6080,dimensity,8,2.4,8.0,128,5000.0,1,68.0,6.78,1080 x 2460 ,120,2,1,50.0,16.0,tecno
+samsung galaxy m34 5g (8gb ram + 128gb),18499,84.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1280,exynos,8,2.4,8.0,128,6000.0,1,25.0,6.5,1080 x 2340 ,120,3,1,50.0,13.0,samsung
+infinix note 30 5g,13999,81.0,"memory card supported, upto 2 tb",android,0,True,True,False,dimensity 6080,dimensity,8,2.4,4.0,128,5000.0,1,45.0,6.78,1080 x 2460 ,120,3,1,108.0,16.0,infinix
+poco x5 5g (8gb ram + 256gb),15249,84.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,48.0,13.0,poco
+iqoo 12,62990,89.0,None,android,0,True,True,False,snapdragon 8 gen3,qualcomm snapdragon,8,3.3,8.0,256,5000.0,1,120.0,6.82,1440 x 3200 ,144,3,1,64.0,32.0,iqoo
+oneplus 11 (16gb ram + 256gb),58100,,memory card not supported,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,16.0,256,5000.0,1,100.0,6.7,1440 x 3216 ,120,3,1,50.0,16.0,oneplus
+samsung galaxy a23 5g,19599,79.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,25.0,6.6,1080 x 2408 ,120,4,1,50.0,8.0,samsung
+nothing phone 1,28499,85.0,None,android,0,True,True,False,snapdragon 778g plus,qualcomm snapdragon,8,2.5,8.0,128,4500.0,1,33.0,6.55,1080 x 2400 ,120,2,1,50.0,16.0,nothing
+jio phone 3,4499,,"memory card supported, upto 128 gb",android,0,False,False,False,nan,nan,4,1.4,2.0,64,2800.0,0,0.0,5.0,720 x 1280 ,60,1,1,5.0,2.0,jio
+vivo v29e (8gb ram + 256gb),27995,86.0,memory card (hybrid),android,0,True,True,False,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,44.0,6.78,1080 x 2400 ,120,2,1,64.0,50.0,vivo
+xiaomi redmi note 12 (8gb ram + 256gb),19499,83.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 4 gen 1,qualcomm snapdragon,8,2.0,8.0,256,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,48.0,13.0,xiaomi
+asus rog phone 7 pro,94990,88.0,memory card not supported,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,18.0,512,6000.0,1,65.0,6.78,1080 x 2448 ,165,3,1,50.0,12.0,asus
+infinix hot 30i,8299,76.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g37,helio,8,2.3,8.0,128,5000.0,1,10.0,6.6,720 x 1612 ,90,2,1,50.0,8.0,infinix
+oneplus v flip,79990,88.0,memory card not supported,android,1,True,True,False,dimensity 9000 plus,dimensity,8,3.2,12.0,256,4500.0,1,67.0,6.78,1080 x 2520 ,120,2,1,50.0,32.0,oneplus
+vivo y56,18999,83.0,memory card (hybrid),android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,8.0,128,5000.0,1,18.0,6.58,1080 x 2408 ,60,2,1,50.0,16.0,vivo
+xiaomi redmi note 12 4g,11998,79.0,"memory card (hybrid), upto 1 tb",android,0,False,False,True,snapdragon 685,qualcomm snapdragon,8,2.8,6.0,64,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,50.0,13.0,xiaomi
+xiaomi redmi note 12 pro plus,27999,86.0,memory card not supported,android,0,True,False,True,dimensity 1080,dimensity,8,2.6,8.0,256,4980.0,1,120.0,6.67,1080 x 2400 ,120,3,1,200.0,16.0,xiaomi
+nubia red magic 8 pro 5g,46990,84.0,None,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,6000.0,1,80.0,6.8,1116 x 2480 ,120,3,1,50.0,16.0,nubia
+vivo y78 5g,15990,66.0,memory card not supported,android,0,True,False,False,dimensity 7020,dimensity,8,,8.0,128,5000.0,1,44.0,6.64,1080 x 2400 ,120,2,1,50.0,8.0,vivo
+oppo k11 5g,21990,84.0,None,android,0,True,True,True,snapdragon 782g,qualcomm snapdragon,8,2.7,8.0,256,5800.0,1,100.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,oppo
+poco m5,7999,74.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio g99,helio,8,2.2,4.0,64,5000.0,1,18.0,6.58,1080 x 2400 ,90,3,1,50.0,8.0,poco
+realme gt neo 3 5g,24795,83.0,None,android,0,True,True,False,dimensity  8100,dimensity,8,2.85,8.0,128,5000.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,realme
+apple iphone 15 pro max (1tb),199900,89.0,memory card not supported,ios,0,True,True,False,a17 pro,bionic,6,3.78,8.0,1024,4422.0,1,15.0,6.7,1290 x 2796 ,120,3,1,48.0,12.0,apple
+nokia g42 5g (8gb ram + 256gb),16999,79.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon  480+,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,20.0,6.56,720 x 1612 ,90,3,1,50.0,8.0,nokia
+realme narzo n53 (6gb ram + 128gb),10499,74.0,"memory card supported, upto 2 tb",android,0,False,False,False,unisoc t612,unisoc,8,1.8,6.0,128,5000.0,1,33.0,6.74,720 x 1600 ,90,2,1,50.0,8.0,realme
+oneplus nord ce 4 lite 5g,20990,85.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 7 gen1,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,80.0,6.74,1080 x 2400 ,120,3,1,108.0,16.0,oneplus
+samsung galaxy f14 5g,11490,68.0,"memory card supported, upto 1 tb",android,0,True,False,False,exynos 1330,exynos,8,,4.0,128,6000.0,1,25.0,6.6,2408 x 1080 ,60,2,1,50.0,13.0,samsung
+poco c55 (6gb ram + 128gb),7799,75.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio  g85,helio,8,2.0,6.0,128,5000.0,1,10.0,6.71,720 x 1650 ,60,2,1,50.0,5.0,poco
+motorola moto e13 (4gb ram + 64gb),6499,67.0,"memory card supported, upto 1 tb",android,0,False,False,False,tiger t606,tiger,8,2.0,4.0,64,5000.0,1,10.0,6.5,720 x 1600 ,60,1,1,13.0,5.0,motorola
+realme 10 pro (8gb ram + 128gb),16999,84.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,120,2,1,108.0,16.0,realme
+samsung galaxy s24,72990,80.0,None,android,0,True,True,False,snapdragon  8 gen3,qualcomm snapdragon,8,,8.0,256,4800.0,1,45.0,6.2,1800 x 3200 ,144,3,1,64.0,12.0,samsung
+oppo f21s pro,18075,82.0,"memory card supported, upto 512 gb",android,0,True,False,False,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,128,4500.0,1,33.0,6.43,1080 x 2400 ,60,3,1,64.0,16.0,oppo
+duoqin f22 pro,9990,,memory card supported,android,0,False,False,False,helio  g85,helio,8,2.0,4.0,64,2150.0,0,0.0,3.54,640 x 960 ,60,1,1,8.0,2.0,duoqin
+realme narzo 60 pro 5g,21249,82.0,None,android,0,True,False,False,dimensity 7050,dimensity,8,2.6,8.0,128,5000.0,1,67.0,6.7,1080 x 2412 ,120,2,1,100.0,16.0,realme
+motorola edge 30 ultra,54999,,None,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,4610.0,1,125.0,6.67,1080 x 2400 ,144,3,1,200.0,60.0,motorola
+honor 90 5g (12gb ram +512gb),33890,89.0,None,android,0,True,True,False,snapdragon 7 gen 1 accelerated edition,qualcomm snapdragon,8,2.36,12.0,512,5000.0,1,66.0,6.7,1200 x 2664 ,120,3,1,200.0,50.0,honor
+samsung galaxy f34 5g (8gb ram + 128gb),18499,85.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1280,exynos,8,2.4,8.0,128,6000.0,1,25.0,6.5,1080 x 2340 ,120,3,1,50.0,13.0,samsung
+realme 11 pro (8gb ram + 256gb),23984,85.0,None,android,0,True,True,False,dimensity 7050,dimensity,8,2.6,8.0,256,5000.0,1,67.0,6.7,1080 x 2412 ,120,2,1,100.0,16.0,realme
+duoqin qin 3 ultra,18990,66.0,memory card not supported,android,0,False,False,False,helio g99,helio,8,2.2,8.0,256,2500.0,1,15.0,5.02,720 x 1600 ,60,1,1,8.0,5.0,duoqin
+samsung galaxy a14 5g (6gb ram + 128gb),17599,79.0,"memory card supported, upto 1 tb",android,0,True,False,False,exynos 1330,exynos,8,2.4,6.0,128,5000.0,1,15.0,6.6,1080 x 2408 ,90,3,1,50.0,13.0,samsung
+xiaomi redmi 11 prime 5g,10399,74.0,"memory card supported, upto 512 gb",android,0,True,False,True,dimensity 700 5g,dimensity,8,2.2,4.0,64,5000.0,1,18.0,6.58,1080 x 2408 ,90,2,1,50.0,5.0,xiaomi
+google pixel 7 pro 5g,63999,89.0,None,android,0,True,True,False,google  tensor g2,google,8,2.85,12.0,128,5000.0,1,30.0,6.7,1440 x 3120 ,120,3,1,50.0,10.8,google
+apple iphone 13 (256gb),60999,79.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,4.0,256,3240.0,1,15.0,6.1,1170 x 2532 ,60,2,1,12.0,12.0,apple
+realme c51,7999,69.0,"memory card supported, upto 2 tb",android,0,False,False,False,unisoc t612,unisoc,8,1.8,4.0,64,5000.0,1,33.0,6.74,720 x 1600 ,90,2,1,50.0,5.0,realme
+samsung galaxy m16,16990,76.0,"memory card supported, upto 1 tb",android,0,True,True,False,exynos,exynos,8,,8.0,128,7000.0,1,35.0,6.73,1080 x 2408 ,120,3,1,64.0,32.0,samsung
+oppo find n3 flip,94999,,memory card not supported,android,1,True,True,False,dimensity 9200,dimensity,8,3.05,12.0,256,4300.0,1,44.0,6.8,1080 x 2520 ,120,3,1,50.0,32.0,oppo
+vivo x100 pro plus,79990,,None,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,3.3,12.0,256,5400.0,1,100.0,6.78,1440 x 3200 ,120,4,1,200.0,32.0,vivo
+samsung galaxy a54 5g (8gb ram + 256gb),37499,89.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1380,exynos,8,2.4,8.0,256,5000.0,1,25.0,6.4,1080 x 2340 ,120,3,1,50.0,32.0,samsung
+redmi k60 ultra,29990,85.0,None,android,0,True,True,True,dimensity 9200 plus,dimensity,8,3.05,12.0,256,5000.0,1,120.0,6.67,1220 x 2712 ,144,3,1,50.0,20.0,redmi
+vivo v27 (12gb ram + 256gb),36800,86.0,None,android,0,True,False,False,dimensity 7200,dimensity,8,2.8,12.0,256,4600.0,1,66.0,6.78,1080 x 2400 ,120,3,1,50.0,50.0,vivo
+motorola rizr rollable,159990,77.0,memory card not supported,android,0,True,True,False,snapdragon 8 gen3,qualcomm snapdragon,8,,12.0,512,3500.0,1,65.0,5.0,1080 x 2400 ,120,2,1,50.0,32.0,motorola
+samsung galaxy z fold 5,154999,,None,android,1,True,True,False,snapdragon 8 gen 2,qualcomm snapdragon,8,3.36,12.0,256,4400.0,1,25.0,7.6,1812 x 2176 ,120,3,2,50.0,10.0,samsung
+realme 10,10590,74.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g99,helio,8,2.2,4.0,64,5000.0,1,33.0,6.4,1080 x 2400 ,90,2,1,50.0,16.0,realme
+google pixel 8 pro,106999,81.0,None,android,0,True,True,False,tensor g3,tensor,9,3.0,12.0,128,5050.0,1,30.0,6.7,1344 x 2992 ,120,3,1,50.0,10.5,google
+xiaomi 13 pro 5g,74998,,memory card not supported,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,4820.0,1,120.0,6.73,1440 x 3200 ,120,3,1,50.0,32.0,xiaomi
+vivo x fold 5g,106990,,None,android,1,True,True,False,snapdragon 8 gen1,qualcomm snapdragon,8,3.0,12.0,256,4600.0,1,66.0,8.03,1916 x 2160 ,120,4,1,50.0,16.0,vivo
+vivo v25 pro 5g,26130,84.0,None,android,0,True,False,False,dimensity 1300,dimensity,8,3.0,8.0,128,4830.0,1,66.0,6.56,1080 x 2376 ,120,3,1,64.0,32.0,vivo
+motorola moto g60,14999,84.0,"memory card (hybrid), upto 1 tb",android,0,False,True,False,snapdragon  732g,qualcomm snapdragon,8,2.3,6.0,128,6000.0,1,20.0,6.78,1080 x 2460 ,120,3,1,108.0,32.0,motorola
+realme c2s,3499,63.0,"memory card supported, upto 128 gb",android,0,False,False,False,helio  p22,helio,8,2.0,3.0,32,4000.0,0,0.0,6.1,720 x 1560 ,60,2,1,13.0,5.0,realme
+tecno pova 5 pro 5g (8gb ram + 256gb),15999,83.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6080,dimensity,8,2.4,8.0,256,5000.0,1,68.0,6.78,1080 x 2460 ,120,2,1,50.0,16.0,tecno
+oppo a2x,12999,74.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 6020,dimensity,8,2.2,6.0,128,5000.0,1,10.0,6.56,720 x 1612 ,90,2,1,13.0,5.0,oppo
+xiaomi redmi 13 5g,12499,76.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 6 gen 1,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,33.0,6.82,1080 x 2460 ,120,2,1,64.0,8.0,xiaomi
+nubia redmagic 8s pro,45990,85.0,None,android,0,True,True,False,snapdragon 8+ gen2,qualcomm snapdragon,8,3.36,8.0,128,6000.0,1,165.0,6.8,1116 x 2480 ,120,3,1,50.0,16.0,nubia
+iqoo z7s (8gb ram + 128gb),17499,82.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,4500.0,1,44.0,6.38,1080 x 2388 ,90,2,1,64.0,16.0,iqoo
+poco f5 (12gb ram + 256gb),26999,85.0,None,android,0,True,False,True,snapdragon 7+ gen2,qualcomm snapdragon,8,2.91,12.0,256,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,poco
+tecno camon 20 pro 5g,18943,85.0,None,android,0,True,True,False,dimensity 8050,dimensity,8,3.0,8.0,128,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,64.0,32.0,tecno
+honor x50,15990,80.0,None,android,0,True,False,True,snapdragon 6 gen1,qualcomm snapdragon,8,2.2,8.0,128,5800.0,1,33.0,6.78,1220 x 2652 ,120,2,1,108.0,8.0,honor
+vivo y23,15990,72.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g85,helio,8,2.0,4.0,128,5000.0,1,18.0,6.6,720 x 1612 ,120,2,1,50.0,8.0,vivo
+vivo t2 5g (8gb ram + 128gb),19999,82.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,4500.0,1,44.0,6.38,1080 x 2400 ,90,2,1,64.0,16.0,vivo
+xiaomi redmi 12c (6gb ram + 128gb),8883,74.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio  g85,helio,8,2.0,6.0,128,5000.0,0,0.0,6.71,720 x 1650 ,60,2,1,50.0,5.0,xiaomi
+meizu 20 pro,47990,,nan,flyme 10,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,128,5000.0,1,80.0,6.81,1440 x 3200 ,120,3,1,50.0,32.0,meizu
+tecno spark 10 pro,11499,80.0,memory card supported,android,0,False,True,False,helio  g88,helio,8,2.0,8.0,128,5000.0,1,18.0,6.8,1080 x 2460 ,90,2,1,50.0,32.0,tecno
+realme gt neo 5 (240w),39999,87.0,None,android,0,True,True,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,16.0,256,4600.0,1,240.0,6.74,1240 x 2772 ,144,3,1,50.0,16.0,realme
+xiaomi redmi note 12 (6gb ram + 128gb),16924,80.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 4 gen 1,qualcomm snapdragon,8,2.0,6.0,128,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,48.0,13.0,xiaomi
+realme c55,9999,73.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g88,helio,8,2.0,4.0,64,5000.0,1,33.0,6.72,1080 x 2400 ,90,2,1,64.0,8.0,realme
+motorola moto g73,16999,84.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,dimensity 930,dimensity,8,2.2,8.0,128,5000.0,1,30.0,6.5,1080 x 2400 ,120,2,1,50.0,16.0,motorola
+nubia red magic 8 pro plus,60999,86.0,None,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,165.0,6.8,1116 x 2480 ,120,3,1,50.0,16.0,nubia
+realme gt neo 5,30999,85.0,None,android,0,True,True,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,8.0,256,5000.0,1,150.0,6.74,1240 x 2772 ,144,3,1,50.0,16.0,realme
+tesla pi phone,69999,83.0,memory card not supported,android,0,True,True,False,nan,nan,8,,16.0,512,5000.0,1,120.0,6.73,1080 x 2448 ,165,3,1,50.0,32.0,tesla
+honor x9b,28990,85.0,None,android,0,True,True,True,snapdragon 6 gen1,qualcomm snapdragon,8,2.2,12.0,256,5800.0,1,35.0,6.78,1220 x 2652 ,120,3,1,108.0,16.0,honor
+vivo y22,11599,72.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g70,helio,8,2.0,4.0,64,5000.0,1,18.0,6.55,720 x 1612 ,60,2,1,50.0,8.0,vivo
+infinix zero ultra,29999,88.0,memory card not supported,android,0,True,False,False,dimensity 920 5g,dimensity,8,2.5,8.0,256,4500.0,1,180.0,6.8,1080 x 2400 ,120,3,1,200.0,32.0,infinix
+oppo reno 9 pro 5g,39999,86.0,None,android,0,True,True,False,dimensity 8100 max,dimensity,8,2.85,16.0,256,4500.0,1,67.0,6.7,1080 x 2412 ,120,2,1,50.0,32.0,oppo
+vivo x90 pro 5g,74998,,memory card not supported,android,0,True,True,True,dimensity 9200,dimensity,8,3.05,12.0,256,4870.0,1,120.0,6.78,1260 x 2800 ,120,3,1,50.0,32.0,vivo
+gionee g13 pro,6190,,memory card supported,harmony,0,False,False,False,tiger  t310,tiger,4,2.0,4.0,32,3500.0,0,0.0,6.26,720 x 1600 ,60,2,1,13.0,5.0,gionee
+google pixel 7 5g,42999,85.0,None,android,0,True,True,False,google tensor g2,google,8,2.85,8.0,128,4355.0,1,30.0,6.3,1080 x 2400 ,90,2,1,50.0,10.8,google
+oppo reno8 5g,26999,83.0,None,android,0,True,True,False,dimensity 1300,dimensity,8,3.0,8.0,128,4500.0,1,80.0,6.43,1080 x 2400 ,90,3,1,50.0,32.0,oppo
+google pixel 6a,30999,71.0,memory card not supported,android,0,True,True,False,google  tensor,google,8,,6.0,128,4410.0,1,15.0,6.14,1080 x 2400 ,60,2,1,12.2,8.0,google
+xiaomi mi 11 lite ne 5g (8gb ram + 128gb),20890,86.0,memory card (hybrid),android,0,True,True,True,snapdragon  778g,qualcomm snapdragon,8,2.4,8.0,128,4250.0,1,33.0,6.55,1080 x 2400 ,90,3,1,64.0,20.0,xiaomi
+iqoo 7 legend,24990,84.0,None,android,0,True,True,False,snapdragon  888,qualcomm snapdragon,8,2.84,8.0,128,4000.0,1,66.0,6.62,1080 x 2400 ,120,3,1,48.0,16.0,iqoo
+apple iphone 12 (128gb),44999,75.0,memory card not supported,ios,0,True,True,False,a14,bionic,6,3.1,4.0,128,2815.0,0,0.0,6.1,1170 x 2532 ,60,2,1,12.0,12.0,apple
+realme narzo n53 (8gb ram + 128gb),11999,75.0,"memory card supported, upto 2 tb",android,0,False,False,False,unisoc t612,unisoc,8,1.8,8.0,128,5000.0,1,33.0,6.74,720 x 1600 ,90,2,1,50.0,8.0,realme
+apple iphone 15 pro max (512gb),179900,89.0,memory card not supported,ios,0,True,True,False,a17 pro,bionic,6,3.78,8.0,512,4422.0,1,15.0,6.7,1290 x 2796 ,120,3,1,48.0,12.0,apple
+oppo a38,12999,72.0,"memory card (hybrid), upto 1 tb",android,0,False,False,False,helio g85,helio,8,2.0,4.0,128,5000.0,1,33.0,6.56,720 x 1612 ,90,2,1,50.0,5.0,oppo
+samsung galaxy m44 5g,29999,86.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,8.0,256,6000.0,1,25.0,6.7,1080 x 2400 ,120,3,1,50.0,16.0,samsung
+realme narzo 60 5g (8gb ram +256gb),17749,82.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 6020,dimensity,8,2.2,8.0,256,5000.0,1,33.0,6.43,1080 x 2400 ,90,2,1,64.0,16.0,realme
+iqoo neo 7 pro (12gb ram + 256gb),35999,84.0,None,android,0,True,False,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,120.0,6.78,1080 x 2400 ,120,3,1,50.0,16.0,iqoo
+infinix hot 30 5g,11499,77.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6020,dimensity,8,2.2,4.0,128,6000.0,1,18.0,6.78,1080 x 2460 ,120,2,1,50.0,8.0,infinix
+nokia magic max,49990,89.0,None,android,0,True,True,False,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,16.0,256,5000.0,1,67.0,6.7,1080 x 2400 ,120,2,1,108.0,32.0,nokia
+xiaomi redmi k70 pro,43990,78.0,None,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,,8.0,128,5120.0,1,150.0,6.72,1440 x 3200 ,144,3,1,50.0,32.0,xiaomi
+oneplus 12r,39999,85.0,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5500.0,1,100.0,6.7,1240 x 2772 ,120,3,1,50.0,16.0,oneplus
+realme 12 pro,24990,86.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 8050,dimensity,8,3.0,8.0,128,5000.0,1,80.0,6.7,1080 x 2400 ,144,3,1,108.0,32.0,realme
+realme gt neo 5 se,23990,85.0,None,android,0,True,True,True,snapdragon 7+ gen2,qualcomm snapdragon,8,2.91,8.0,256,5500.0,1,100.0,6.74,1240 x 2772 ,144,3,1,64.0,16.0,realme
+vivo v27 pro (12gb ram + 256gb),34399,86.0,None,android,0,True,False,False,dimensity 8200,dimensity,8,3.1,12.0,256,4600.0,1,66.0,6.78,1080 x 2400 ,120,3,1,50.0,50.0,vivo
+samsung galaxy s23 ultra (12gb ram + 512gb),123590,,memory card not supported,android,0,True,True,False,snapdragon 8 gen 2,qualcomm snapdragon,8,3.36,12.0,512,5000.0,1,45.0,6.8,1440 x 3088 ,120,4,1,200.0,12.0,samsung
+vivo t3 pro,31990,86.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon  782g,qualcomm snapdragon,8,2.7,8.0,256,4700.0,1,80.0,6.67,1080 x 2408 ,120,3,1,64.0,32.0,vivo
+iqoo z6 lite (6gb ram + 128gb),13249,79.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon  4 gen 1,qualcomm snapdragon,8,2.0,6.0,128,5000.0,1,18.0,6.58,1080 x 2408 ,120,2,1,50.0,8.0,iqoo
+apple iphone 14 (256gb),66999,81.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,256,3279.0,1,15.0,6.1,1170 x 2532 ,60,2,1,12.0,12.0,apple
+oppo a17,9199,72.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g35,helio,8,2.3,4.0,64,5000.0,1,15.0,6.56,720 x 1612 ,60,2,1,50.0,5.0,oppo
+vivo y16,7999,65.0,memory card supported,android,0,False,False,False,helio p35,helio,8,2.3,3.0,32,5000.0,1,10.0,6.51,720 x 1600 ,60,2,1,13.0,5.0,vivo
+samsung galaxy m04,6499,66.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio p35,helio,8,2.3,4.0,64,5000.0,1,15.0,6.5,720 x 1600 ,60,2,1,13.0,5.0,samsung
+samsung galaxy a24,17999,79.0,"memory card supported, upto 1 tb",android,0,False,True,False,helio g99,helio,8,2.2,6.0,128,5000.0,1,25.0,6.5,1080 x 2340 ,90,3,1,50.0,13.0,samsung
+iqoo 11 5g,51999,87.0,None,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,256,5000.0,1,120.0,6.78,1440 x 3200 ,144,3,1,50.0,16.0,iqoo
+realme 10 pro plus,21999,82.0,memory card not supported,android,0,True,False,False,dimensity 1080,dimensity,8,2.6,6.0,128,5000.0,1,67.0,6.7,1080 x 2412 ,120,3,1,108.0,16.0,realme
+realme gt 2 pro 5g (12gb ram + 256gb),32990,89.0,None,android,0,True,True,False,snapdragon 8 gen1,qualcomm snapdragon,8,3.0,12.0,256,5000.0,1,65.0,6.7,1440 x 3216 ,120,3,1,50.0,32.0,realme
+samsung galaxy f23 5g (6gb ram + 128gb),15499,80.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon  750g,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,25.0,6.6,1080 x 2408 ,120,3,1,50.0,8.0,samsung
+xiaomi redmi note 11t 5g (6gb ram + 128gb),13999,81.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,dimensity  810 5g,dimensity,8,2.4,6.0,128,5000.0,1,33.0,6.6,1080 x 2400 ,90,2,1,50.0,16.0,xiaomi
+samsung galaxy a73 5g,40490,89.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 778g,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,25.0,6.7,1080 x 2400 ,120,4,1,108.0,32.0,samsung
+xiaomi mi 11x,19999,80.0,None,android,0,True,False,True,snapdragon 870,qualcomm snapdragon,8,3.2,6.0,128,4520.0,1,33.0,6.67,1080 x 2400 ,120,3,1,48.0,20.0,xiaomi
+apple iphone 9,29990,61.0,memory card not supported,ios,0,False,True,False,a13,bionic,6,2.65,3.0,64,2050.0,1,15.0,4.7,750 x 1334 ,60,1,1,12.0,7.0,apple
+samsung galaxy s23 fe 5g (8gb ram + 256gb),64999,87.0,memory card not supported,android,0,True,True,False,exynos 2200,exynos,8,2.8,8.0,256,4500.0,1,25.0,6.4,1080 x 2340 ,120,3,1,50.0,10.0,samsung
+poco m6 pro 5g (4gb ram + 128gb),11249,75.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 4 gen2,qualcomm snapdragon,8,2.2,4.0,128,5000.0,1,18.0,6.79,1080 x 2460 ,90,2,1,50.0,8.0,poco
+lava blaze pro 5g,12999,79.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 6020,dimensity,8,2.2,8.0,128,5000.0,1,33.0,6.78,1080 x 2460 ,120,2,1,50.0,8.0,lava
+asus rog phone 8 pro,99999,82.0,memory card not supported,android,0,True,True,False,snapdragon 8 gen3,qualcomm snapdragon,8,,18.0,512,6000.0,1,88.0,6.82,1080 x 2448 ,165,3,1,64.0,32.0,asus
+oppo a58 4g,13999,77.0,"memory card supported, upto 1 tb",android,0,False,True,True,helio g85,helio,8,2.0,6.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,60,2,1,50.0,8.0,oppo
+nothing phone 2 (12gb ram + 256gb),44999,89.0,None,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,4700.0,1,45.0,6.7,1080 x 2412 ,120,2,1,50.0,32.0,nothing
+motorola razr 40,49999,88.0,memory card not supported,android,1,True,True,False,snapdragon 7 gen1,qualcomm snapdragon,8,2.4,8.0,128,4200.0,1,30.0,6.9,1080 x 2640 ,144,2,1,64.0,32.0,motorola
+oppo reno 11,34990,76.0,None,android,0,True,True,False,nan,nan,8,,8.0,256,5000.0,1,150.0,6.78,1080 x 2412 ,120,3,1,64.0,32.0,oppo
+samsung galaxy a34 5g (8gb ram + 128gb),27999,86.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,dimensity 1080,dimensity,8,2.6,8.0,128,5000.0,1,25.0,6.6,1080 x 2340 ,120,3,1,48.0,13.0,samsung
+vivo v27 4g,19990,80.0,memory card supported,android,0,True,False,False,helio g85,helio,8,2.0,8.0,128,4600.0,1,66.0,6.64,1080 x 2400 ,120,3,1,50.0,16.0,vivo
+motorola moto e13,5999,64.0,"memory card supported, upto 1 tb",android,0,False,False,False,tiger t606,tiger,8,2.0,2.0,64,5000.0,1,10.0,6.5,720 x 1600 ,60,1,1,13.0,5.0,motorola
+vivo v30,33990,77.0,memory card supported,android,0,True,False,False,snapdragon  7+ gen2,qualcomm snapdragon,8,,8.0,256,5000.0,1,120.0,6.73,1080 x 2400 ,120,3,1,108.0,32.0,vivo
+xiaomi redmi k50i (8gb ram + 256gb),23999,85.0,None,android,0,True,False,True,dimensity  8100,dimensity,8,2.85,8.0,256,5080.0,1,67.0,6.6,1080 x 2460 ,144,3,1,64.0,16.0,xiaomi
+vivo x90 5g,59999,89.0,memory card not supported,android,0,True,True,True,dimensity 9200,dimensity,8,3.05,8.0,256,4810.0,1,120.0,6.78,1260 x 2800 ,120,3,1,50.0,32.0,vivo
+realme 10 pro,18999,82.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,120,2,1,108.0,16.0,realme
+vivo v25 5g,24899,83.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity  900,dimensity,8,2.0,8.0,128,4500.0,1,44.0,6.44,1080 x 2408 ,90,3,1,64.0,50.0,vivo
+motorola edge 30 fusion 5g,34999,88.0,memory card not supported,android,0,True,True,False,snapdragon 888+,qualcomm snapdragon,8,2.9,8.0,128,4400.0,1,68.0,6.55,1080 x 2400 ,144,3,1,50.0,32.0,motorola
+vivo y21 2021,10792,69.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio p35,helio,8,2.3,4.0,64,5000.0,1,18.0,6.51,720 x 1600 ,60,2,1,13.0,8.0,vivo
+samsung galaxy s22 plus 5g,59999,87.0,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,8.0,128,4500.0,1,45.0,6.6,1080 x 2340 ,120,3,1,50.0,10.0,samsung
+itel p55 5g,10199,72.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 6080,dimensity,8,2.4,4.0,64,5000.0,1,18.0,6.6,1600 x 720 ,90,2,1,50.0,8.0,itel
+xiaomi redmi 12 4g (6gb ram + 128gb),10499,77.0,"memory card (hybrid), upto 1 tb",android,0,False,False,True,helio g88,helio,8,2.0,6.0,128,5000.0,1,18.0,6.79,1080 x 2460 ,90,3,1,50.0,8.0,xiaomi
+infinix smart 7 (4gb ram + 128 gb),6699,65.0,"memory card supported, upto 2 tb",android,0,False,False,False,spreadtrum sc9863a1,spreadtrum,8,1.6,4.0,128,6000.0,0,0.0,6.6,720 x 1612 ,60,2,1,13.0,5.0,infinix
+infinix gt 10 pro plus,42999,,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 8050,dimensity,8,3.0,12.0,256,5000.0,1,260.0,6.82,1080 x 2460 ,144,3,1,200.0,32.0,infinix
+xiaomi redmi a2 (2gb ram + 64gb),5299,63.0,"memory card supported, upto 512 gb",android,0,False,False,False,helio g36,helio,8,2.2,2.0,64,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,xiaomi
+oppo a78 4g,16499,81.0,"memory card supported, upto 1 tb",android,0,False,True,False,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,67.0,6.43,1080 x 2400 ,90,2,1,50.0,8.0,oppo
+vivo y27 4g,13999,76.0,memory card supported,android,0,False,True,False,helio g85,helio,8,2.0,6.0,128,5000.0,1,44.0,6.64,1080 x 2388 ,60,2,1,50.0,8.0,vivo
+honor 90 lite,24990,82.0,None,android,0,True,False,False,dimensity 6020,dimensity,8,2.2,8.0,256,4500.0,1,35.0,6.7,1080 x 2388 ,90,3,1,100.0,16.0,honor
+itel s23,8540,75.0,"memory card supported, upto 512 gb",android,0,False,False,False,nan,nan,8,1.6,8.0,128,5000.0,1,10.0,6.6,1600 x 720 ,90,2,1,50.0,8.0,itel
+samsung galaxy a55 5g,39990,79.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1480,exynos,8,,8.0,128,5000.0,1,30.0,6.6,1080 x 2340 ,120,3,1,64.0,32.0,samsung
+infinix note 30 pro,19990,88.0,"memory card supported, upto 1 tb",android,0,False,True,False,helio g99,helio,8,2.2,8.0,256,5000.0,1,68.0,6.67,1080 x 2400 ,120,3,1,108.0,32.0,infinix
+vivo y36 4g,14999,80.0,"memory card supported, upto 1 tb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,44.0,6.64,1080 x 2388 ,90,2,1,50.0,16.0,vivo
+honor 90 pro,55990,,None,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,90.0,6.78,1224 x 2700 ,120,3,2,200.0,50.0,honor
+vivo y02t 4g,8999,64.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio p35,helio,8,2.3,4.0,64,5000.0,1,18.0,6.51,720 x 1600 ,60,1,1,8.0,5.0,vivo
+vivo y100a,21984,82.0,memory card (hybrid),android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,4500.0,1,44.0,6.38,1080 x 2400 ,90,3,1,64.0,16.0,vivo
+infinix hot 30,10999,80.0,"memory card supported, upto 1 tb",android,0,False,True,False,helio g88,helio,8,2.0,8.0,256,5000.0,1,33.0,6.78,1080 x 2460 ,90,2,1,50.0,8.0,infinix
+nubia z50 ultra,46990,88.0,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,256,5000.0,1,80.0,6.8,1116 x 2480 ,120,3,1,64.0,16.0,nubia
+samsung galaxy a14 5g (8gb ram + 128gb),18880,82.0,"memory card supported, upto 1 tb",android,0,True,False,False,exynos 1330,exynos,8,2.4,8.0,128,5000.0,1,15.0,6.6,1080 x 2408 ,90,3,1,50.0,13.0,samsung
+oppo a56s,12999,75.0,memory card supported,android,0,True,False,False,dimensity 810,dimensity,8,2.4,8.0,128,5000.0,0,0.0,6.56,720 x 1612 ,60,2,1,13.0,8.0,oppo
+xiaomi redmi note 12 pro (8gb ram + 128gb),22950,82.0,None,android,0,True,False,True,dimensity 1080,dimensity,8,2.6,8.0,128,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,50.0,16.0,xiaomi
+infinix zero 5g 2023,15999,84.0,"memory card supported, upto 256 gb",android,0,True,False,False,dimensity 920 5g,dimensity,8,2.5,8.0,128,5000.0,1,33.0,6.78,1080 x 2460 ,120,3,1,50.0,16.0,infinix
+apple iphone 14 pro max (256gb),139990,86.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,256,4323.0,1,15.0,6.7,1290 x 2796 ,120,3,1,48.0,12.0,apple
+apple iphone 14 plus (256gb),86990,82.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,256,4325.0,1,15.0,6.7,1284 x 2778 ,60,2,1,12.0,12.0,apple
+google pixel 8a,45990,72.0,memory card not supported,android,0,True,True,False,tensor g3,tensor,9,3.0,8.0,128,4700.0,1,67.0,6.1,1080 x 2400 ,90,2,1,12.2,10.1,google
+google pixel 8,75999,77.0,None,android,0,True,True,False,tensor g3,tensor,9,3.0,8.0,128,4575.0,1,30.0,6.2,1080 x 2400 ,120,2,1,50.0,10.5,google
+vivo y35,13599,79.0,"memory card supported, upto 1 tb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,44.0,6.58,1080 x 2408 ,90,3,1,50.0,16.0,vivo
+oneplus 10t,38599,85.0,None,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,4800.0,1,150.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,oneplus
+samsung galaxy a15,15990,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g99,helio,8,2.2,6.0,64,5000.0,1,15.0,6.5,720 x 1600 ,60,3,1,48.0,8.0,samsung
+motorola moto g32,10999,75.0,"memory card (hybrid), upto 1 tb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,4.0,64,5000.0,1,33.0,6.55,1080 x 2400 ,90,3,1,50.0,16.0,motorola
+xiaomi 12 pro 5g (12gb ram + 256gb),41999,89.0,None,android,0,True,True,True,snapdragon 8 gen1,qualcomm snapdragon,8,3.0,12.0,256,4600.0,1,120.0,6.73,1440 x 3200 ,120,3,1,50.0,32.0,xiaomi
+samsung galaxy a53 5g (8gb ram + 128gb),28990,89.0,"memory card supported, upto 1 tb",android,0,True,True,False,exynos 1280,exynos,8,2.4,8.0,128,5000.0,1,25.0,6.5,1080 x 2400 ,120,4,1,64.0,32.0,samsung
+xiaomi redmi note 11 (6gb ram + 128gb),13980,80.0,"memory card supported, upto 512 gb",android,0,False,False,True,snapdragon  680,qualcomm snapdragon,8,2.4,6.0,128,5000.0,1,33.0,6.43,1080 x 2400 ,90,4,1,50.0,13.0,xiaomi
+vivo v23 pro 5g,29990,85.0,memory card not supported,android,0,True,False,False,dimensity 1200,dimensity,8,3.0,8.0,128,4300.0,1,44.0,6.56,1080 x 2376 ,90,3,2,108.0,50.0,vivo
+xiaomi redmi note 11 pro max 5g,19999,83.0,"memory card supported, upto 512 gb",android,0,True,False,True,snapdragon 778g,qualcomm snapdragon,8,2.4,6.0,128,5200.0,1,33.0,6.67,1080 x 2400 ,120,4,1,108.0,32.0,xiaomi
+oneplus 10 pro 5g,50499,89.0,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,8.0,128,5000.0,1,80.0,6.7,1440 x 3216 ,120,3,1,50.0,32.0,oneplus
+lava blaze 2 5g,10999,71.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 700,dimensity,8,2.2,6.0,128,5000.0,1,18.0,6.5,720 x 1600 ,90,2,1,13.0,8.0,lava
+apple iphone 15 pro (256gb),144900,88.0,memory card not supported,ios,0,True,True,False,a17 pro,bionic,6,3.78,8.0,256,3274.0,1,15.0,6.1,1179 x 2556 ,120,3,1,48.0,12.0,apple
+blackview a200 pro,20999,84.0,"memory card (hybrid), upto 1 tb",android,0,False,True,False,helio g99,helio,8,2.2,12.0,256,5050.0,1,66.0,6.67,1080 x 2400 ,120,3,1,108.0,16.0,blackview
+realme c53 (6gb ram + 64gb),10499,76.0,"memory card supported, upto 2 tb",android,0,False,False,False,tiger t612,tiger,8,1.82,6.0,64,5000.0,1,18.0,6.74,1080 x 2400 ,90,2,1,108.0,8.0,realme
+xiaomi redmi 12c (4gb ram + 128gb),7869,72.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio  g85,helio,8,2.0,4.0,128,5000.0,0,0.0,6.71,720 x 1650 ,60,2,1,50.0,5.0,xiaomi
+realme 11 pro (12gb ram + 256gb),27399,86.0,None,android,0,True,True,False,dimensity 7050,dimensity,8,2.6,12.0,256,5000.0,1,67.0,6.7,1080 x 2412 ,120,2,1,100.0,16.0,realme
+samsung galaxy a35 5g,29990,75.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,nan,nan,8,,6.0,128,5000.0,1,25.0,6.67,1080 x 2340 ,120,3,1,50.0,16.0,samsung
+tecno spark 11,11990,79.0,memory card supported,android,0,False,True,False,helio g99,helio,8,2.2,8.0,128,5000.0,1,33.0,6.67,1080 x 2400 ,120,2,1,50.0,8.0,tecno
+xiaomi 14 ultra,74990,83.0,None,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,,12.0,256,5000.0,1,120.0,6.67,1440 x 3200 ,144,4,1,50.0,32.0,xiaomi
+xiaomi redmi note 14,13990,75.0,"memory card supported, upto 1 tb",android,0,False,False,True,helio g99,helio,8,2.2,4.0,128,6000.0,1,67.0,6.67,1080 x 2460 ,90,3,1,50.0,16.0,xiaomi
+realme 10 (8gb ram + 128gb),13999,79.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g99,helio,8,2.2,8.0,128,5000.0,1,33.0,6.4,1080 x 2400 ,90,2,1,50.0,16.0,realme
+ikall z19 pro,7304,60.0,"memory card (hybrid), upto 128 gb",android,0,False,False,False,nan,nan,4,1.6,4.0,64,5000.0,0,0.0,6.5,720 x 1600 ,60,1,1,13.0,8.0,ikall
+xiaomi redmi note 12 pro plus (12gb ram + 256gb),30999,87.0,memory card not supported,android,0,True,False,True,dimensity 1080,dimensity,8,2.6,12.0,256,4980.0,1,120.0,6.67,1080 x 2400 ,120,3,1,200.0,16.0,xiaomi
+honor x9a,27999,82.0,None,android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,256,5100.0,1,40.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,honor
+motorola moto g13,9999,75.0,"memory card supported, upto 512 gb",android,0,False,True,False,helio g85,helio,8,2.0,4.0,128,5000.0,1,10.0,6.5,720 x 1600 ,90,3,1,50.0,8.0,motorola
+iqoo z9,19990,85.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon  7+ gen2,qualcomm snapdragon,8,2.91,8.0,128,5000.0,1,45.0,6.67,1080 x 2412 ,120,3,1,64.0,16.0,iqoo
+lava blaze 5g,9999,73.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,4.0,128,5000.0,0,0.0,6.5,1600 x 720 ,90,3,1,50.0,8.0,lava
+xiaomi redmi 11 prime 5g (6gb ram + 128gb),11999,77.0,"memory card supported, upto 512 gb",android,0,True,False,True,dimensity 700 5g,dimensity,8,2.2,6.0,128,5000.0,1,18.0,6.58,1080 x 2408 ,90,2,1,50.0,5.0,xiaomi
+poco m5 (6gb ram + 128gb),9499,77.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio g99,helio,8,2.2,6.0,128,5000.0,1,18.0,6.58,1080 x 2400 ,90,3,1,50.0,8.0,poco
+nothing phone 1 (8gb ram + 256gb),29999,86.0,None,android,0,True,True,False,snapdragon 778g plus,qualcomm snapdragon,8,2.5,8.0,256,4500.0,1,33.0,6.55,1080 x 2400 ,120,2,1,50.0,16.0,nothing
+samsung galaxy s23 plus,94999,89.0,None,android,0,True,True,False,snapdragon 8 gen 2,qualcomm snapdragon,8,3.36,8.0,256,4700.0,1,45.0,6.6,1080 x 2340 ,120,3,1,50.0,12.0,samsung
+poco x6 pro 5g,19999,72.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 778g+,qualcomm snapdragon,8,,6.0,128,5000.0,1,15.0,6.67,1080 x 2400 ,120,4,1,64.0,32.0,poco
+motorola moto edge 40 lite 5g,19999,83.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,128,4020.0,1,33.0,6.28,1080 x 2408 ,120,2,1,64.0,32.0,motorola
+samsung galaxy f64 5g,24999,85.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 900,dimensity,8,2.4,6.0,128,7000.0,1,33.0,6.7,1080 x 2400 ,60,4,1,64.0,32.0,samsung
+vivo t1 44w (6gb ram + 128gb),15999,79.0,"memory card (hybrid), upto 1 tb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,6.0,128,5000.0,1,44.0,6.44,1080 x 2408 ,60,3,1,50.0,16.0,vivo
+xiaomi redmi 10 power,10299,77.0,memory card supported,android,0,False,False,True,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,6000.0,1,18.0,6.7,720 x 1650 ,60,2,1,50.0,5.0,xiaomi
+samsung galaxy f13,9199,74.0,"memory card supported, upto 1 tb",android,0,False,True,False,exynos 850,exynos,8,2.0,4.0,64,6000.0,1,15.0,6.6,2408 x 1080 ,60,3,1,50.0,8.0,samsung
+nokia c01 plus (2gb ram + 32gb),4409,,"memory card supported, upto 256 gb",android,0,False,False,False,unisoc  sc9863a,unisoc,8,1.6,2.0,32,3000.0,0,0.0,5.45,720 x 1440 ,60,1,1,5.0,5.0,nokia
+samsung galaxy m13 5g,10449,75.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 700,dimensity,8,2.2,6.0,128,5000.0,1,15.0,6.5,720 x 1600 ,90,2,1,50.0,5.0,samsung
+samsung galaxy f23 5g,14499,78.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon 750g,qualcomm snapdragon,8,2.2,4.0,128,5000.0,1,25.0,6.6,1080 x 2408 ,120,3,1,50.0,8.0,samsung
+xiaomi redmi 11 prime,9499,74.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio g99,helio,8,2.2,4.0,64,5000.0,1,18.0,6.58,1080 x 2400 ,90,3,1,50.0,8.0,xiaomi
+xiaomi redmi note 12 pro max 5g,32999,84.0,"memory card supported, upto 512 gb",android,0,True,False,True,snapdragon  7 gen1,qualcomm snapdragon,8,2.4,6.0,128,5200.0,1,210.0,6.67,1080 x 2460 ,120,4,1,108.0,32.0,xiaomi
+oneplus 10 pro 5g (12gb ram + 256gb),56999,,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,12.0,256,5000.0,1,80.0,6.7,1440 x 3216 ,120,3,1,50.0,32.0,oneplus
+sony xperia pro-i,134999,,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,12.0,512,4500.0,1,30.0,6.5,1644 x 3840 ,120,3,1,12.0,8.0,sony
+motorola edge 20 5g,23500,87.0,None,android,0,True,True,False,snapdragon  778g,qualcomm snapdragon,8,2.4,8.0,128,4000.0,1,30.0,6.7,1080 x 2460 ,144,3,1,108.0,32.0,motorola
+poco x4 pro 5g,15990,80.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,64,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,poco
+realme gt 5g,25999,85.0,None,android,0,True,True,False,snapdragon  888,qualcomm snapdragon,8,2.84,8.0,128,4500.0,1,65.0,6.43,1080 x 2400 ,120,3,1,64.0,16.0,realme
+itel a56,5490,,"memory card supported, upto 32 gb",android,0,False,False,False,nan,nan,4,1.3,1.0,16,4000.0,0,0.0,6.0,720 x 1600 ,60,2,1,8.0,5.0,itel
+samsung galaxy z flip 3,49999,83.0,memory card not supported,android,1,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,8.0,128,3300.0,1,15.0,6.7,1080 x 2640 ,120,2,1,12.0,10.0,samsung
+oppo f21 pro 5g,20999,82.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,4500.0,1,33.0,6.43,1080 x 2400 ,60,3,1,64.0,16.0,oppo
+vivo u3x,8990,71.0,None,android,0,True,False,False,snapdragon  480,qualcomm snapdragon,8,2.0,6.0,64,5000.0,1,18.0,6.58,1080 x 2408 ,90,2,1,13.0,8.0,vivo
+vivo y17s (4gb ram + 128 gb),12499,72.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g85,helio,8,2.0,4.0,128,5000.0,1,15.0,6.56,720 x 1612 ,60,2,1,50.0,8.0,vivo
+realme c51 (4gb ram + 128 gb),9458,70.0,"memory card supported, upto 2 tb",android,0,False,False,False,unisoc t612,unisoc,8,1.8,4.0,128,5000.0,1,33.0,6.74,720 x 1600 ,90,2,1,50.0,5.0,realme
+apple iphone 15 plus (256gb),99900,85.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,256,4383.0,1,15.0,6.7,1290 x 2796 ,60,2,1,48.0,12.0,apple
+vivo v30 pro,42990,85.0,None,android,0,True,False,False,dimensity  9000,dimensity,8,3.05,12.0,256,4800.0,1,100.0,6.79,1260 x 2800 ,144,3,1,64.0,50.0,vivo
+benco s1 pro,12899,79.0,"memory card supported, upto 256 gb",android,0,False,False,False,tiger  t616,tiger,8,2.0,8.0,256,5000.0,1,33.0,6.8,1080 x 2460 ,60,3,1,64.0,16.0,benco
+honor play 8t,14990,78.0,None,android,0,True,False,False,dimensity 6080,dimensity,8,2.4,8.0,256,6000.0,1,35.0,6.8,1080 x 2412 ,90,2,1,50.0,8.0,honor
+nokia 6600 max 5g,34990,85.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,7100.0,1,20.0,6.56,1200 x 2400 ,90,3,1,108.0,16.0,nokia
+nubia z50s pro,43999,88.0,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,80.0,6.78,1260 x 2800 ,120,3,1,50.0,16.0,nubia
+itel p40 plus,7999,63.0,"memory card supported, upto 1 tb",android,0,False,False,False,unisoc t606,unisoc,8,2.0,4.0,128,7000.0,1,18.0,6.8,720 x 1640 ,90,2,1,13.0,8.0,itel
+samsung galaxy a24 5g,24999,74.0,"memory card supported, upto 1 tb",android,0,True,True,False,nan,nan,8,,6.0,128,5000.0,1,25.0,6.5,1080 x 2340 ,90,3,1,50.0,13.0,samsung
+vivo y27 5g,20999,76.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6020,dimensity,8,2.2,4.0,128,5000.0,1,15.0,6.64,1080 x 2388 ,90,2,1,50.0,8.0,vivo
+samsung galaxy a76,42990,,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 7+ gen2,qualcomm snapdragon,8,2.91,8.0,128,5000.0,1,45.0,6.78,1080 x 2412 ,120,4,1,108.0,32.0,samsung
+oneplus 13 pro,70990,86.0,None,android,0,True,True,False,snapdragon  8 gen4,qualcomm snapdragon,8,,12.0,256,4800.0,1,200.0,6.78,1440 x 3412 ,165,3,1,200.0,32.0,oneplus
+vivo t3x 5g,17999,71.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity 7020,dimensity,8,,6.0,128,5000.0,1,44.0,6.67,1080 x 2408 ,120,3,1,64.0,8.0,vivo
+oneplus nord ce 4 5g,23990,84.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon  782g,qualcomm snapdragon,8,2.7,8.0,128,5000.0,1,80.0,6.73,1080 x 2412 ,120,3,1,64.0,16.0,oneplus
+xiaomi redmi note 15 pro,24990,76.0,None,android,0,True,True,True,dimensity 8020,dimensity,8,,8.0,256,5000.0,1,150.0,6.74,1080 x 2400 ,165,3,1,108.0,32.0,xiaomi
+motorola razr 40 ultra,79999,89.0,memory card not supported,android,1,True,True,False,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,8.0,256,3800.0,1,30.0,6.9,1080 x 2640 ,165,2,1,13.0,32.0,motorola
+realme 12 pro plus,35990,88.0,memory card not supported,android,0,True,False,False,dimensity 8050,dimensity,8,3.0,8.0,256,5000.0,1,15.0,6.73,1080 x 2412 ,120,3,1,200.0,32.0,realme
+realme narzo n55 (6gb ram + 128gb),10999,76.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g88,helio,8,2.0,6.0,128,5000.0,1,33.0,6.72,1080 x 2400 ,90,2,1,64.0,8.0,realme
+tecno camon 20,14390,83.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g85,helio,8,2.0,8.0,256,5000.0,1,33.0,6.67,1080 x 2400 ,60,3,1,64.0,32.0,tecno
+iqoo neo 8,28999,83.0,None,android,0,True,False,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,4880.0,1,120.0,6.78,1260 x 2800 ,144,2,1,50.0,16.0,iqoo
+infinix note 30 vip,24990,89.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 8050,dimensity,8,3.0,12.0,256,5000.0,1,68.0,6.67,1080 x 2400 ,120,3,1,108.0,32.0,infinix
+tecno spark 10,9889,78.0,memory card supported,android,0,False,True,False,helio g37,helio,8,2.3,8.0,128,5000.0,1,18.0,6.56,720 x 1612 ,90,2,1,50.0,8.0,tecno
+vivo v27e,22999,84.0,memory card supported,android,0,False,True,False,helio g99,helio,8,2.2,8.0,128,4600.0,1,66.0,6.62,1080 x 2400 ,120,3,1,64.0,32.0,vivo
+samsung galaxy s23 (8gb ram + 256gb),79999,88.0,None,android,0,True,True,False,snapdragon 8 gen 2,qualcomm snapdragon,8,3.36,8.0,256,3900.0,1,25.0,6.1,1080 x 2340 ,120,3,1,50.0,12.0,samsung
+xiaomi redmi a2,6249,61.0,"memory card supported, upto 512 gb",android,0,False,False,False,helio g36,helio,8,2.2,2.0,32,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,xiaomi
+samsung galaxy a23 5g (8gb ram + 128gb),21470,81.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,25.0,6.6,1080 x 2408 ,120,4,1,50.0,8.0,samsung
+xiaomi redmi note 12 turbo,23999,82.0,memory card not supported,android,0,True,True,True,snapdragon 7+ gen2,qualcomm snapdragon,8,2.91,8.0,256,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,xiaomi
+huawei mate 60 pro,79990,,"memory card (hybrid), upto 256 gb",hongmeng os v4.0,0,True,True,True,kirin 9000s,kirin,8,2.62,12.0,256,5000.0,1,88.0,6.82,1212 x 2616 ,120,3,2,50.0,13.0,huawei
+samsung galaxy m04 (4gb ram + 128gb),7499,68.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio p35,helio,8,2.3,4.0,128,5000.0,1,15.0,6.5,720 x 1600 ,60,2,1,13.0,5.0,samsung
+samsung galaxy z flip 5,99999,88.0,memory card not supported,android,1,True,True,False,snapdragon 8 gen 2,qualcomm snapdragon,8,3.2,8.0,256,3700.0,1,25.0,6.7,1080 x 2640 ,120,2,1,12.0,10.0,samsung
+samsung galaxy s24 plus,89990,83.0,None,android,0,True,True,False,snapdragon  8 gen3,qualcomm snapdragon,8,,12.0,256,5000.0,1,45.0,6.7,1200 x 2480 ,144,3,1,108.0,32.0,samsung
+vivo y16 (4gb ram + 64gb),10398,68.0,memory card supported,android,0,False,False,False,helio p35,helio,8,2.3,4.0,64,5000.0,1,10.0,6.51,720 x 1600 ,60,2,1,13.0,5.0,vivo
+xiaomi redmi note 11r,12990,73.0,"memory card supported, upto 512 gb",android,0,True,False,True,dimensity 700 5g,dimensity,8,2.2,4.0,128,5000.0,1,18.0,6.58,1080 x 2400 ,90,2,1,13.0,5.0,xiaomi
+realme c30s (4gb ram + 64gb),6159,62.0,"memory card supported, upto 1 tb",android,0,False,False,False,unisoc sc9863a,unisoc,8,1.6,4.0,64,5000.0,1,10.0,6.5,720 x 1600 ,60,1,1,8.0,5.0,realme
+oppo f21s pro 4g,15355,82.0,"memory card supported, upto 512 gb",android,0,False,False,False,snapdragon  680,qualcomm snapdragon,8,2.4,8.0,128,4500.0,1,33.0,6.43,1080 x 2400 ,90,3,1,64.0,32.0,oppo
+oppo find x6,54990,,None,android,0,True,True,True,dimensity 9200,dimensity,8,3.05,12.0,256,4880.0,1,80.0,6.74,1240 x 2772 ,120,3,1,50.0,32.0,oppo
+samsung galaxy a53 (8gb ram + 256gb),29994,89.0,"memory card supported, upto 1 tb",android,0,True,True,False,exynos 1280,exynos,8,2.4,8.0,256,5000.0,1,25.0,6.5,1080 x 2400 ,120,4,1,64.0,32.0,samsung
+oppo a77s,11599,76.0,memory card supported,android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,33.0,6.56,720 x 1600 ,90,2,1,50.0,8.0,oppo
+oppo find n fold,99990,,None,android,1,True,True,False,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,8.0,256,5000.0,1,67.0,7.1,1792 x 1920 ,120,3,1,64.0,32.0,oppo
+nubia red magic 7s pro,60990,86.0,None,android,0,True,True,False,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,135.0,6.8,1080 x 2400 ,120,3,1,64.0,8.0,nubia
+oppo a57 4g (4gb ram + 64 gb),11199,69.0,memory card supported,android,0,False,False,False,helio g35,helio,8,2.3,4.0,64,5000.0,1,33.0,6.56,720 x 1612 ,60,2,1,13.0,8.0,oppo
+tecno camon 19 neo,8999,77.0,None,android,0,False,True,False,helio  g85,helio,8,2.0,6.0,128,5000.0,1,18.0,6.8,1080 x 2400 ,90,3,1,48.0,32.0,tecno
+letv y1 pro,5499,,None,android,0,False,False,False,tiger t310,tiger,4,2.0,4.0,32,4000.0,0,0.0,6.54,720 x 1560 ,60,2,1,8.0,5.0,letv
+oppo find x7 pro 5g,110490,,None,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,3.3,12.0,256,5000.0,1,150.0,6.83,1440 x 3168 ,144,3,1,108.0,32.0,oppo
+motorola edge 40 pro 5g,79990,,None,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,4600.0,1,125.0,6.67,1080 x 2400 ,165,3,1,50.0,60.0,motorola
+iqoo z8 5g,19499,83.0,None,android,0,True,False,False,dimensity 8200,dimensity,8,3.1,8.0,256,5000.0,1,120.0,6.64,1080 x 2388 ,120,2,1,64.0,16.0,iqoo
+oneplus 10r 5g (12gb ram + 256gb),31999,85.0,None,android,0,True,True,False,dimensity 8100 max,dimensity,8,2.85,12.0,256,5000.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,oneplus
+xiaomi redmi 10a (4gb ram + 64gb),6799,66.0,"memory card supported, upto 512 gb",android,0,False,False,False,helio  g25,helio,8,2.0,4.0,64,5000.0,0,0.0,6.53,720 x 1600 ,60,1,1,13.0,5.0,xiaomi
+poco m4 5g,10949,75.0,"memory card supported, upto 512 gb",android,0,True,False,True,dimensity 700 5g,dimensity,8,2.2,4.0,64,5000.0,1,18.0,6.58,1080 x 2400 ,90,2,1,50.0,8.0,poco
+samsung galaxy m33 5g (8gb ram + 128gb),16999,84.0,"memory card supported, upto 1 tb",android,0,True,True,False,exynos  1280,exynos,8,2.4,8.0,128,6000.0,1,25.0,6.6,1080 x 2400 ,120,4,1,50.0,8.0,samsung
+realme 9 5g,13999,75.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity  810 5g,dimensity,8,2.4,4.0,64,5000.0,1,18.0,6.5,1080 x 2400 ,90,3,1,48.0,16.0,realme
+samsung galaxy s22 5g (8gb ram + 256gb),49999,87.0,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,8.0,256,3700.0,1,25.0,6.1,1080 x 2340 ,120,3,1,50.0,10.0,samsung
+oneplus nord ce 2 lite 5g (8gb ram + 128gb),21999,84.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,33.0,6.59,1080 x 2412 ,120,3,1,64.0,16.0,oneplus
+samsung galaxy s22 fe 5g,51999,79.0,memory card not supported,android,0,True,True,False,exynos  2300,exynos,8,,8.0,128,4200.0,1,33.0,6.4,1080 x 2400 ,120,3,1,12.0,32.0,samsung
+vivo v23 5g,26498,83.0,memory card not supported,android,0,True,False,False,dimensity  920 5g,dimensity,8,2.5,8.0,128,4200.0,1,44.0,6.44,1080 x 2400 ,90,3,2,64.0,50.0,vivo
+samsung galaxy a23,15999,79.0,"memory card supported, upto 1 tb",android,0,False,False,False,snapdragon  680,qualcomm snapdragon,8,2.4,6.0,128,5000.0,1,25.0,6.6,1080 x 2408 ,60,4,1,50.0,8.0,samsung
+samsung galaxy a33 5g,24490,82.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos  1280,exynos,8,2.4,6.0,128,5000.0,1,25.0,6.4,1080 x 2400 ,90,4,1,48.0,13.0,samsung
+xiaomi redmi note 11 pro plus 5g,19990,83.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon  695,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,108.0,16.0,xiaomi
+xiaomi redmi note 10 je 5g,10989,74.0,"memory card supported, upto 1 tb",android,0,True,False,True,snapdragon 480,qualcomm snapdragon,8,2.0,4.0,64,4800.0,1,18.0,6.5,1080 x 2400 ,90,3,1,48.0,8.0,xiaomi
+cat s22 flip,14999,,"memory card supported, upto 128 gb",android,1,False,False,False,qualcomm 215,qualcomm snapdragon,4,1.3,2.0,16,2000.0,0,0.0,4.0,480 x 640 ,60,1,1,5.0,2.0,cat
+realme gt 2 5g,31990,84.0,None,android,0,True,True,False,snapdragon  888,qualcomm snapdragon,8,2.84,8.0,128,5000.0,1,65.0,6.62,1080 x 2400 ,120,3,1,50.0,16.0,realme
+samsung galaxy s21 plus,45590,88.0,None,android,0,True,True,False,exynos 2100,exynos,8,2.9,8.0,128,4800.0,1,25.0,6.7,1080 x 2400 ,120,3,1,64.0,10.0,samsung
+itel p36,6490,,None,android,0,False,False,False,spreadtrum  sc7731e,spreadtrum,4,1.3,1.0,16,5000.0,0,0.0,6.5,1600 x 720 ,60,2,1,8.0,8.0,itel
+xiaomi mi 10t 5g,19999,80.0,None,android,0,True,True,False,snapdragon 865,qualcomm snapdragon,8,2.84,6.0,128,5000.0,1,33.0,6.67,2400 x 1080 ,144,3,1,64.0,20.0,xiaomi
+samsung galaxy note 20 ultra 5g,78198,,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 990,exynos,8,2.73,12.0,256,4500.0,1,25.0,6.9,1440 x 3088 ,120,3,1,108.0,10.0,samsung
+apple iphone 11 (128gb),40990,75.0,memory card not supported,ios,0,False,True,False,a13,bionic,6,2.65,4.0,128,3110.0,0,0.0,6.1,828 x 1792 ,60,2,1,12.0,12.0,apple
+samsung galaxy note 10 plus,53800,89.0,"memory card (hybrid), upto 1 tb",android,0,False,True,False,exynos 9825,exynos,8,2.73,12.0,256,4300.0,1,45.0,6.8,1440 x 3040 ,60,4,1,12.0,10.0,samsung
+doogee n50,15499,72.0,"memory card (hybrid), upto 1 tb",android,0,False,False,False,spreadtrum t606,spreadtrum,8,1.6,8.0,128,4200.0,1,18.0,6.52,720 x 1600 ,60,2,1,50.0,8.0,doogee
+doogee s110,29499,85.0,"memory card (hybrid), upto 2 tb",android,1,False,True,False,helio g99,helio,8,2.2,12.0,256,10800.0,1,66.0,6.58,1080 x 2400 ,120,3,1,50.0,32.0,doogee
+apple iphone 15 (256gb),89900,84.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,256,3349.0,1,15.0,6.1,1179 x 2556 ,60,2,1,48.0,12.0,apple
+infinix note 30 vip racing edition,25990,88.0,"memory card supported, upto 2 tb",android,0,True,True,False,dimensity 8050,dimensity,8,3.0,8.0,256,5000.0,1,68.0,6.67,1080 x 2400 ,120,3,1,108.0,32.0,infinix
+honor v purse,67990,87.0,memory card not supported,android,1,True,True,True,snapdragon 778g,qualcomm snapdragon,8,2.4,16.0,256,4500.0,1,35.0,7.71,2016 x 2348 ,120,2,1,50.0,8.0,honor
+motorola moto edge 50 neo,29999,78.0,None,android,0,True,True,False,dimensity 7200,dimensity,8,,12.0,256,5000.0,1,80.0,6.67,1080 x 2400 ,165,2,1,108.0,32.0,motorola
+infinix smart 9,8999,63.0,"memory card supported, upto 2 tb",android,0,False,False,False,nan,nan,8,,4.0,64,5000.0,1,18.0,6.67,720 x 1612 ,90,2,1,50.0,8.0,infinix
+ikall s2,9489,68.0,"memory card (hybrid), upto 128 gb",android,0,False,False,False,nan,nan,4,1.6,6.0,128,6000.0,0,0.0,6.8,720 x 1600 ,60,3,1,21.0,8.0,ikall
+poco c51 (6gb ram + 128 gb),7499,70.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g36,helio,8,2.2,6.0,128,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,poco
+xiaomi redmi note 12 pro (12gb ram + 256gb),23990,83.0,None,android,0,True,False,True,dimensity 1080,dimensity,8,2.6,12.0,256,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,50.0,16.0,xiaomi
+infinix note 15 pro 5g,19990,77.0,"memory card supported, upto 2 tb",android,0,True,False,False,dimensity 6100 plus,dimensity,8,,8.0,128,5000.0,1,66.0,6.8,1080 x 2400 ,144,3,1,108.0,32.0,infinix
+nothing phone 2 (12gb ram + 512gb),47999,89.0,None,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,12.0,512,4700.0,1,45.0,6.7,1080 x 2412 ,120,2,1,50.0,32.0,nothing
+realme narzo 60 pro (12gb ram + 256gb),24999,83.0,None,android,0,True,False,False,dimensity 7050,dimensity,8,2.6,12.0,256,5000.0,1,67.0,6.7,1080 x 2400 ,120,2,1,100.0,16.0,realme
+doogee s41 pro,13999,63.0,"memory card (hybrid), upto 1 tb",android,0,False,True,False,helio a22,helio,4,2.0,4.0,64,6300.0,0,0.0,5.5,1440 x 720 ,60,1,1,13.0,8.0,doogee
+nubia redmagic 8s pro plus,61999,88.0,None,android,0,True,True,False,snapdragon 8+ gen2,qualcomm snapdragon,8,3.36,16.0,256,5000.0,1,165.0,6.8,1116 x 2480 ,120,3,1,50.0,16.0,nubia
+itel a60s,5999,,"memory card supported, upto 1 tb",android,0,False,False,False,unisoc  sc9863a1,unisoc,8,,4.0,64,5000.0,1,10.0,6.6,720 x 1612 ,60,2,1,8.0,5.0,itel
+tecno camon 20 pro 5g (8gb ram + 256gb),21999,86.0,None,android,0,True,True,False,dimensity 8050,dimensity,8,3.0,8.0,256,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,64.0,32.0,tecno
+xiaomi mix fold 4,119990,87.0,None,android,1,True,True,True,snapdragon  8 gen3,qualcomm snapdragon,8,,12.0,512,5000.0,1,150.0,8.2,1914 x 2160 ,144,3,1,200.0,50.0,xiaomi
+nokia x200,24999,84.0,"memory card supported, upto 1000 gb",android,0,True,True,False,snapdragon  6 gen 1,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,33.0,6.7,1080 x 2400 ,90,3,1,50.0,32.0,nokia
+xiaomi redmi note 12t pro,18499,85.0,"memory card (hybrid), upto 1 tb",android,0,True,True,True,dimensity 8200 ultra,dimensity,8,3.1,8.0,128,5080.0,1,67.0,6.51,1080 x 2460 ,144,3,1,64.0,16.0,xiaomi
+nothing phone 3,45990,79.0,None,android,0,True,True,False,nan,nan,8,,8.0,128,5000.0,1,100.0,6.67,1080 x 2400 ,120,3,1,64.0,32.0,nothing
+oneplus nord ce 5 5g,29990,86.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon  7+ gen2,qualcomm snapdragon,8,2.91,8.0,128,5000.0,1,100.0,6.78,1080 x 2412 ,144,3,1,64.0,32.0,oneplus
+motorola edge 50 pro,89990,85.0,None,android,0,True,True,False,snapdragon 8 gen3,qualcomm snapdragon,8,,12.0,256,4600.0,1,150.0,6.72,1080 x 2400 ,165,3,1,200.0,60.0,motorola
+tecno spark 12,14990,81.0,memory card supported,android,0,False,True,False,helio g99,helio,8,2.2,8.0,128,5000.0,1,44.0,6.7,1080 x 2400 ,120,2,1,64.0,16.0,tecno
+sony xperia 1 v,125990,,memory card (hybrid),android,0,True,True,False,snapdragon  8 gen2,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,30.0,6.5,1644 x 3840 ,120,3,1,48.0,12.0,sony
+realme c56,12990,74.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g99,helio,8,2.2,4.0,64,5000.0,1,67.0,6.74,1080 x 2400 ,120,2,1,50.0,16.0,realme
+samsung galaxy m15,15990,73.0,"memory card supported, upto 1 tb",android,0,True,True,False,exynos,exynos,8,,6.0,128,6000.0,1,25.0,6.67,1080 x 2408 ,120,3,1,50.0,16.0,samsung
+vivo y100a (8gb ram + 256gb),23999,83.0,memory card (hybrid),android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,256,4500.0,1,44.0,6.38,1080 x 2400 ,90,3,1,64.0,16.0,vivo
+infinix note 30,17990,82.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio  g99,helio,8,2.2,8.0,128,5000.0,1,80.0,6.78,1080 x 2460 ,120,3,1,64.0,16.0,infinix
+xiaomi redmi note 12 4g (6gb ram + 128gb),13999,80.0,"memory card (hybrid), upto 1 tb",android,0,False,False,True,snapdragon 685,qualcomm snapdragon,8,2.8,6.0,128,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,50.0,13.0,xiaomi
+realme narzo n55,8999,73.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g88,helio,8,2.0,4.0,64,5000.0,1,33.0,6.72,1080 x 2400 ,90,2,1,64.0,8.0,realme
+realme c55 (6gb ram + 64gb),10407,75.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g88,helio,8,2.0,6.0,64,5000.0,1,33.0,6.72,1080 x 2400 ,90,2,1,64.0,8.0,realme
+iqoo neo 8 pro,38990,85.0,None,android,0,True,False,True,dimensity 9200 plus,dimensity,8,3.35,16.0,256,4880.0,1,120.0,6.78,1260 x 2800 ,144,2,1,50.0,16.0,iqoo
+oneplus ace 2v,26990,85.0,None,android,0,True,True,True,dimensity  9000,dimensity,8,3.05,12.0,256,5000.0,1,80.0,6.74,1240 x 2772 ,120,3,1,64.0,16.0,oneplus
+xiaomi 13t,56990,86.0,None,android,0,True,True,True,dimensity 8200 ultra,dimensity,8,3.1,8.0,256,5000.0,1,67.0,6.67,1220 x 2712 ,144,3,1,50.0,20.0,xiaomi
+motorola moto x50,49990,83.0,None,android,0,True,True,False,snapdragon 8+ gen2,qualcomm snapdragon,8,,12.0,256,5000.0,1,125.0,6.78,1080 x 2400 ,165,3,1,50.0,50.0,motorola
+iqoo neo 7 (12gb ram + 256gb),30999,84.0,None,android,0,True,False,True,dimensity 8200,dimensity,8,3.1,12.0,256,5000.0,1,120.0,6.78,1080 x 2400 ,120,3,1,64.0,16.0,iqoo
+infinix zero 5g 2023 turbo,17999,85.0,"memory card supported, upto 256 gb",android,0,True,False,False,dimensity 1080,dimensity,8,2.6,8.0,256,5000.0,1,33.0,6.78,1080 x 2460 ,120,3,1,50.0,16.0,infinix
+tecno phantom v fold,78499,,None,android,1,True,True,False,dimensity 9000 plus,dimensity,8,3.2,12.0,256,5000.0,1,45.0,7.85,2000 x 2296 ,120,3,2,50.0,32.0,tecno
+tecno camon 20 premier,29999,89.0,None,android,0,True,True,False,dimensity 8050,dimensity,8,3.0,8.0,512,5000.0,1,45.0,6.67,1080 x 2400 ,120,3,1,108.0,32.0,tecno
+iqoo 11 (16gb ram + 256gb),54999,89.0,None,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,16.0,256,5000.0,1,120.0,6.78,1440 x 3200 ,144,3,1,50.0,16.0,iqoo
+sony xperia ace iv,19990,80.0,"memory card (hybrid), upto 1 tb",android,0,False,True,False,snapdragon 4 gen 1,qualcomm snapdragon,8,2.0,8.0,128,5000.0,1,33.0,6.5,1080 x 2400 ,120,2,1,50.0,16.0,sony
+xiaomi mix fold 3,102990,,None,android,1,True,True,True,snapdragon  8 gen2,qualcomm snapdragon,8,3.2,12.0,256,4800.0,1,67.0,8.03,1916 x 2160 ,120,4,2,50.0,20.0,xiaomi
+realme 10 pro plus (8gb ram + 128gb),25999,84.0,memory card not supported,android,0,True,False,False,dimensity 1080,dimensity,8,2.6,8.0,128,5000.0,1,67.0,6.7,1080 x 2412 ,120,3,1,108.0,16.0,realme
+xiaomi redmi k60i,28999,85.0,None,android,0,True,False,True,dimensity  8200,dimensity,8,3.1,8.0,128,5080.0,1,120.0,6.67,1080 x 2460 ,120,3,1,50.0,32.0,xiaomi
+oppo a58,18990,76.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,6.0,128,5000.0,1,33.0,6.56,720 x 1612 ,90,2,1,50.0,8.0,oppo
+samsung galaxy a04e,8400,65.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio p35,helio,8,2.3,3.0,32,5000.0,0,0.0,6.5,720 x 1600 ,60,2,1,13.0,5.0,samsung
+infinix note 12i (2022),8999,73.0,"memory card supported, upto 512 gb",android,0,False,False,False,helio g85,helio,8,2.0,4.0,64,5000.0,1,33.0,6.7,1080 x 2400 ,60,3,1,50.0,8.0,infinix
+tecno phantom x2,32190,85.0,None,android,0,True,True,False,dimensity 9000,dimensity,8,3.05,8.0,256,5160.0,1,45.0,6.8,1080 x 2400 ,120,3,1,64.0,32.0,tecno
+vivo y22 (6gb ram + 128gb),15299,75.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g70,helio,8,2.0,6.0,128,5000.0,1,18.0,6.55,720 x 1612 ,60,2,1,50.0,8.0,vivo
+apple iphone 14 pro (256gb),124990,85.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,256,3200.0,1,15.0,6.1,1179 x 2556 ,120,3,1,48.0,12.0,apple
+oppo f22 pro,27660,83.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 6 gen 1,qualcomm snapdragon,8,2.2,8.0,128,4800.0,1,67.0,6.58,1080 x 2400 ,120,3,1,64.0,32.0,oppo
+vivo v28,28990,84.0,memory card supported,android,0,True,False,False,snapdragon 6 gen 1,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,80.0,6.7,1080 x 2400 ,120,3,1,108.0,32.0,vivo
+tecno camon 19 pro mondrian edition,13935,84.0,"memory card supported, upto 512 gb",android,0,False,True,False,helio g96,helio,8,2.05,8.0,128,5000.0,1,33.0,6.8,1080 x 2460 ,120,3,1,64.0,32.0,tecno
+honor magic v2,102999,,memory card not supported,android,1,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,16.0,256,5000.0,1,66.0,7.92,2156 x 2344 ,120,3,1,50.0,16.0,honor
+oppo a17k,8999,62.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g35,helio,8,2.3,3.0,64,5000.0,0,0.0,6.56,720 x 1612 ,60,1,1,8.0,5.0,oppo
+realme c33,8499,64.0,"memory card supported, upto 1 tb",android,0,False,False,False,unisoc t612,unisoc,8,1.8,3.0,32,5000.0,0,0.0,6.5,720 x 1600 ,60,2,1,50.0,5.0,realme
+realme 9i 5g,14990,75.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 810 5g,dimensity,8,2.4,4.0,64,5000.0,1,18.0,6.6,1080 x 2408 ,90,3,1,50.0,8.0,realme
+samsung galaxy m13 5g (4gb ram + 64gb),11445,71.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 700,dimensity,8,2.2,4.0,64,5000.0,1,15.0,6.5,720 x 1600 ,90,2,1,50.0,5.0,samsung
+oppo reno 9 pro plus,45999,86.0,None,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,16.0,256,4700.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,32.0,oppo
+nokia g11 plus,7124,71.0,"memory card supported, upto 512 gb",android,0,False,False,False,unisoc t606,unisoc,8,2.0,4.0,64,5000.0,1,10.0,6.52,720 x 1600 ,90,2,1,50.0,8.0,nokia
+oppo find n2 5g,94990,,memory card not supported,android,1,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,4520.0,1,67.0,7.1,1792 x 1920 ,120,3,2,50.0,32.0,oppo
+vivo x90 pro plus 5g,94999,,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,4700.0,1,80.0,6.78,1440 x 3200 ,120,4,1,50.3,32.0,vivo
+infinix note 13 pro,16999,80.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio  g99,helio,8,2.2,6.0,128,5000.0,1,120.0,6.91,1080 x 2460 ,60,4,1,108.0,16.0,infinix
+samsung galaxy a05,12499,74.0,memory card supported,android,0,False,False,False,helio g85,helio,8,2.0,6.0,128,5000.0,1,25.0,6.7,720 x 1600 ,60,2,1,50.0,8.0,samsung
+tecno spark 10c,9307,72.0,memory card supported,android,0,False,False,False,unisoc t606,unisoc,8,2.0,8.0,128,5000.0,1,18.0,6.6,720 x 1612 ,90,2,1,16.0,8.0,tecno
+infinix smart 7,6799,64.0,"memory card supported, upto 2 tb",android,0,False,False,False,spreadtrum sc9863a1,spreadtrum,8,1.6,4.0,64,6000.0,0,0.0,6.6,720 x 1612 ,60,2,1,13.0,5.0,infinix
+samsung galaxy f24 5g,14999,78.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon  695,qualcomm snapdragon,8,2.2,4.0,128,5000.0,1,25.0,6.6,1080 x 2408 ,120,3,1,50.0,8.0,samsung
+oppo f23 pro,19990,82.0,"memory card supported, upto 256 gb",android,0,True,False,False,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,67.0,6.72,1080 x 2400 ,90,3,1,64.0,32.0,oppo
+realme gt neo 3t,29999,79.0,None,android,0,True,False,False,snapdragon 870,qualcomm snapdragon,8,3.2,6.0,128,5000.0,1,80.0,6.62,1080 x 2400 ,120,3,1,64.0,16.0,realme
+samsung galaxy m53 5g (8gb ram + 128gb),27999,87.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity  900 5g,dimensity,8,2.4,8.0,128,5000.0,1,25.0,6.7,1080 x 2400 ,120,4,1,108.0,32.0,samsung
+honor x9 5g,16999,80.0,None,android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,4800.0,1,66.0,6.81,1080 x 2388 ,60,3,1,48.0,16.0,honor
+xiaomi redmi note 11 pro plus 5g (8gb ram + 256gb),25999,87.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,108.0,16.0,xiaomi
+realme 9 5g se,19499,80.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon  778g,qualcomm snapdragon,8,2.4,6.0,128,5000.0,1,30.0,6.6,1080 x 2412 ,144,3,1,48.0,16.0,realme
+samsung galaxy s22 ultra 5g (12gb ram + 512gb),91999,,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,12.0,512,5000.0,1,45.0,6.8,1440 x 3080 ,120,4,1,108.0,40.0,samsung
+realme narzo 60,12999,75.0,"memory card supported, upto 1 tb",android,0,False,True,False,helio  g96,helio,8,2.05,4.0,64,4500.0,1,33.0,6.59,1080 x 2460 ,90,3,1,64.0,16.0,realme
+xiaomi redmi note 11s (6gb ram + 128gb),12399,82.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio  g96,helio,8,2.05,6.0,128,5000.0,1,33.0,6.43,1080 x 2400 ,90,4,1,108.0,16.0,xiaomi
+oppo reno 8 pro 5g,37990,86.0,None,android,0,True,True,False,dimensity 8100-max,dimensity,8,2.85,12.0,256,4500.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,32.0,oppo
+vivo v23 pro 5g (12gb ram + 256gb),33899,87.0,memory card not supported,android,0,True,False,False,dimensity 1200,dimensity,8,3.0,12.0,256,4300.0,1,44.0,6.56,1080 x 2376 ,90,3,2,108.0,50.0,vivo
+xiaomi redmi note 11,11474,76.0,"memory card supported, upto 512 gb",android,0,False,False,True,snapdragon  680,qualcomm snapdragon,8,2.4,4.0,64,5000.0,1,33.0,6.43,1080 x 2400 ,90,4,1,50.0,13.0,xiaomi
+samsung galaxy z fold 4,111999,,None,android,1,True,True,False,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,4400.0,1,25.0,7.6,1812 x 2176 ,120,3,2,50.0,10.0,samsung
+samsung galaxy m33 5g,16875,81.0,"memory card supported, upto 1 tb",android,0,True,True,False,exynos  1280,exynos,8,2.4,6.0,128,6000.0,1,25.0,6.6,1080 x 2400 ,120,4,1,50.0,8.0,samsung
+samsung galaxy a53 5g,28490,87.0,"memory card supported, upto 1 tb",android,0,True,True,False,exynos 1280,exynos,8,2.4,6.0,128,5000.0,1,25.0,6.5,1080 x 2400 ,120,4,1,64.0,32.0,samsung
+vivo x80 pro 5g,68744,,memory card not supported,android,0,True,True,True,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,12.0,256,4700.0,1,80.0,6.78,1440 x 3200 ,120,4,1,50.0,32.0,vivo
+poco m4 pro 5g,13999,76.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,dimensity  810 5g,dimensity,8,2.4,4.0,64,5000.0,1,33.0,6.6,1080 x 2400 ,90,2,1,50.0,16.0,poco
+realme narzo 50 pro 5g,19499,78.0,None,android,0,True,False,False,dimensity  920 5g,dimensity,8,2.5,6.0,128,5000.0,1,33.0,6.4,1080 x 2400 ,90,3,1,48.0,16.0,realme
+motorola edge 20 fusion 5g (8gb ram + 128gb),21999,89.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,dimensity 800u,dimensity,8,2.4,8.0,128,5000.0,1,30.0,6.67,1080 x 2400 ,90,3,1,108.0,32.0,motorola
+xiaomi mi 11 lite ne 5g,19749,83.0,memory card (hybrid),android,0,True,True,True,snapdragon  778g,qualcomm snapdragon,8,2.4,6.0,128,4250.0,1,33.0,6.55,1080 x 2400 ,90,3,1,64.0,20.0,xiaomi
+apple iphone se 3 2022,43900,,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,4.0,64,2018.0,0,0.0,4.7,750 x 1334 ,60,1,1,12.0,7.0,apple
+xiaomi redmi note 10s,14999,78.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio g95,helio,8,2.05,6.0,64,5000.0,1,33.0,6.43,1080 x 2400 ,60,4,1,64.0,13.0,xiaomi
+xiaomi redmi note 10 pro max (6gb ram + 128gb),18820,82.0,"memory card supported, upto 512 gb",android,0,False,False,True,snapdragon  732g,qualcomm snapdragon,8,2.3,6.0,128,5020.0,1,33.0,6.67,1080 x 2400 ,120,4,1,108.0,16.0,xiaomi
+xiaomi mi 11x pro,24749,85.0,None,android,0,True,False,True,snapdragon 888,qualcomm snapdragon,8,2.84,8.0,128,4520.0,1,33.0,6.67,1080 x 2400 ,120,3,1,108.0,20.0,xiaomi
+samsung galaxy a82 5g,39990,86.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon 855+,qualcomm snapdragon,8,2.96,6.0,128,4500.0,1,25.0,6.71,1440 x 3200 ,120,3,1,64.0,10.0,samsung
+itel s16 pro,6990,,"memory card supported, upto 32 gb",android,0,False,False,False,nan,nan,4,1.3,2.0,32,4000.0,0,0.0,6.6,1600 x 720 ,60,3,1,8.0,8.0,itel
+apple iphone 13 pro max,129900,84.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,128,4352.0,1,15.0,6.7,1284 x 2778 ,120,3,1,12.0,12.0,apple
+samsung galaxy f41 (6gb ram + 128gb),14999,82.0,"memory card supported, upto 512 gb",android,0,False,False,False,exynos 9611,exynos,8,2.3,6.0,128,6000.0,1,15.0,6.4,1080 x 2340 ,60,3,1,64.0,32.0,samsung
+samsung galaxy s20,34999,87.0,"memory card (hybrid), upto 1 tb",android,0,False,True,False,exynos  990,exynos,8,2.73,8.0,128,4000.0,1,25.0,6.2,1440 x 3200 ,120,3,1,64.0,10.0,samsung
+motorola edge plus,49999,89.0,None,android,0,True,True,False,snapdragon  865,qualcomm snapdragon,8,2.84,12.0,256,5000.0,1,18.0,6.7,1080 x 2340 ,90,3,1,108.0,25.0,motorola
+samsung galaxy a32,19990,80.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g80,helio,8,2.0,6.0,128,5000.0,1,15.0,6.4,1080 x 2400 ,90,4,1,64.0,20.0,samsung
+samsung galaxy a72,26990,88.0,"memory card supported, upto 1 tb",android,0,False,False,False,snapdragon  720g,qualcomm snapdragon,8,2.3,8.0,128,5000.0,1,25.0,6.7,1080 x 2400 ,90,4,1,64.0,32.0,samsung
+xiaomi mi mix alpha,199990,,memory card not supported,android,0,True,False,False,snapdragon 855+,qualcomm snapdragon,8,2.96,12.0,512,4050.0,1,40.0,7.92,2088 x 2250 ,60,3,1,108.0,,xiaomi
+xiaomi poco f1 (6gb ram + 128gb),11400,78.0,"memory card (hybrid), upto 256 gb",android,0,False,False,False,snapdragon 845,qualcomm snapdragon,8,2.8,6.0,128,4000.0,1,15.0,6.18,1080 x 2246 ,60,2,1,12.0,20.0,xiaomi
+vivo t2 4g,23999,83.0,memory card (hybrid),android,0,False,True,False,helio g99,helio,8,2.2,8.0,256,4600.0,1,66.0,6.62,1080 x 2400 ,120,3,1,64.0,32.0,vivo
+cubot kingkong 8,15999,78.0,"memory card (hybrid), upto 1 tb",android,0,False,True,False,helio mt8788v,helio,8,2.0,12.0,256,10600.0,0,0.0,6.53,720 x 1612 ,60,3,1,48.0,16.0,cubot
+nubia z50s,24999,82.0,None,android,0,True,True,False,snapdragon  8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,80.0,6.67,1080 x 2400 ,144,3,1,64.0,16.0,nubia
+oppo a18 (4gb ram + 128gb),11499,65.0,memory card supported,android,0,False,False,False,helio g85,helio,8,2.0,4.0,128,5000.0,0,0.0,6.56,720 x 1612 ,60,2,1,8.0,5.0,oppo
+nubia red magic 9 pro plus 5g,69999,80.0,None,android,0,True,True,False,snapdragon 8 gen3,qualcomm snapdragon,8,,12.0,256,5000.0,1,180.0,6.82,1200 x 2700 ,144,3,1,108.0,32.0,nubia
+lava o1,6999,63.0,"memory card (hybrid), upto 256 gb",android,0,False,False,False,unisoc t606,unisoc,8,2.0,4.0,64,5000.0,1,18.0,6.56,1600 x 720 ,90,2,1,13.0,5.0,lava
+xiaomi redmi note 13r pro,17999,81.0,None,android,0,True,True,True,snapdragon 4 gen2,qualcomm snapdragon,8,2.2,12.0,256,5000.0,1,33.0,6.67,1080 x 2400 ,120,2,1,64.0,16.0,xiaomi
+huawei mate 60 rs ultimate,134990,,"memory card (hybrid), upto 256 gb",hongmeng os v4.0,0,True,True,True,kirin 9000s,kirin,8,2.62,16.0,512,5000.0,1,88.0,6.82,1260 x 2720 ,120,3,1,48.0,13.0,huawei
+infinix smart 8,7999,63.0,"memory card supported, upto 2 tb",android,0,False,False,False,unisoc t606,unisoc,8,2.0,3.0,64,5000.0,1,10.0,6.6,720 x 1612 ,60,2,1,13.0,5.0,infinix
+oppo a2m,16990,73.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6020,dimensity,8,2.2,6.0,128,5000.0,1,10.0,6.56,720 x 1612 ,90,1,1,13.0,5.0,oppo
+samsung galaxy a15 5g,17990,68.0,memory card supported,android,0,True,True,False,nan,nan,8,,4.0,64,5000.0,1,15.0,6.4,1080 x 2408 ,90,2,1,50.0,13.0,samsung
+vivo y33t 4g 2023,8499,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g85,helio,8,2.0,6.0,128,5000.0,1,15.0,6.56,720 x 1612 ,60,2,1,13.0,8.0,vivo
+samsung galaxy z fold 5 (12gb ram + 1tb),184999,,None,android,1,True,True,False,snapdragon 8 gen 2,qualcomm snapdragon,8,3.36,12.0,1024,4400.0,1,25.0,7.6,1812 x 2176 ,120,3,2,50.0,10.0,samsung
+doogee v30 pro,36990,,memory card (hybrid),android,0,True,True,False,dimensity 7050,dimensity,8,2.6,12.0,512,10800.0,1,33.0,6.58,1080 x 2408 ,60,3,1,200.0,32.0,doogee
+honor play 40c,9990,71.0,memory card (hybrid),android,0,True,False,False,snapdragon 480+,qualcomm snapdragon,8,2.2,6.0,128,5200.0,0,0.0,6.56,720 x 1612 ,90,1,1,13.0,5.0,honor
+vivo y56 5g (4gb ram + 128gb),16999,78.0,memory card (hybrid),android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,4.0,128,5000.0,1,18.0,6.58,1080 x 2408 ,60,2,1,50.0,16.0,vivo
+motorola moto g42 5g,13990,77.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon 4 gen1,qualcomm snapdragon,8,2.0,4.0,64,5000.0,1,20.0,6.47,1080 x 2400 ,60,3,1,50.0,16.0,motorola
+realme gt neo 5 pro,39999,85.0,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,256,5200.0,1,150.0,6.74,1240 x 2772 ,144,3,1,50.0,16.0,realme
+tecno phantom v flip,54999,88.0,memory card not supported,android,1,True,True,False,dimensity 8050,dimensity,8,3.0,8.0,256,4000.0,1,45.0,6.9,1080 x 2640 ,144,2,1,64.0,32.0,tecno
+vivo y36 5g,20999,83.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6020,dimensity,8,2.2,8.0,256,5000.0,1,44.0,6.64,1080 x 2388 ,90,2,1,50.0,16.0,vivo
+nokia oxygen ultra 5g,59990,,memory card supported,android,0,True,False,False,snapdragon  8 gen2,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,67.0,6.9,1400 x 3200 ,120,1,1,200.0,32.0,nokia
+oneplus 11 5g marble odyssey,60799,,memory card not supported,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,16.0,256,5000.0,1,100.0,6.7,1440 x 3216 ,120,3,1,50.0,16.0,oneplus
+oppo k11x 5g,17490,80.0,None,android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,67.0,6.72,1080 x 2400 ,120,2,1,108.0,16.0,oppo
+samsung galaxy a56,43990,80.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos,exynos,8,,8.0,128,5000.0,1,45.0,6.72,1080 x 2340 ,120,3,1,64.0,32.0,samsung
+poco f6,39990,86.0,None,android,0,True,True,False,snapdragon 8 gen1,qualcomm snapdragon,8,3.0,8.0,128,5000.0,1,80.0,6.72,1080 x 2400 ,144,3,1,64.0,32.0,poco
+motorola edge 50,55990,78.0,None,android,0,True,True,False,dimensity 9200,dimensity,8,,8.0,256,5000.0,1,80.0,6.67,1080 x 2400 ,165,3,1,64.0,32.0,motorola
+motorola moto g74,19990,86.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,dimensity 1080,dimensity,8,2.6,8.0,128,5000.0,1,44.0,6.56,1080 x 2400 ,120,2,1,64.0,32.0,motorola
+tecno spark 10 5g (8gb ram + 128gb),13098,79.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6020,dimensity,8,2.2,8.0,128,5000.0,1,18.0,6.56,720 x 1612 ,90,2,1,50.0,8.0,tecno
+xiaomi redmi note 15,15990,82.0,"memory card supported, upto 1 tb",android,0,False,False,True,dimensity 6020,dimensity,8,2.2,8.0,128,5000.0,1,80.0,6.73,1080 x 2480 ,120,3,1,64.0,32.0,xiaomi
+oneplus nord n30 5g,24990,87.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,67.0,6.72,1080 x 2400 ,120,3,1,108.0,16.0,oneplus
+vivo y16 (4gb ram + 128gb),11199,69.0,memory card supported,android,0,False,False,False,helio p35,helio,8,2.3,4.0,128,5000.0,1,10.0,6.51,720 x 1600 ,60,2,1,13.0,5.0,vivo
+vivo v29 lite,31990,81.0,memory card supported,android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,44.0,6.78,1080 x 2400 ,120,3,1,64.0,16.0,vivo
+infinix hot 30i (4gb ram+ 64gb),7499,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g37,helio,8,2.3,4.0,64,5000.0,1,10.0,6.6,720 x 1612 ,90,2,1,50.0,8.0,infinix
+tecno pova 5 4g,11999,79.0,"memory card supported, upto 512 gb",android,0,False,False,False,helio g99,helio,8,2.2,8.0,128,6000.0,1,45.0,6.78,1080 x 2460 ,120,2,1,50.0,8.0,tecno
+vivo x100 5g,59990,80.0,memory card not supported,android,0,True,True,True,dimensity 9300,dimensity,8,,8.0,128,5000.0,1,120.0,6.78,1260 x 2800 ,120,3,1,64.0,32.0,vivo
+xiaomi redmi note 14 pro plus,34990,78.0,memory card not supported,android,0,True,False,True,dimensity 8020,dimensity,8,,8.0,256,5000.0,1,150.0,6.71,1080 x 2400 ,144,3,1,200.0,32.0,xiaomi
+itel p40,6799,61.0,"memory card supported, upto 512 gb",android,0,False,False,False,spreadtrum  sc9863a,spreadtrum,8,1.6,4.0,64,6000.0,1,18.0,6.6,720 x 1612 ,60,2,1,13.0,5.0,itel
+google pixel 9 pro,94990,83.0,None,android,0,True,True,False,google  tensor g4,google,8,,12.0,256,5000.0,1,100.0,6.67,1440 x 3120 ,144,3,1,50.0,50.0,google
+asus zenfone 10,70990,89.0,None,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,4300.0,1,30.0,5.92,1080 x 2400 ,144,2,1,50.0,32.0,asus
+samsung galaxy a14 4g,12999,74.0,"memory card supported, upto 1 tb",android,0,False,False,False,exynos  850,exynos,8,2.0,4.0,64,5000.0,1,15.0,6.6,1080 x 2408 ,60,3,1,50.0,13.0,samsung
+honor x8a,18999,78.0,None,android,0,False,True,False,helio g88,helio,8,2.0,6.0,128,4500.0,1,22.0,6.7,1080 x 2388 ,90,3,1,100.0,16.0,honor
+xiaomi redmi a2 plus,7499,66.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g36,helio,8,2.2,4.0,64,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,xiaomi
+vivo y02 (2gb ram + 32gb),7799,,"memory card supported, upto 1 tb",android,0,False,False,False,helio,helio,8,,2.0,32,5000.0,1,10.0,6.51,720 x 1600 ,60,1,1,8.0,5.0,vivo
+vivo x flip,71990,89.0,memory card not supported,android,1,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,4400.0,1,44.0,6.74,1080 x 2520 ,120,2,1,50.0,32.0,vivo
+oppo find n2 flip,89999,89.0,memory card not supported,android,1,True,True,False,dimensity 9000 plus,dimensity,8,3.2,8.0,256,4300.0,1,44.0,6.8,1080 x 2520 ,120,2,1,50.0,32.0,oppo
+xiaomi redmi note 12 pro 4g,14999,81.0,memory card (hybrid),android,0,False,True,True,snapdragon 732g,qualcomm snapdragon,8,2.3,6.0,128,5000.0,1,67.0,6.67,1080 x 2400 ,120,4,1,108.0,16.0,xiaomi
+vivo y35 5g,13999,70.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,4.0,128,5000.0,1,15.0,6.51,720 x 1600 ,60,2,1,13.0,5.0,vivo
+oneplus ace 2,34999,87.0,None,android,0,True,True,False,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,100.0,6.74,1240 x 2772 ,120,3,1,50.0,16.0,oneplus
+google pixel fold,146990,,None,android,1,True,True,False,google  tensor g2,google,8,2.85,12.0,256,4821.0,1,30.0,7.6,1840 x 2208 ,120,3,2,48.0,9.5,google
+vivo y02,7137,,"memory card supported, upto 1 tb",android,0,False,False,False,helio,helio,8,,3.0,32,5000.0,1,10.0,6.51,720 x 1600 ,60,1,1,8.0,5.0,vivo
+oneplus nord 5,34999,76.0,None,android,0,True,True,False,dimensity  9200 plus,dimensity,8,,8.0,128,5000.0,1,120.0,6.57,1080 x 2400 ,120,3,1,64.0,32.0,oneplus
+honor magic 5 pro,103999,,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,512,5100.0,1,66.0,6.81,1312 x 2848 ,120,4,2,50.0,12.0,honor
+xiaomi redmi k60,29990,84.0,None,android,0,True,True,True,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,5500.0,1,67.0,6.67,1440 x 3200 ,120,3,1,64.0,16.0,xiaomi
+apple iphone 15 ultra,149900,79.0,memory card not supported,ios,0,True,True,False,a17,bionic,8,,8.0,128,4700.0,1,15.0,6.73,1290 x 2796 ,120,3,1,48.0,12.0,apple
+apple iphone 14 pro max (1tb),177999,87.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,1024,4323.0,1,15.0,6.7,1290 x 2796 ,120,3,1,48.0,12.0,apple
+poco c50,5499,,"memory card supported, upto 512 gb",android,0,False,False,False,helio a22,helio,4,2.0,2.0,32,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,poco
+motorola moto g62 (8gb ram + 128gb),16999,83.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,15.0,6.55,1080 x 2400 ,120,3,1,50.0,16.0,motorola
+tecno spark 9 (4gb ram + 64gb),6999,65.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio g37,helio,8,2.3,4.0,64,5000.0,0,0.0,6.6,720 x 1600 ,90,2,1,13.0,8.0,tecno
+nubia z50,34999,82.0,None,android,0,True,True,False,snapdragon  8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,80.0,6.67,1080 x 2400 ,144,3,1,64.0,16.0,nubia
+realme c35 (6gb ram + 128gb),13999,75.0,"memory card supported, upto 1 tb",android,0,False,False,False,tiger  t616,tiger,8,2.0,6.0,128,5000.0,1,18.0,6.6,1080 x 2408 ,90,3,1,50.0,8.0,realme
+infinix note 12 pro 5g,18999,84.0,"memory card supported, upto 2 tb",android,0,True,False,False,dimensity 810 5g,dimensity,8,2.4,8.0,128,5000.0,1,33.0,6.7,1080 x 2400 ,60,3,1,108.0,16.0,infinix
+motorola moto x30 pro,41990,,None,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,4450.0,1,125.0,6.67,1080 x 2400 ,144,3,1,200.0,60.0,motorola
+nothing phone 1 (12gb ram + 256gb),33999,87.0,None,android,0,True,True,False,snapdragon 778g plus,qualcomm snapdragon,8,2.5,12.0,256,4500.0,1,33.0,6.55,1080 x 2400 ,120,2,1,50.0,16.0,nothing
+asus rog phone 7,74999,,None,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,16.0,512,6000.0,1,65.0,6.78,1080 x 2448 ,165,3,1,50.0,32.0,asus
+tecno camon 19 pro 5g,14999,82.0,None,android,0,True,True,False,dimensity 810 5g,dimensity,8,2.4,8.0,128,5000.0,1,33.0,6.8,1080 x 2460 ,120,3,1,64.0,16.0,tecno
+vivo t2x 5g (2022),18990,80.0,None,android,0,True,False,False,dimensity 1300,dimensity,8,3.0,8.0,128,6000.0,1,44.0,6.58,1080 x 2408 ,120,2,1,50.0,16.0,vivo
+samsung galaxy m13,11199,75.0,"memory card supported, upto 1 tb",android,0,False,False,False,exynos  850,exynos,8,2.0,6.0,128,6000.0,1,15.0,6.6,1080 x 2400 ,60,3,1,50.0,8.0,samsung
+xiaomi 13t pro 5g,69999,89.0,memory card not supported,android,0,True,True,True,dimensity 9200 plus,dimensity,8,3.05,12.0,256,5000.0,1,120.0,6.67,1220 x 2712 ,144,3,1,50.0,20.0,xiaomi
+samsung galaxy m35,22999,74.0,"memory card supported, upto 1 tb",android,0,False,True,False,nan,nan,8,,8.0,128,6000.0,1,15.0,6.5,1080 x 2400 ,60,3,1,64.0,32.0,samsung
+samsung galaxy a75 5g,44999,83.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 778g+,qualcomm snapdragon,8,,8.0,128,5000.0,1,67.0,6.7,1080 x 2412 ,120,4,1,108.0,32.0,samsung
+sony xperia l5 5g,15990,73.0,"memory card (hybrid), upto 512 gb",android,0,False,True,False,helio  p35,helio,8,2.3,4.0,64,4000.0,1,15.0,6.2,720 x 1680 ,60,3,1,13.0,8.0,sony
+oppo reno 9 5g,28499,83.0,None,android,0,True,True,False,snapdragon 778g,qualcomm snapdragon,8,2.4,8.0,256,4500.0,1,67.0,6.7,1080 x 2412 ,120,2,1,64.0,32.0,oppo
+samsung galaxy a04,10990,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio p35,helio,8,2.3,4.0,64,5000.0,1,15.0,6.5,720 x 1600 ,60,2,1,50.0,5.0,samsung
+oneplus ace racing edition 5g,22990,83.0,None,android,0,True,True,False,dimensity 8100 max,dimensity,8,2.85,8.0,128,5000.0,1,15.0,6.59,1080 x 2412 ,120,3,1,64.0,16.0,oneplus
+iqoo 11 pro 5g,58990,89.0,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,256,4700.0,1,200.0,6.78,1440 x 3200 ,144,3,1,50.0,16.0,iqoo
+oneplus nord 4 5g,29999,83.0,None,android,0,True,True,False,snapdragon  7 gen1,qualcomm snapdragon,8,2.4,8.0,128,4500.0,1,80.0,6.43,1080 x 2412 ,120,3,1,50.0,32.0,oneplus
+samsung galaxy m54 5g,37999,87.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 1380,exynos,8,2.4,8.0,128,6000.0,1,25.0,6.7,1080 x 2400 ,120,3,1,108.0,32.0,samsung
+samsung galaxy f63,21999,85.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 900,dimensity,8,2.4,6.0,128,7000.0,1,33.0,6.7,1080 x 2400 ,60,4,1,64.0,32.0,samsung
+nokia n73 5g,46999,,memory card supported,android,0,True,False,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,12.0,256,6000.0,1,65.0,6.9,1400 x 3200 ,120,1,1,200.0,32.0,nokia
+motorola edge 30 5g (8gb ram + 128gb),25060,85.0,None,android,0,True,True,False,snapdragon 778g+,qualcomm snapdragon,8,2.5,8.0,128,4020.0,1,33.0,6.5,1080 x 2400 ,144,3,1,50.0,32.0,motorola
+vivo t1 pro 5g (8gb ram + 128gb),24990,84.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 778g,qualcomm snapdragon,8,2.4,8.0,128,4700.0,1,66.0,6.44,1080 x 2404 ,90,3,1,64.0,16.0,vivo
+poco m4 5g (6gb ram + 128gb),12999,79.0,"memory card supported, upto 512 gb",android,0,True,False,True,dimensity 700 5g,dimensity,8,2.2,6.0,128,5000.0,1,18.0,6.58,1080 x 2400 ,90,2,1,50.0,8.0,poco
+realme gt neo 3 5g (12gb ram + 256gb),27392,84.0,None,android,0,True,True,False,dimensity  8100,dimensity,8,2.85,12.0,256,4500.0,1,150.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,realme
+vivo t2 5g (2022),24990,85.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon  870,qualcomm snapdragon,8,3.2,8.0,128,4700.0,1,80.0,6.62,1080 x 2400 ,120,3,1,64.0,16.0,vivo
+vivo t1 44w,14490,77.0,"memory card (hybrid), upto 1 tb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,4.0,128,5000.0,1,44.0,6.44,1080 x 2408 ,60,3,1,50.0,16.0,vivo
+oppo f21 pro 4g,18999,82.0,"memory card supported, upto 256 gb",android,0,False,False,False,snapdragon  680,qualcomm snapdragon,8,2.4,8.0,128,4500.0,1,33.0,6.5,1080 x 2400 ,90,3,1,64.0,32.0,oppo
+motorola moto g82 5g,19999,83.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,30.0,6.6,1080 x 2400 ,120,3,1,50.0,16.0,motorola
+poco x4 pro 5g (8gb ram + 128gb),16999,84.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,poco
+samsung galaxy a23 (8gb ram + 128gb),15199,82.0,"memory card supported, upto 1 tb",android,0,False,False,False,snapdragon  680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,25.0,6.6,1080 x 2408 ,60,4,1,50.0,8.0,samsung
+realme gt neo 3 5g (8gb ram + 256gb),27495,83.0,None,android,0,True,True,False,dimensity  8100,dimensity,8,2.85,8.0,256,5000.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,realme
+poco f4 5g,27999,82.0,None,android,0,True,True,False,snapdragon  870,qualcomm snapdragon,8,3.2,6.0,128,4500.0,1,67.0,6.67,1080 x 2400 ,120,3,1,64.0,20.0,poco
+realme 9 5g se (8gb ram + 128gb),17999,82.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon  778g,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,30.0,6.6,1080 x 2412 ,144,3,1,48.0,16.0,realme
+honor 60 se 5g,24990,75.0,None,android,0,True,False,False,dimensity 900,dimensity,8,2.0,8.0,128,4300.0,1,66.0,6.67,1080 x 2340 ,120,3,1,64.0,16.0,honor
+xiaomi redmi note 11 (6gb ram + 64gb),11599,79.0,"memory card supported, upto 512 gb",android,0,False,False,True,snapdragon  680,qualcomm snapdragon,8,2.4,6.0,64,5000.0,1,33.0,6.43,1080 x 2400 ,90,4,1,50.0,13.0,xiaomi
+oneplus nord ce 2 lite 5g (8gb ram + 256gb),24999,85.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,33.0,6.59,1080 x 2412 ,120,3,1,64.0,16.0,oneplus
+samsung galaxy m53 5g,25999,85.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity  900 5g,dimensity,8,2.4,6.0,128,5000.0,1,25.0,6.7,1080 x 2400 ,120,4,1,108.0,32.0,samsung
+samsung galaxy a04s,11999,70.0,"memory card supported, upto 1 tb",android,0,False,False,False,exynos 850,exynos,8,2.0,4.0,64,5000.0,1,15.0,6.5,720 x 1600 ,90,3,1,50.0,5.0,samsung
+tecno pova 3,10598,74.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio g88,helio,8,2.0,4.0,64,7000.0,1,33.0,6.95,1080 x 2460 ,90,3,1,50.0,8.0,tecno
+xiaomi redmi note 12t 5g,15999,78.0,"memory card supported, upto 512 gb",android,0,True,False,True,dimensity 720,dimensity,8,2.0,6.0,64,5000.0,1,33.0,6.52,1080 x 2400 ,90,3,1,64.0,16.0,xiaomi
+xiaomi 11i hypercharge 5g (8gb ram + 128gb),21980,86.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,dimensity  920 5g,dimensity,8,2.5,8.0,128,4500.0,1,120.0,6.67,2400 x 1080 ,120,3,1,108.0,16.0,xiaomi
+vivo v23 5g (12gb ram + 256gb),28999,86.0,memory card supported,android,0,True,False,False,dimensity  920 5g,dimensity,8,2.5,12.0,256,4200.0,1,44.0,6.44,1080 x 2400 ,90,3,2,64.0,50.0,vivo
+xiaomi redmi note 11t 5g (8gb ram + 128gb),15999,83.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,dimensity  810 5g,dimensity,8,2.4,8.0,128,5000.0,1,33.0,6.6,1080 x 2400 ,90,2,1,50.0,16.0,xiaomi
+samsung galaxy a13,12990,75.0,"memory card supported, upto 1 tb",android,0,False,False,False,nan,nan,8,2.0,4.0,64,5000.0,1,25.0,6.6,1080 x 2408 ,60,4,1,50.0,8.0,samsung
+realme gt 2 fold 5g,94990,88.0,None,android,1,True,True,False,snapdragon  8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,65.0,8.0,1080 x 2460 ,120,2,1,50.0,16.0,realme
+vivo v23e 5g,21190,84.0,memory card (hybrid),android,0,True,False,False,dimensity  810 5g,dimensity,8,2.4,8.0,128,4050.0,1,44.0,6.44,1080 x 2400 ,60,3,1,50.0,44.0,vivo
+samsung galaxy a03 core,5599,,"memory card supported, upto 1 tb",android,0,False,False,False,unisoc  sc9836a,unisoc,4,1.6,2.0,32,5000.0,0,0.0,6.5,720 x 1600 ,60,1,1,8.0,5.0,samsung
+samsung galaxy z flip 4 5g,79999,88.0,memory card not supported,android,1,True,True,False,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,3700.0,1,25.0,6.7,1080 x 2640 ,120,2,1,12.0,10.0,samsung
+iqoo neo 6 se 5g,22990,83.0,memory card not supported,android,0,True,False,False,snapdragon 870,qualcomm snapdragon,8,3.2,8.0,128,4700.0,1,80.0,6.62,1080 x 2400 ,120,3,1,64.0,16.0,iqoo
+vivo y55 5g,20990,77.0,memory card supported,android,0,True,True,False,dimensity 700 5g,dimensity,8,2.2,4.0,128,5000.0,1,18.0,6.58,1080 x 2408 ,60,3,1,50.0,8.0,vivo
+vivo x80 5g,41980,86.0,memory card not supported,android,0,True,False,False,dimensity  9000,dimensity,8,3.05,8.0,128,4500.0,1,80.0,6.78,1080 x 2400 ,120,3,1,50.0,32.0,vivo
+iqoo 9 pro 5g,39990,87.0,None,android,0,True,True,False,snapdragon 8 gen1,qualcomm snapdragon,8,3.0,8.0,256,4700.0,1,120.0,6.78,1440 x 3200 ,120,3,1,50.0,16.0,iqoo
+oppo reno7 pro 5g,35900,87.0,memory card supported,android,0,True,True,False,dimensity  1200 max,dimensity,8,3.0,12.0,256,4500.0,1,65.0,6.55,1080 x 2400 ,90,3,1,50.0,32.0,oppo
+apple iphone 13 (512gb),69499,80.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,4.0,512,3240.0,1,15.0,6.1,1170 x 2532 ,60,2,1,12.0,12.0,apple
+apple iphone 14 mini,69990,70.0,memory card not supported,ios,0,False,True,False,a16,bionic,6,,6.0,128,3500.0,1,15.0,5.42,1080 x 2340 ,60,2,1,12.0,12.0,apple
+motorola moto e40,8900,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,tiger t700,tiger,8,1.8,4.0,64,5000.0,0,0.0,6.5,720 x 1600 ,90,3,1,48.0,8.0,motorola
+samsung galaxy a52s 5g (8gb ram + 128gb),30890,89.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 778g,qualcomm snapdragon,8,2.4,8.0,128,4500.0,1,25.0,6.5,1080 x 2400 ,120,4,1,64.0,32.0,samsung
+realme gt master edition 5g (8gb ram + 256gb),25999,85.0,None,android,0,True,True,False,snapdragon  778g,qualcomm snapdragon,8,2.4,8.0,256,4300.0,1,65.0,6.43,1080 x 2400 ,120,3,1,64.0,32.0,realme
+samsung galaxy a52s 5g,34990,87.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 778g,qualcomm snapdragon,8,2.4,6.0,128,4500.0,1,25.0,6.5,1080 x 2400 ,120,4,1,64.0,32.0,samsung
+oneplus nord n200,16990,75.0,memory card supported,android,0,True,True,False,snapdragon  480,qualcomm snapdragon,8,2.0,4.0,64,5000.0,1,18.0,6.49,1080 x 2400 ,90,3,1,13.0,16.0,oneplus
+realme 9 4g,16999,81.0,"memory card supported, upto 256 gb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,6.0,128,5000.0,1,33.0,6.4,1080 x 2400 ,90,3,1,108.0,16.0,realme
+vivo v21 5g,21980,85.0,memory card (hybrid),android,0,True,False,False,dimensity 800u,dimensity,8,2.4,8.0,128,4000.0,1,33.0,6.44,1080 x 2400 ,90,3,1,64.0,44.0,vivo
+oppo reno 6,26590,83.0,memory card not supported,android,0,True,True,False,dimensity 900,dimensity,8,2.0,8.0,128,4300.0,1,65.0,6.43,1080 x 2400 ,90,3,1,64.0,32.0,oppo
+xiaomi mi 11i 5g,21990,81.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,dimensity  920 5g,dimensity,8,2.5,6.0,128,5160.0,1,67.0,6.67,2400 x 1080 ,120,3,1,108.0,16.0,xiaomi
+poco x3 pro,18999,82.0,memory card (hybrid),android,0,False,False,True,snapdragon 860,qualcomm snapdragon,8,2.96,6.0,128,5160.0,1,33.0,6.67,1080 x 2400 ,120,4,1,48.0,20.0,poco
+realme 8,13990,78.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio g95,helio,8,2.0,4.0,128,5000.0,1,30.0,6.4,1080 x 2400 ,60,4,1,64.0,16.0,realme
+oneplus 9 pro,64900,88.0,memory card not supported,android,0,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,8.0,128,4500.0,1,65.0,6.7,1440 x 3216 ,120,4,1,48.0,16.0,oneplus
+oneplus 9,35880,86.0,memory card not supported,android,0,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,8.0,128,4500.0,1,15.0,6.55,1080 x 2400 ,120,3,1,50.0,16.0,oneplus
+samsung galaxy s20 fe,28035,86.0,"memory card (hybrid), upto 1 tb",android,0,False,True,False,exynos 990,exynos,8,2.73,8.0,128,4500.0,1,25.0,6.5,1080 x 2400 ,120,3,1,12.0,32.0,samsung
+samsung galaxy s21,69999,88.0,None,android,0,True,True,False,exynos  2100,exynos,8,2.9,8.0,128,4000.0,1,25.0,6.2,1080 x 2400 ,120,3,1,64.0,10.0,samsung
+htc u20 5g,15999,87.0,memory card supported,android,0,True,True,False,snapdragon 765g,qualcomm snapdragon,8,2.4,8.0,256,5000.0,1,18.0,6.8,1080 x 2400 ,60,4,1,48.0,32.0,htc
+xiaomi redmi 9a,6349,61.0,"memory card supported, upto 512 gb",android,0,False,False,False,helio g25,helio,8,2.0,2.0,32,5000.0,0,0.0,6.53,720 x 1600 ,60,1,1,13.0,5.0,xiaomi
+samsung galaxy s20 ultra 5g,99999,,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos 990,exynos,8,2.73,12.0,128,5000.0,1,45.0,6.9,1440 x 3200 ,60,4,1,108.0,40.0,samsung
+vivo u3,9990,72.0,"memory card supported, upto 256 gb",android,0,False,False,False,snapdragon  675,qualcomm snapdragon,8,2.0,4.0,64,5000.0,1,18.0,6.53,1080 x 2340 ,60,3,1,16.0,16.0,vivo
+xiaomi redmi k20 pro signature edition,480000,88.0,memory card not supported,android,0,False,True,False,snapdragon  855,qualcomm snapdragon,8,2.8,8.0,256,4000.0,1,27.0,6.39,1080 x 2340 ,60,3,1,48.0,20.0,xiaomi
+apple iphone xr2,49999,60.0,memory card not supported,ios,0,False,True,False,a13,bionic,6,,4.0,64,3060.0,1,15.0,6.1,828 x 1792 ,60,2,1,12.0,7.0,apple
+apple iphone 11 pro max,95699,77.0,memory card not supported,ios,0,False,True,False,a13,bionic,6,2.65,4.0,64,3500.0,1,18.0,6.5,1242 x 2688 ,60,3,1,12.0,12.0,apple
+samsung galaxy a40,17990,69.0,"memory card supported, upto 512 gb",android,0,False,False,False,samsung exynos 7885,exynos,8,2.2,4.0,64,3100.0,1,15.0,5.9,1080 x 2340 ,60,2,1,16.0,25.0,samsung
+xiaomi redmi note 7 pro,9799,70.0,"memory card (hybrid), upto 256 gb",android,0,False,False,True,qualcomm snapdragon 675,qualcomm snapdragon,8,2.0,4.0,64,4000.0,1,15.0,6.3,1080 x 2340 ,60,2,1,48.0,13.0,xiaomi
+google pixel 3 xl,22999,70.0,None,android,0,False,True,False,snapdragon 845,qualcomm snapdragon,8,2.8,4.0,64,3430.0,1,15.0,6.3,1440 x 2960 ,60,1,2,12.2,8.0,google
+samsung galaxy s10 plus,36499,81.0,"memory card (hybrid), upto 512 gb",android,0,False,True,False,exynos 9820,exynos,8,2.7,8.0,128,4100.0,1,15.0,6.4,1440 x 3040 ,60,3,2,16.0,10.0,samsung
+vivo v27s,24999,82.0,None,android,0,True,False,False,dimensity 7050,dimensity,8,2.6,8.0,128,5000.0,1,44.0,6.78,1080 x 2400 ,120,3,1,50.0,32.0,vivo
+oneplus ace 3v,29999,76.0,None,android,0,True,True,True,snapdragon  7 gen3,qualcomm snapdragon,8,,12.0,256,5000.0,1,80.0,6.78,1240 x 2772 ,120,3,1,64.0,16.0,oneplus
+infinix zero 30 4g,15999,85.0,None,android,0,False,True,False,helio g99,helio,8,2.2,8.0,256,5000.0,1,45.0,6.78,1080 x 2400 ,120,3,1,108.0,50.0,infinix
+google pixel 8 (8gb ram + 256 gb),82999,78.0,None,android,0,True,True,False,tensor g3,tensor,9,3.0,8.0,256,4575.0,1,30.0,6.2,1080 x 2400 ,120,2,1,50.0,10.5,google
+blackview a96,13999,79.0,None,android,0,False,True,False,helio  g99,helio,8,2.2,8.0,256,4380.0,1,18.0,6.5,1080 x 2400 ,120,2,1,48.0,16.0,blackview
+xiaomi redmi 13c,9999,72.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio  g99,helio,8,2.2,4.0,64,5000.0,1,18.0,6.74,720 x 1650 ,90,3,1,50.0,8.0,xiaomi
+blu bold n3,15990,82.0,None,android,0,True,True,False,dimensity  7050,dimensity,8,2.6,8.0,256,4700.0,1,66.0,6.78,1080 x 2400 ,120,3,1,50.0,16.0,blu
+xiaomi civi 4,34990,89.0,None,android,0,True,True,True,dimensity 9000,dimensity,8,3.05,12.0,512,4600.0,1,80.0,6.67,1080 x 2400 ,144,3,2,108.0,32.0,xiaomi
+honor x40 gt racing,20499,83.0,None,android,0,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,12.0,256,4800.0,1,66.0,6.81,1080 x 2388 ,144,3,1,50.0,16.0,honor
+honor 100 pro,59990,,None,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,5000.0,1,100.0,6.78,1224 x 2700 ,120,3,2,200.0,50.0,honor
+cubot kingkong star,25999,84.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 700,dimensity,8,2.2,12.0,256,10600.0,1,33.0,6.78,1080 x 2460 ,90,3,1,100.0,32.0,cubot
+apple iphone 15 pro (1tb),184900,89.0,memory card not supported,ios,0,True,True,False,a17 pro,bionic,6,3.78,8.0,1024,3274.0,1,15.0,6.1,1179 x 2556 ,120,3,1,48.0,12.0,apple
+apple iphone 15 plus (512gb),119900,86.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,512,4383.0,1,15.0,6.7,1290 x 2796 ,60,2,1,48.0,12.0,apple
+apple iphone 15 (512gb),109900,85.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,512,3349.0,1,15.0,6.1,1179 x 2556 ,60,2,1,48.0,12.0,apple
+lava blaze 2 pro,9445,75.0,"memory card supported, upto 256 gb",android,0,False,False,False,tiger   t616,tiger,8,2.0,8.0,128,5000.0,1,18.0,6.5,1600 x 720 ,90,3,1,50.0,8.0,lava
+ikall s2 pro,9489,63.0,"memory card (hybrid), upto 512 gb",android,0,False,False,False,nan,nan,4,,6.0,128,6000.0,0,0.0,6.8,720 x 1600 ,60,3,1,21.0,8.0,ikall
+huawei mate x5,169999,84.0,"memory card (hybrid), upto 256 gb",harmony,1,False,True,True,kirin  9000s,kirin,8,,12.0,512,5060.0,1,66.0,7.85,2224 x 2496 ,120,3,1,50.0,8.0,huawei
+realme 12x,17999,75.0,"memory card supported, upto 2 tb",android,0,True,True,False,nan,nan,8,,8.0,128,5000.0,1,67.0,6.78,1080 x 2400 ,120,2,1,108.0,16.0,realme
+huawei mate 60 pro plus,98990,,"memory card (hybrid), upto 256 gb",hongmeng os v4.0,0,True,True,True,kirin 9000s,kirin,8,2.62,16.0,512,5000.0,1,88.0,6.82,1260 x 2720 ,120,3,1,48.0,13.0,huawei
+oneplus nord n20 se (4gb ram + 128gb),15990,77.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g35,helio,8,2.3,4.0,128,5000.0,1,33.0,6.56,720 x 1612 ,60,2,1,50.0,8.0,oneplus
+oneplus ace 3,39999,85.0,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5500.0,1,100.0,6.74,1240 x 2772 ,120,3,1,50.0,16.0,oneplus
+motorola moto g86,24999,86.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity 8200,dimensity,8,3.1,8.0,256,5000.0,1,68.0,6.56,1080 x 2400 ,120,3,1,50.0,32.0,motorola
+tecno camon 20 avocado art edition,14903,83.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g85,helio,8,2.0,8.0,256,5000.0,1,33.0,6.67,1080 x 2400 ,60,3,1,64.0,32.0,tecno
+itel a05s,6499,,"memory card supported, upto 1 tb",android,0,False,False,False,unisoc sc9863a,unisoc,8,1.6,2.0,32,4000.0,0,0.0,6.6,720 x 1612 ,60,1,1,5.0,5.0,itel
+motorola moto g55,29999,86.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon  7+ gen2,qualcomm snapdragon,8,2.91,12.0,256,5000.0,1,30.0,6.55,1080 x 2400 ,120,2,1,50.0,32.0,motorola
+xiaomi redmi a2 plus ( 4gb ram + 128gb),7927,67.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g36,helio,8,2.2,4.0,128,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,xiaomi
+lava blaze 5g (8gb ram + 128gb),11999,77.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,8.0,128,5000.0,0,0.0,6.5,1600 x 720 ,90,3,1,50.0,8.0,lava
+xiaomi redmi 13 4g,10999,75.0,"memory card (hybrid), upto 1 tb",android,0,False,False,True,helio g99,helio,8,2.2,4.0,128,5000.0,1,33.0,6.8,1080 x 2460 ,120,3,1,64.0,8.0,xiaomi
+honor play 50 plus,13999,81.0,memory card (hybrid),android,0,True,False,False,dimensity 6020,dimensity,8,2.2,8.0,256,6000.0,1,35.0,6.8,1080 x 2412 ,90,2,1,50.0,8.0,honor
+vivo y77t,16999,78.0,memory card not supported,android,0,True,False,False,dimensity 7020,dimensity,8,2.2,8.0,256,5000.0,1,44.0,6.64,1080 x 2388 ,120,2,1,50.0,8.0,vivo
+samsung galaxy z fold 5 (12gb ram + 512gb),164999,,None,android,1,True,True,False,snapdragon 8 gen 2,qualcomm snapdragon,8,3.36,12.0,512,4400.0,1,25.0,7.6,1812 x 2176 ,120,3,2,50.0,10.0,samsung
+motorola moto g15,12990,79.0,"memory card supported, upto 1 tb",android,0,False,True,False,helio g85,helio,8,2.0,6.0,128,5000.0,1,33.0,6.56,1080 x 1920 ,90,2,1,64.0,16.0,motorola
+honor magic 6,80999,,None,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,3.3,12.0,256,5100.0,1,66.0,6.74,1224 x 2688 ,144,4,1,100.0,12.0,honor
+infinix hot 40 5g,16999,76.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6100 plus,dimensity,8,,8.0,128,6000.0,1,33.0,6.78,1080 x 2460 ,120,2,1,64.0,16.0,infinix
+honor x6a,12990,73.0,memory card (hybrid),android,0,False,True,False,helio g36,helio,8,2.2,4.0,128,5200.0,1,22.0,6.56,720 x 1612 ,90,3,1,50.0,5.0,honor
+ikall s1 plus,9489,66.0,"memory card (hybrid), upto 128 gb",android,0,False,False,False,unisoc,unisoc,4,1.6,6.0,128,6000.0,0,0.0,6.8,720 x 1600 ,60,3,1,13.0,8.0,ikall
+ikall k333 plus,3420,,"memory card supported, upto 128 gb",android,0,False,False,False,nan,nan,4,1.3,2.0,16,3000.0,0,0.0,2.8,240 x 360 ,60,1,1,2.0,2.0,ikall
+samsung galaxy z fold 6,179990,85.0,None,android,1,True,True,False,snapdragon  8 gen3,qualcomm snapdragon,8,,12.0,256,5000.0,1,65.0,8.0,1812 x 2176 ,144,3,2,50.0,12.0,samsung
+xiaomi redmi note 12r,11990,75.0,memory card (hybrid),android,0,True,True,True,snapdragon 4 gen2,qualcomm snapdragon,8,2.2,4.0,128,5000.0,1,18.0,6.79,1080 x 2460 ,90,2,1,50.0,5.0,xiaomi
+fairphone 5,63990,,memory card supported,android,0,True,True,False,snapdragon qcm6490,qualcomm snapdragon,8,2.7,8.0,256,4200.0,1,30.0,6.46,1224 x 2700 ,90,3,1,50.0,50.0,fairphone
+meizu 21,49990,81.0,nan,flyme 10,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,,12.0,128,5000.0,1,80.0,6.81,1440 x 3200 ,120,3,1,50.0,32.0,meizu
+nubia neo,15990,80.0,memory card (hybrid),android,0,True,True,False,unisoc t820,unisoc,8,2.7,8.0,256,4500.0,0,0.0,6.6,1080 x 2408 ,120,2,1,50.0,8.0,nubia
+unihertz jelly star,11500,71.0,memory card (hybrid),android,0,False,True,False,helio g99,helio,8,2.2,8.0,256,2000.0,0,0.0,3.03,480 x 854 ,60,1,1,48.0,8.0,unihertz
+sony xperia pro-i ii,139990,,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,512,4700.0,1,66.0,6.67,1644 x 3840 ,120,3,1,50.0,12.0,sony
+samsung galaxy f44,24990,75.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos,exynos,8,,8.0,128,5000.0,1,25.0,6.67,1080 x 2408 ,120,3,1,64.0,1.0,samsung
+nokia c32 (4gb ram + 128 gb),8799,69.0,"memory card supported, upto 256 gb",android,0,False,False,False,unisoc sc9863a,unisoc,8,1.6,4.0,128,5000.0,0,0.0,6.52,720 x 1600 ,60,2,1,50.0,8.0,nokia
+motorola razr 50 ultra,89990,,memory card not supported,android,1,True,True,False,snapdragon  8 gen2,qualcomm snapdragon,8,3.2,12.0,256,4200.0,1,44.0,6.9,1080 x 2640 ,165,3,1,50.0,32.0,motorola
+xiaomi redmi k70 ultra,49990,81.0,None,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,,8.0,128,5000.0,1,150.0,6.72,1440 x 3200 ,144,3,1,200.0,32.0,xiaomi
+cubot kingkong 9,24990,87.0,memory card (hybrid),android,1,False,True,False,helio g99,helio,8,2.2,12.0,256,10600.0,1,33.0,6.58,1080 x 2408 ,120,3,1,100.0,32.0,cubot
+nokia c12 pro (4gb ram + 64gb),7099,60.0,memory card supported,android,0,False,False,False,unisoc sc9863a1,unisoc,8,1.6,4.0,64,4000.0,0,0.0,6.3,720 x 1600 ,60,1,1,8.0,5.0,nokia
+xiaomi redmi k70,39990,88.0,None,android,0,True,True,True,snapdragon  8 gen3,qualcomm snapdragon,8,3.3,8.0,256,5500.0,1,90.0,6.73,1440 x 3200 ,144,3,1,108.0,32.0,xiaomi
+tecno pova 6,18990,69.0,"memory card supported, upto 1 tb",android,0,False,False,False,dimensity 6080,dimensity,8,,8.0,128,6000.0,1,33.0,6.8,1080 x 2400 ,120,2,1,64.0,16.0,tecno
+oneplus 11t,59990,89.0,memory card not supported,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,120.0,6.7,1440 x 3216 ,120,3,1,64.0,32.0,oneplus
+samsung galaxy s24 fe,59999,88.0,memory card not supported,android,0,True,True,False,snapdragon  8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,15.0,6.58,1080 x 2400 ,120,4,1,108.0,32.0,samsung
+oneplus 13,64990,83.0,memory card not supported,android,0,True,True,False,snapdragon 8 gen4,qualcomm snapdragon,8,,12.0,256,5000.0,1,150.0,6.82,1440 x 3420 ,165,3,1,200.0,32.0,oneplus
+iqoo neo 9 pro,43990,88.0,None,android,0,True,False,True,dimensity 9200,dimensity,8,3.05,12.0,256,5000.0,1,150.0,6.8,1080 x 2400 ,144,3,1,108.0,32.0,iqoo
+xiaomi redmi k80,34990,77.0,None,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,,8.0,128,5000.0,1,120.0,6.78,1440 x 3200 ,120,3,1,64.0,32.0,xiaomi
+vivo s18 pro,54990,89.0,None,android,0,True,True,False,dimensity 9200,dimensity,8,3.05,12.0,256,5000.0,1,150.0,6.82,1080 x 2400 ,144,3,1,200.0,32.0,vivo
+vivo x110 pro plus,99990,89.0,None,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,,12.0,256,4870.0,1,200.0,6.82,1440 x 3200 ,165,4,1,200.0,60.0,vivo
+samsung galaxy m56,34990,79.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,nan,nan,8,,8.0,128,5000.0,1,50.0,6.82,1080 x 2400 ,120,4,1,108.0,32.0,samsung
+xiaomi 15 pro,69990,88.0,memory card not supported,android,0,True,True,True,snapdragon 8 gen3,qualcomm snapdragon,8,,12.0,256,4820.0,1,200.0,6.78,1440 x 3200 ,165,3,1,200.0,60.0,xiaomi
+vivo y18,14990,74.0,memory card supported,android,0,False,False,False,helio g99,helio,8,2.2,4.0,64,5000.0,1,33.0,6.58,1200 x 2400 ,120,2,1,50.0,16.0,vivo
+infinix note 14 pro 5g,17990,85.0,"memory card supported, upto 2 tb",android,0,True,False,False,dimensity 6020,dimensity,8,2.2,8.0,128,5000.0,1,44.0,6.78,1080 x 2400 ,120,3,1,108.0,32.0,infinix
+samsung galaxy f32,19990,75.0,"memory card supported, upto 1 tb",android,0,True,True,False,nan,nan,8,,8.0,128,5000.0,1,25.0,6.67,1080 x 2408 ,120,2,1,50.0,16.0,samsung
+poco f6 pro,40990,87.0,None,android,0,True,True,True,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,5500.0,1,120.0,6.72,1440 x 3200 ,144,3,1,108.0,32.0,poco
+vivo x90s,44990,88.0,memory card not supported,android,0,True,True,True,dimensity  9200 plus,dimensity,8,3.05,8.0,256,4810.0,1,120.0,6.78,1260 x 2800 ,120,3,1,50.0,32.0,vivo
+lava agni 3 5g,24990,76.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity  7200,dimensity,8,,8.0,128,5000.0,1,67.0,6.67,1080 x 2460 ,120,3,1,64.0,32.0,lava
+tecno spark 10 5g (8gb ram + 256gb),14999,80.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6020,dimensity,8,2.2,8.0,256,5000.0,1,18.0,6.56,720 x 1612 ,90,2,1,50.0,8.0,tecno
+huawei nova 11i,23999,80.0,nan,harmony,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,40.0,6.8,1080 x 2388 ,90,2,1,48.0,16.0,huawei
+xiaomi redmi note 12r pro,19990,80.0,nan,android,0,True,True,True,snapdragon 4 gen1,qualcomm snapdragon,8,2.0,12.0,256,5000.0,1,33.0,6.67,1080 x 2400 ,120,2,1,48.0,8.0,xiaomi
+vivo x90 (12gb ram + 256gb),63999,89.0,memory card not supported,android,0,True,True,True,dimensity 9200,dimensity,8,3.05,12.0,256,4810.0,1,120.0,6.78,1260 x 2800 ,120,3,1,50.0,32.0,vivo
+motorola moto g63 5g,16990,74.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,nan,nan,8,,6.0,128,5000.0,1,33.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,motorola
+gionee g14 pro,7990,,memory card supported,harmony,0,False,False,False,tiger  t610,tiger,8,1.8,4.0,64,4000.0,0,0.0,6.67,720 x 1600 ,60,2,1,13.0,8.0,gionee
+infinix smart 7 hd,5999,61.0,"memory card supported, upto 1 tb",android,0,False,False,False,spreadtrum sc9863a1,spreadtrum,8,1.6,2.0,64,5000.0,1,10.0,6.6,720 x 1612 ,60,2,1,8.0,5.0,infinix
+xiaomi redmi note 15 pro plus,35990,79.0,memory card not supported,android,0,True,False,True,dimensity 8020,dimensity,8,,8.0,256,5000.0,1,240.0,6.78,1080 x 2400 ,165,3,1,200.0,60.0,xiaomi
+vivo y22 (4gb ram + 128gb),13165,73.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g70,helio,8,2.0,4.0,128,5000.0,1,18.0,6.55,720 x 1612 ,60,2,1,50.0,8.0,vivo
+tecno spark go 2023 (4gb ram + 64gb),7382,65.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio a22,helio,4,2.0,4.0,64,5000.0,1,10.0,6.56,720 x 1600 ,60,2,1,13.0,5.0,tecno
+motorola moto s40,34990,71.0,None,android,0,True,False,False,dimensity  8020,dimensity,8,,6.0,128,4600.0,1,67.0,6.58,1080 x 2460 ,120,3,1,50.0,16.0,motorola
+meizu 20 infinity unbound edition,49999,89.0,nan,flyme 10,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,12.0,256,4800.0,1,65.0,6.79,1368 x 3192 ,120,3,1,50.0,32.0,meizu
+lava blaze 2 4g,8944,70.0,"memory card supported, upto 1 tb",android,0,False,False,False,tiger  t616,tiger,8,2.0,6.0,128,5000.0,1,18.0,6.5,720 x 1600 ,90,2,1,13.0,8.0,lava
+oneplus 11 jupiter rock edition,64990,,memory card not supported,android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,16.0,256,5000.0,1,100.0,6.7,1440 x 3216 ,120,3,1,50.0,16.0,oneplus
+oppo f24 4g,17990,70.0,"memory card supported, upto 512 gb",android,0,False,False,False,snapdragon  685,qualcomm snapdragon,8,,6.0,64,5000.0,1,33.0,6.41,1080 x 2400 ,90,3,1,50.0,16.0,oppo
+vivo y57,18990,82.0,memory card (hybrid),android,0,True,False,False,dimensity 6020,dimensity,8,2.2,8.0,128,5000.0,1,33.0,6.6,1080 x 2408 ,60,2,1,50.0,16.0,vivo
+oppo a98 5g,24990,82.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,67.0,6.72,1080 x 2400 ,120,3,1,64.0,32.0,oppo
+realme c33 2023 (4gb ram + 128gb),8399,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,unisoc t612,unisoc,8,1.8,4.0,128,5000.0,1,10.0,6.5,720 x 1600 ,60,2,1,50.0,5.0,realme
+itel a60,5699,,"memory card supported, upto 128 gb",android,0,False,False,False,unisoc  sc9832e,unisoc,4,,2.0,32,5000.0,0,0.0,6.6,720 x 1612 ,60,2,1,8.0,5.0,itel
+tecno phantom x3 pro,54990,80.0,None,android,0,True,True,False,dimensity 9200 plus,dimensity,8,,12.0,256,5500.0,1,67.0,6.82,1080 x 2400 ,144,3,1,50.0,32.0,tecno
+tecno phantom x3,49990,86.0,None,android,0,True,True,False,dimensity 9200,dimensity,8,3.05,12.0,256,5500.0,1,67.0,6.82,1080 x 2400 ,144,3,1,50.0,32.0,tecno
+tecno spark 10 5g,12275,74.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 6020,dimensity,8,2.2,4.0,64,5000.0,1,18.0,6.56,720 x 1612 ,90,2,1,50.0,8.0,tecno
+sony xperia 5v,88990,88.0,memory card (hybrid),android,0,True,True,False,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,30.0,6.1,1080 x 2520 ,120,2,1,48.0,12.0,sony
+vivo v27 pro (8gb ram + 256gb),35990,85.0,None,android,0,True,False,False,dimensity 8200,dimensity,8,3.1,8.0,256,4600.0,1,66.0,6.78,1080 x 2400 ,120,3,1,50.0,50.0,vivo
+nokia c32,8499,68.0,"memory card supported, upto 256 gb",android,0,False,False,False,unisoc sc9863a,unisoc,8,1.6,4.0,64,5000.0,0,0.0,6.52,720 x 1600 ,60,2,1,50.0,8.0,nokia
+lava yuva 2 pro,7818,65.0,"memory card (hybrid), upto 256 gb",android,0,False,False,False,helio g37,helio,8,2.3,4.0,64,5000.0,1,10.0,6.5,1600 x 720 ,60,3,1,13.0,5.0,lava
+vivo s17,28990,84.0,None,android,0,True,True,False,snapdragon 778g plus,qualcomm snapdragon,8,2.5,8.0,256,4600.0,1,80.0,6.78,1260 x 2800 ,120,2,1,50.0,50.0,vivo
+lava blaze 5g (6gb ram + 128gb),10999,75.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,6.0,128,5000.0,0,0.0,6.5,1600 x 720 ,90,3,1,50.0,8.0,lava
+samsung galaxy a16,16990,69.0,"memory card supported, upto 1 tb",android,0,True,False,False,exynos,exynos,8,,4.0,128,5000.0,1,25.0,6.67,1080 x 2408 ,120,3,1,50.0,16.0,samsung
+tecno pop 7 pro,5599,61.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio a22,helio,4,2.0,2.0,64,5000.0,1,10.0,6.56,720 x 1612 ,60,2,1,12.0,5.0,tecno
+tecno spark go 2023,6596,62.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio a22,helio,4,2.0,3.0,32,5000.0,1,10.0,6.56,720 x 1600 ,60,2,1,13.0,5.0,tecno
+oppo reno 8t 4g,19999,86.0,"memory card supported, upto 1 tb",android,0,False,True,False,helio g99,helio,8,2.2,8.0,256,5000.0,1,33.0,6.43,1080 x 2400 ,120,3,1,100.0,32.0,oppo
+honor magic 5 lite,31999,80.0,None,android,0,True,True,True,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,5100.0,1,40.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,honor
+huawei mate 60,61990,81.0,"memory card supported, upto 256 gb",hongmeng os v4.0,0,True,True,True,nan,nan,8,,12.0,256,4750.0,1,66.0,6.69,1216 x 2688 ,120,3,1,50.0,13.0,huawei
+samsung galaxy f14,14990,66.0,"memory card supported, upto 1 tb",android,0,False,True,False,nan,nan,8,,4.0,64,6000.0,1,15.0,6.62,2408 x 1080 ,60,2,1,50.0,13.0,samsung
+motorola edge 40 fusion,42990,87.0,memory card not supported,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,4500.0,1,68.0,6.67,1080 x 2400 ,144,3,1,50.0,32.0,motorola
+tecno phantom x2 pro,44999,89.0,None,android,0,True,True,False,dimensity 9000,dimensity,8,3.05,12.0,256,5160.0,1,45.0,6.8,1080 x 2400 ,120,3,1,50.0,32.0,tecno
+sony xperia 10 v,39999,84.0,memory card (hybrid),android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,21.0,6.1,1080 x 2520 ,60,3,1,48.0,8.0,sony
+xiaomi redmi k60 pro,38999,85.0,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,5000.0,1,120.0,6.67,1440 x 3200 ,120,3,1,54.0,16.0,xiaomi
+oppo a1 pro 5g,20990,84.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,4800.0,1,67.0,6.7,1080 x 2412 ,120,2,1,108.0,16.0,oppo
+oppo a98,24990,86.0,"memory card supported, upto 1 tb",android,0,True,True,True,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,256,5000.0,1,67.0,6.72,1080 x 2400 ,120,3,1,64.0,32.0,oppo
+vivo x90 lite,37990,84.0,memory card not supported,android,0,True,False,False,dimensity 9200,dimensity,8,3.05,8.0,128,5000.0,1,67.0,6.6,1080 x 2400 ,120,3,1,50.0,32.0,vivo
+xiaomi redmi note 12 discovery edition,26990,86.0,memory card not supported,android,0,True,True,True,dimensity 1080,dimensity,8,2.6,8.0,256,4300.0,1,210.0,6.67,1080 x 2400 ,120,3,1,200.0,16.0,xiaomi
+vivo s17 pro,35990,86.0,None,android,0,True,True,False,dimensity 8200,dimensity,8,3.1,8.0,256,4600.0,1,80.0,6.78,1260 x 2800 ,120,3,1,50.0,50.0,vivo
+xiaomi redmi note 12 explorer,24999,89.0,"memory card supported, upto 512 gb",android,0,True,True,True,dimensity 1080,dimensity,8,2.6,8.0,256,4300.0,1,120.0,6.67,1080 x 2400 ,120,3,1,200.0,16.0,xiaomi
+vivo s16,29990,85.0,None,android,0,True,True,False,snapdragon 870,qualcomm snapdragon,8,3.2,8.0,128,4600.0,1,66.0,6.78,1080 x 2400 ,120,3,1,64.0,50.0,vivo
+infinix hot 20 play,7499,67.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio g37,helio,8,2.3,4.0,64,6000.0,1,18.0,6.82,720 x 1640 ,90,2,1,13.0,8.0,infinix
+apple iphone se 4,49990,60.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,4.0,64,2018.0,0,0.0,6.1,750 x 1580 ,60,1,1,12.0,10.8,apple
+xiaomi civi 3,28990,87.0,None,android,0,True,True,True,dimensity 8200 ultra,dimensity,8,3.1,12.0,256,4500.0,1,67.0,6.55,1080 x 2400 ,120,3,2,50.0,32.0,xiaomi
+redmi note 11 pro 2023,18999,81.0,"memory card (hybrid), upto 1 tb",android,0,False,False,True,snapdragon 712,qualcomm snapdragon,8,2.3,6.0,128,5000.0,1,67.0,6.67,1080 x 2400 ,120,4,1,108.0,16.0,redmi
+huawei nova 10 se,23999,84.0,memory card supported,android,0,False,True,False,sanpdragon 680,qualcomm snapdragon,8,2.4,8.0,256,4500.0,1,66.0,6.67,1080 x 2160 ,90,3,1,108.0,16.0,huawei
+tecno pova neo 5g,10999,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,dimensity 810 5g,dimensity,8,2.4,4.0,128,6000.0,1,18.0,6.8,1080 x 2400 ,120,2,1,50.0,8.0,tecno
+oneplus 10r prime edition,31999,85.0,None,android,0,True,True,False,dimensity 8100 max,dimensity,8,2.85,8.0,128,5000.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,oneplus
+vivo v25 (12gb ram + 256gb),27450,85.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity  900,dimensity,8,2.0,12.0,256,4500.0,1,44.0,6.44,1080 x 2408 ,90,3,1,64.0,50.0,vivo
+apple iphone 14 pro max (512gb),157999,87.0,memory card not supported,ios,0,True,True,False,a16,bionic,6,3.46,6.0,512,4323.0,1,15.0,6.7,1290 x 2796 ,120,3,1,48.0,12.0,apple
+apple iphone 14 (512gb),86999,82.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,512,3279.0,1,15.0,6.1,1170 x 2532 ,60,2,1,12.0,12.0,apple
+apple iphone 14 plus (512gb),94999,83.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,512,4325.0,1,15.0,6.7,1284 x 2778 ,60,2,1,12.0,12.0,apple
+realme c33 (4gb ram + 64gb),10499,67.0,"memory card supported, upto 1 tb",android,0,False,False,False,unisoc t612,unisoc,8,1.8,4.0,64,5000.0,0,0.0,6.5,720 x 1600 ,60,2,1,50.0,5.0,realme
+realme c30s,5985,,"memory card supported, upto 1 tb",android,0,False,False,False,unisoc sc9863a,unisoc,8,1.6,2.0,32,5000.0,1,10.0,6.5,720 x 1600 ,60,1,1,8.0,5.0,realme
+poco m6 pro,12990,82.0,"memory card (hybrid), upto 1 tb",android,0,False,False,True,helio g99,helio,8,2.2,8.0,128,5100.0,1,100.0,6.73,1080 x 2400 ,120,3,1,108.0,32.0,poco
+oppo a77 (4gb ram + 128 gb),12799,71.0,memory card supported,android,0,False,False,False,helio g35,helio,8,2.3,4.0,128,5000.0,1,33.0,6.56,720 x 1600 ,60,2,1,50.0,8.0,oppo
+motorola moto g72 4g,16999,82.0,memory card (hybrid),android,0,False,False,False,helio  g99,helio,8,2.2,6.0,128,5000.0,1,33.0,6.55,1080 x 2400 ,120,3,1,108.0,16.0,motorola
+motorola moto g72,19990,81.0,memory card not supported,android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,33.0,6.5,1080 x 2400 ,120,3,1,108.0,16.0,motorola
+xiaomi redmi a1 plus,6239,60.0,"memory card supported, upto 512 gb",android,0,False,False,False,helio a22,helio,4,2.0,2.0,32,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,xiaomi
+infinix zero 20,17999,87.0,"memory card supported, upto 2 tb",android,0,False,True,False,helio g99,helio,8,2.2,8.0,128,4500.0,1,45.0,6.7,1080 x 2400 ,90,3,1,108.0,60.0,infinix
+realme 9i 5g (6gb ram + 128gb),16999,78.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 810 5g,dimensity,8,2.4,6.0,128,5000.0,1,18.0,6.6,1080 x 2408 ,90,3,1,50.0,8.0,realme
+vivo v25 pro (12gb ram + 256gb),32490,86.0,None,android,0,True,False,False,dimensity 1300,dimensity,8,3.0,12.0,256,4830.0,1,66.0,6.56,1080 x 2376 ,120,3,1,64.0,32.0,vivo
+xiaomi redmi a1,6899,,"memory card supported, upto 512 gb",android,0,False,False,False,helio a22,helio,4,2.0,2.0,32,5000.0,1,10.0,6.52,720 x 1600 ,60,2,1,8.0,5.0,xiaomi
+vivo y22s,14990,77.0,"memory card supported, upto 1 tb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,18.0,6.55,1612 x 720 ,90,2,1,50.0,8.0,vivo
+motorola moto edge 30 neo,31990,85.0,None,android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,4020.0,1,68.0,6.28,1080 x 2400 ,120,2,1,64.0,32.0,motorola
+motorola moto s30 pro,23990,83.0,None,android,0,True,False,False,snapdragon 888+,qualcomm snapdragon,8,2.9,8.0,128,4400.0,1,68.0,6.55,1080 x 2460 ,144,3,1,50.0,32.0,motorola
+oppo a77,12328,70.0,memory card supported,android,0,False,False,False,helio g35,helio,8,2.3,4.0,64,5000.0,1,33.0,6.56,720 x 1600 ,60,2,1,50.0,8.0,oppo
+oneplus 10t (16gb ram + 256gb),45999,87.0,None,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,16.0,256,4800.0,1,150.0,6.7,1080 x 2412 ,120,3,1,50.0,16.0,oneplus
+vivo y02s,8990,61.0,memory card supported,android,0,False,False,False,helio p35,helio,8,2.3,3.0,32,5000.0,1,10.0,6.51,720 x 1600 ,60,1,1,8.0,5.0,vivo
+honor x8 5g,14990,75.0,"memory card supported, upto 1 tb",android,0,True,False,False,snapdragon  480+,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,22.0,6.5,720 x 1600 ,60,3,1,48.0,8.0,honor
+oppo reno 8 pro (8gb ram + 256gb),42990,85.0,None,android,0,True,True,False,dimensity 8100-max,dimensity,8,2.85,8.0,256,4500.0,1,80.0,6.7,1080 x 2412 ,120,3,1,50.0,32.0,oppo
+samsung galaxy m13 (4gb ram + 64gb),9199,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,exynos  850,exynos,8,2.0,4.0,64,6000.0,1,15.0,6.6,1080 x 2400 ,60,3,1,50.0,8.0,samsung
+letv y2 pro,6999,,None,android,0,False,False,False,unisoc,unisoc,8,,4.0,32,4000.0,0,0.0,6.5,720 x 1560 ,60,3,1,13.0,8.0,letv
+oukitel wp19,29990,84.0,memory card supported,android,0,False,True,False,helio g95,helio,8,2.0,8.0,256,21000.0,1,33.0,6.78,1080 x 2400 ,60,3,1,64.0,16.0,oukitel
+samsung galaxy f13 (4gb ram + 128gb),10199,75.0,"memory card supported, upto 1 tb",android,0,False,True,False,exynos 850,exynos,8,2.0,4.0,128,6000.0,1,15.0,6.6,2408 x 1080 ,60,3,1,50.0,8.0,samsung
+iqoo 9t 5g,49499,85.0,None,android,0,True,True,True,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,8.0,128,4700.0,1,120.0,6.78,1080 x 2400 ,120,3,1,50.0,16.0,iqoo
+poco f4 (12gb ram + 256gb),33999,86.0,None,android,0,True,True,False,snapdragon  870,qualcomm snapdragon,8,3.2,12.0,256,4500.0,1,67.0,6.67,1080 x 2400 ,120,3,1,64.0,20.0,poco
+xiaomi 13 5g,59990,89.0,None,android,0,True,True,True,snapdragon 8 gen2,qualcomm snapdragon,8,3.2,8.0,128,4500.0,1,67.0,6.36,1080 x 2400 ,120,3,1,50.0,32.0,xiaomi
+motorola moto g82 (8gb ram + 128gb),21499,86.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,30.0,6.6,1080 x 2400 ,120,3,1,50.0,16.0,motorola
+huawei mate 50 pro 5g,99990,85.0,memory card not supported,hongmeng os v4.0,0,True,True,False,kirin 9000e,kirin,8,3.13,8.0,256,4500.0,1,66.0,6.76,1440 x 3200 ,120,3,1,64.0,13.0,huawei
+samsung galaxy m63,24999,75.0,"memory card supported, upto 1 tb",android,0,False,True,False,nan,nan,8,,6.0,128,7000.0,1,15.0,6.71,1080 x 2400 ,60,4,1,64.0,32.0,samsung
+vivo y77 5g,17990,76.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity  930,dimensity,8,2.2,6.0,128,4500.0,1,80.0,6.64,1080 x 2388 ,120,2,1,50.0,8.0,vivo
+xiaomi redmi note 11t pro 5g,19990,82.0,"memory card (hybrid), upto 1 tb",android,0,True,True,True,dimensity  8100,dimensity,8,2.85,6.0,128,5080.0,1,67.0,6.6,1080 x 2460 ,144,3,1,64.0,16.0,xiaomi
+oppo a97 5g,23990,79.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 810 5g,dimensity,8,2.4,12.0,256,5000.0,1,33.0,6.56,1080 x 2400 ,90,2,1,48.0,8.0,oppo
+motorola moto g23,19999,77.0,"memory card supported, upto 512 gb",android,0,False,True,False,helio  g85,helio,8,2.0,4.0,128,5000.0,1,30.0,6.5,720 x 1600 ,90,3,1,50.0,16.0,motorola
+realme gt 3 pro 5g,49990,80.0,None,android,0,True,True,False,snapdragon 8 gen1 plus,qualcomm snapdragon,8,,8.0,128,5000.0,1,65.0,6.7,1440 x 3216 ,120,3,1,50.0,32.0,realme
+realme narzo 50 pro 5g (8gb ram + 128gb),19499,80.0,None,android,0,True,False,False,dimensity 920 5g,dimensity,8,2.5,8.0,128,5000.0,1,33.0,6.4,1080 x 2400 ,90,3,1,48.0,16.0,realme
+motorola moto g42,11990,78.0,"memory card supported, upto 1 tb",android,0,False,True,False,snapdragon 680,qualcomm snapdragon,8,2.4,4.0,64,5000.0,1,20.0,6.47,1080 x 2400 ,60,3,1,50.0,16.0,motorola
+vivo x80 5g (12gb ram + 256gb),49999,88.0,memory card not supported,android,0,True,False,False,dimensity  9000,dimensity,8,3.05,12.0,256,4500.0,1,80.0,6.78,1080 x 2400 ,120,3,1,50.0,32.0,vivo
+vivo y75 4g,16666,82.0,"memory card (hybrid), upto 1 tb",android,0,False,False,False,helio g96,helio,8,2.05,8.0,128,4050.0,1,44.0,6.44,1080 x 2400 ,60,3,1,50.0,44.0,vivo
+infinix smart 7 pro,8999,70.0,"memory card (hybrid), upto 512 gb",android,0,False,False,False,helio p60,helio,8,2.0,4.0,64,5000.0,1,15.0,6.64,720 x 1640 ,60,3,1,48.0,8.0,infinix
+xiaomi redmi 10c (4gb ram + 128gb),14990,73.0,"memory card supported, upto 512 gb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,4.0,128,6000.0,1,18.0,6.7,720 x 1600 ,60,2,1,50.0,5.0,xiaomi
+motorola moto g52 5g,14999,76.0,memory card (hybrid),android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,4.0,64,5000.0,1,33.0,6.6,2460 x 1080 ,90,3,1,50.0,16.0,motorola
+oppo a77 5g,21990,76.0,memory card supported,android,0,True,False,False,snapdragon  810,qualcomm snapdragon,8,2.4,6.0,128,5000.0,1,33.0,6.56,720 x 1600 ,90,2,1,48.0,8.0,oppo
+oppo f23 pro plus 5g,27990,83.0,"memory card supported, upto 256 gb",android,0,True,False,False,snapdragon  7 gen1,qualcomm snapdragon,8,2.4,8.0,128,4500.0,1,65.0,6.43,1080 x 2460 ,90,4,1,50.0,16.0,oppo
+samsung galaxy note 30 ultra 5g,104999,,"memory card (hybrid), upto 1 tb",android,0,True,True,False,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,4500.0,1,67.0,6.71,1440 x 3214 ,120,3,1,200.0,10.0,samsung
+iqoo z8 pro 5g,22999,70.0,memory card not supported,android,0,True,False,False,dimensity 7200,dimensity,8,,6.0,128,4500.0,1,80.0,6.44,1080 x 2412 ,90,3,1,50.0,16.0,iqoo
+tecno pova 3 (6gb ram + 128gb),13999,77.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio g88,helio,8,2.0,6.0,128,7000.0,1,33.0,6.9,1080 x 2460 ,90,3,1,50.0,8.0,tecno
+zte axon 40 ultra 5g,61990,89.0,None,android,0,True,True,False,snapdragon 8 gen1,qualcomm snapdragon,8,3.0,8.0,128,5000.0,1,65.0,6.8,1116 x 2480 ,120,3,1,64.0,16.0,zte
+vivo t1 44w (8gb ram + 128gb),17970,82.0,"memory card (hybrid), upto 1 tb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,44.0,6.44,1080 x 2408 ,60,3,1,50.0,16.0,vivo
+honor 70 5g,39990,88.0,None,android,0,True,True,False,snapdragon  778g plus,qualcomm snapdragon,8,2.5,12.0,512,4800.0,1,66.0,6.67,1080 x 2400 ,120,3,1,54.0,32.0,honor
+realme 10 5g,14499,79.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity  700 5g,dimensity,8,2.2,8.0,128,5000.0,1,33.0,6.6,1080 x 2408 ,90,3,1,50.0,8.0,realme
+realme 9 4g (8gb ram + 128gb),17349,84.0,"memory card supported, upto 256 gb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,33.0,6.4,1080 x 2400 ,90,3,1,108.0,16.0,realme
+motorola moto g52,17999,75.0,memory card (hybrid),android,0,False,True,False,snapdragon 680,qualcomm snapdragon,8,2.4,4.0,64,5000.0,1,33.0,6.6,2460 x 1080 ,90,3,1,50.0,16.0,motorola
+samsung galaxy a33 5g (8gb ram + 128gb),24999,85.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,exynos  1280,exynos,8,2.4,8.0,128,5000.0,1,25.0,6.4,1080 x 2400 ,90,4,1,48.0,13.0,samsung
+tecno spark 8c (4gb ram + 64gb),7890,63.0,"memory card supported, upto 256 gb",android,0,False,False,False,unisoc  t606,unisoc,8,2.0,4.0,64,5000.0,0,0.0,6.6,720 x 1612 ,90,2,1,13.0,8.0,tecno
+poco x4 pro 5g (6gb ram + 128gb),15990,82.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,64.0,16.0,poco
+motorola moto e32,8900,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g37,helio,8,2.3,4.0,64,5000.0,1,10.0,6.5,720 x 1600 ,90,2,1,50.0,8.0,motorola
+sony xperia ace 3,44990,77.0,memory card (hybrid),android,0,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,6.0,128,4500.0,0,0.0,6.21,1080 x 2400 ,90,2,1,13.0,8.0,sony
+oppo a96 4g,15990,80.0,memory card supported,android,0,False,False,False,snapdragon  680,qualcomm snapdragon,8,2.4,8.0,128,5000.0,1,33.0,6.59,1080 x 2412 ,90,2,1,50.0,16.0,oppo
+apple iphone se 3 2022 (256gb),58900,61.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,256,2018.0,0,0.0,4.7,750 x 1334 ,60,1,1,12.0,7.0,apple
+huawei nova 9 se,19990,84.0,memory card supported,android,0,False,True,False,snapdragon  680,qualcomm snapdragon,8,2.4,8.0,128,4000.0,1,66.0,6.78,1080 x 2388 ,90,4,1,108.0,16.0,huawei
+samsung galaxy a13 (6gb ram + 128gb),13199,78.0,"memory card supported, upto 1 tb",android,0,False,False,False,nan,nan,8,2.0,6.0,128,5000.0,1,25.0,6.6,1080 x 2408 ,60,4,1,50.0,8.0,samsung
+realme c35 (4gb ram + 128gb),10879,72.0,"memory card supported, upto 1 tb",android,0,False,False,False,tiger  t616,tiger,8,2.0,4.0,128,5000.0,1,18.0,6.6,1080 x 2408 ,90,3,1,50.0,8.0,realme
+iqoo 9 pro 5g (12gb ram + 256gb),44990,88.0,None,android,0,True,True,False,snapdragon 8 gen1,qualcomm snapdragon,8,3.0,12.0,256,4700.0,1,120.0,6.78,1440 x 3200 ,120,3,1,50.0,16.0,iqoo
+realme narzo 50 (6gb ram + 128gb),12899,77.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio g96,helio,8,2.0,6.0,128,5000.0,1,33.0,6.6,1080 x 2412 ,120,3,1,50.0,16.0,realme
+oneplus 10 pro 5g (12gb ram + 512gb),74999,,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,12.0,512,5000.0,1,80.0,6.7,1440 x 3216 ,120,3,1,50.0,32.0,oneplus
+realme narzo 50,12490,74.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio g96,helio,8,2.0,4.0,64,5000.0,1,33.0,6.6,1080 x 2412 ,120,3,1,50.0,16.0,realme
+realme 9 pro plus 5g (8gb ram + 128gb),26999,81.0,memory card not supported,android,0,True,False,False,dimensity  920 5g,dimensity,8,2.5,8.0,128,4500.0,1,60.0,6.4,1080 x 2400 ,90,3,1,50.0,16.0,realme
+samsung galaxy s22 ultra 5g (8gb ram + 128gb),99990,,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,8.0,128,5000.0,1,45.0,6.8,1440 x 3080 ,120,4,1,108.0,40.0,samsung
+samsung galaxy s22 plus 5g (8gb ram + 256gb),88999,88.0,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,8.0,256,4500.0,1,45.0,6.6,1080 x 2340 ,120,3,1,50.0,10.0,samsung
+xiaomi redmi note 11s (8gb ram + 128gb),16490,84.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio  g96,helio,8,2.05,8.0,128,5000.0,1,33.0,6.43,1080 x 2400 ,90,4,1,108.0,16.0,xiaomi
+oppo reno7 z 5g,17999,84.0,memory card supported,android,0,True,True,False,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,128,4500.0,1,33.0,6.43,1080 x 2400 ,60,3,1,64.0,16.0,oppo
+vivo y33s 5g (8gb ram + 128gb),17990,75.0,memory card supported,android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,8.0,128,5000.0,1,18.0,6.51,720 x 1600 ,60,2,1,13.0,8.0,vivo
+nubia z40 pro 5g,49990,84.0,None,android,0,True,True,False,snapdragon  8 gen1,qualcomm snapdragon,8,3.0,8.0,128,5000.0,1,80.0,6.67,1080 x 2400 ,144,3,1,64.0,16.0,nubia
+xiaomi 11t pro 5g (8gb ram + 256gb),32999,87.0,None,android,0,True,True,True,snapdragon  888,qualcomm snapdragon,8,2.84,8.0,256,5000.0,1,120.0,6.67,1080 x 2400 ,120,3,1,108.0,16.0,xiaomi
+motorola edge 30 5g,24490,83.0,None,android,0,True,True,False,snapdragon 778g+,qualcomm snapdragon,8,2.5,6.0,128,4020.0,1,33.0,6.5,1080 x 2400 ,144,3,1,50.0,32.0,motorola
+xiaomi 11t pro 5g (12gb ram + 256gb),34999,88.0,None,android,0,True,True,True,snapdragon  888,qualcomm snapdragon,8,2.84,12.0,256,5000.0,1,120.0,6.67,1080 x 2400 ,120,3,1,108.0,16.0,xiaomi
+iqoo z6 5g,14999,78.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,snapdragon  695,qualcomm snapdragon,8,2.2,4.0,128,5000.0,1,18.0,6.58,1080 x 2408 ,120,3,1,50.0,16.0,iqoo
+realme 9 pro plus 5g (8gb ram + 256gb),22999,82.0,memory card not supported,android,0,True,False,False,dimensity  920 5g,dimensity,8,2.5,8.0,256,4500.0,1,60.0,6.4,1080 x 2400 ,90,3,1,50.0,16.0,realme
+vivo y10,12490,64.0,None,android,0,False,False,False,helio p35,helio,8,2.3,4.0,128,5000.0,0,0.0,6.51,720 x 1600 ,60,2,1,13.0,8.0,vivo
+infinix note 11 (6gb ram + 128gb),14499,77.0,memory card supported,android,0,False,False,False,helio g88,helio,8,2.0,6.0,128,5000.0,1,33.0,6.7,1080 x 2400 ,60,3,1,50.0,16.0,infinix
+realme c35,9599,71.0,"memory card supported, upto 1 tb",android,0,False,False,False,tiger  t616,tiger,8,2.0,4.0,64,5000.0,1,18.0,6.6,1080 x 2408 ,60,3,1,50.0,8.0,realme
+poco m4 pro 4g,12999,77.0,"memory card supported, upto 1 tb",android,0,False,False,True,helio g96,helio,8,2.05,6.0,64,5000.0,1,33.0,6.43,1080 x 2400 ,90,3,1,64.0,16.0,poco
+motorola moto g22,9999,75.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio  g37,helio,8,2.3,4.0,64,5000.0,1,20.0,6.53,720 x 1600 ,90,4,1,50.0,16.0,motorola
+realme 9 pro 5g (8gb ram + 128gb),20999,82.0,"memory card supported, upto 256 gb",android,0,True,False,False,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,33.0,6.6,1080 x 2412 ,120,3,1,64.0,16.0,realme
+asus rog phone 6 pro 5g,89999,88.0,memory card not supported,android,0,True,True,False,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,18.0,512,6000.0,1,65.0,6.78,1080 x 2448 ,165,3,1,50.0,12.0,asus
+xiaomi redmi note 11s,12999,80.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio  g96,helio,8,2.05,6.0,64,5000.0,1,33.0,6.43,1080 x 2400 ,90,4,1,108.0,16.0,xiaomi
+xiaomi mix fold 2 5g,106990,,None,android,1,True,True,True,snapdragon  8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,4500.0,1,67.0,8.02,1914 x 2160 ,120,3,1,50.0,20.0,xiaomi
+samsung galaxy a83 5g,39990,86.0,"memory card supported, upto 1 tb",android,0,True,True,False,snapdragon 870,qualcomm snapdragon,8,3.2,6.0,128,4500.0,1,25.0,6.71,1440 x 3200 ,120,3,1,64.0,10.0,samsung
+honor magic fold 5g,104999,87.0,memory card not supported,android,1,True,True,False,snapdragon  8 gen 1,qualcomm snapdragon,8,3.0,8.0,256,4000.0,1,15.0,8.0,2200 x 2480 ,60,3,1,108.0,16.0,honor
+infinix note 12,11999,74.0,"memory card supported, upto 512 gb",android,0,False,False,False,helio g88,helio,8,2.0,4.0,64,5000.0,1,33.0,6.7,2400 x 1080 ,60,3,1,50.0,16.0,infinix
+xiaomi redmi note 10s (8gb ram + 128gb),13999,82.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio g95,helio,8,2.05,8.0,128,5000.0,1,33.0,6.43,1080 x 2400 ,60,4,1,64.0,13.0,xiaomi
+xiaomi redmi note 11 pro plus 5g (8gb ram + 128gb),21099,86.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,snapdragon  695,qualcomm snapdragon,8,2.2,8.0,128,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,108.0,16.0,xiaomi
+infinix zero 5g,19999,82.0,"memory card supported, upto 256 gb",android,0,True,False,False,dimensity 900,dimensity,8,2.0,8.0,128,4500.0,1,33.0,6.78,1080 x 2400 ,120,3,1,48.0,16.0,infinix
+oneplus nord n20 5g,20990,81.0,memory card supported,android,0,True,True,False,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,128,4500.0,1,33.0,6.43,1080 x 2400 ,60,3,1,64.0,16.0,oneplus
+motorola moto edge s30 5g,23990,85.0,None,android,0,True,False,False,snapdragon 888+,qualcomm snapdragon,8,2.9,6.0,128,5000.0,1,33.0,6.8,1080 x 2460 ,144,3,1,108.0,16.0,motorola
+oppo a55s 5g,14990,74.0,memory card supported,android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,6.0,128,5000.0,0,0.0,6.5,720 x 1600 ,60,3,1,13.0,8.0,oppo
+xiaomi 11i hypercharge 5g,22390,83.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,dimensity  920 5g,dimensity,8,2.5,6.0,128,4500.0,1,120.0,6.67,2400 x 1080 ,120,3,1,108.0,16.0,xiaomi
+xiaomi redmi note 11t 5g,15698,79.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,dimensity  810 5g,dimensity,8,2.4,6.0,64,5000.0,1,33.0,6.6,1080 x 2400 ,90,2,1,50.0,16.0,xiaomi
+realme 9 pro plus 5g,27999,78.0,memory card not supported,android,0,True,False,False,dimensity  920 5g,dimensity,8,2.5,6.0,128,4500.0,1,60.0,6.4,1080 x 2400 ,90,3,1,50.0,16.0,realme
+oppo a56 5g,17990,73.0,memory card supported,android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,6.0,128,5000.0,0,0.0,6.5,720 x 1600 ,60,2,1,13.0,8.0,oppo
+poco m4 pro 5g (6gb ram + 128gb),16999,81.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,dimensity  810 5g,dimensity,8,2.4,6.0,128,5000.0,1,33.0,6.6,1080 x 2400 ,90,2,1,50.0,16.0,poco
+oppo reno7 5g,27100,85.0,"memory card supported, upto 1 tb",android,0,True,True,False,dimensity 900,dimensity,8,2.0,8.0,256,4500.0,1,65.0,6.43,1080 x 2400 ,90,3,1,64.0,32.0,oppo
+nokia x100 5g,17990,82.0,"memory card supported, upto 1000 gb",android,0,True,True,False,snapdragon  480,qualcomm snapdragon,8,2.0,6.0,128,4470.0,1,18.0,6.67,1080 x 2400 ,60,4,1,48.0,16.0,nokia
+motorola moto g31,11999,75.0,"memory card (hybrid), upto 1 tb",android,0,False,False,False,helio  g85,helio,8,2.0,4.0,64,5000.0,1,20.0,6.47,1080 x 2400 ,60,3,1,50.0,13.0,motorola
+samsung w22 5g,197999,,None,android,1,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,16.0,512,4400.0,1,25.0,7.6,1768 x 2208 ,120,3,2,12.0,10.0,samsung
+apple iphone 13 mini (512gb),94900,80.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,4.0,512,2438.0,1,15.0,5.4,1080 x 2340 ,60,2,1,12.0,12.0,apple
+apple iphone 13 pro (1tb),125999,84.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,1024,3095.0,1,15.0,6.1,1170 x 2532 ,120,3,1,12.0,12.0,apple
+apple iphone 13 pro max (256gb),139900,84.0,memory card not supported,ios,0,True,True,False,a15,bionic,6,3.22,6.0,256,4352.0,1,15.0,6.7,1284 x 2778 ,120,3,1,12.0,12.0,apple
+tecno spark 8 pro,8099,72.0,memory card supported,android,0,False,False,False,helio g85,helio,8,2.0,4.0,64,5000.0,1,33.0,6.8,1080 x 2460 ,60,3,1,48.0,8.0,tecno
+sony xperia 10 iii lite 5g,30990,78.0,memory card supported,android,0,True,True,False,snapdragon  690,qualcomm snapdragon,8,2.0,6.0,64,4500.0,1,30.0,6.0,1080 x 2520 ,60,3,1,12.0,8.0,sony
+nubia red magic 6s 5g,44999,84.0,None,android,0,True,True,False,snapdragon 888+,qualcomm snapdragon,8,2.9,8.0,128,5050.0,1,30.0,6.8,1080 x 2400 ,165,3,1,64.0,8.0,nubia
+xiaomi redmi 10 (6gb ram + 128gb),11799,75.0,"memory card supported, upto 512 gb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,6.0,128,6000.0,1,18.0,6.7,720 x 1600 ,60,2,1,50.0,5.0,xiaomi
+asus rog phone 5s pro 5g,79999,89.0,None,android,0,True,True,False,snapdragon  888+,qualcomm snapdragon,8,2.9,18.0,512,6000.0,1,65.0,6.78,1080 x 2448 ,144,3,1,64.0,24.0,asus
+xiaomi redmi 10 prime,11690,74.0,"memory card supported, upto 512 gb",android,0,False,False,True,helio g88,helio,8,2.0,4.0,64,6000.0,1,18.0,6.5,1080 x 2400 ,90,4,1,50.0,8.0,xiaomi
+samsung galaxy z flip 3 5g (8gb ram + 256gb),59990,85.0,memory card not supported,android,1,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,8.0,256,3300.0,1,15.0,6.7,1080 x 2640 ,120,2,1,12.0,10.0,samsung
+samsung galaxy m32 5g,16990,78.0,"memory card (hybrid), upto 1 tb",android,0,True,False,False,dimensity 720,dimensity,8,2.0,6.0,128,5000.0,1,15.0,6.5,720 x 1600 ,60,4,1,48.0,13.0,samsung
+samsung galaxy m21 2021,11381,76.0,"memory card supported, upto 512 gb",android,0,False,False,False,exynos 9611,exynos,8,2.3,4.0,64,6000.0,1,15.0,6.4,1080 x 2340 ,60,3,1,48.0,20.0,samsung
+xiaomi mi 12 5g,42990,87.0,None,android,0,True,True,True,snapdragon 8 gen1,qualcomm snapdragon,8,3.0,8.0,128,4500.0,1,67.0,6.28,1080 x 2400 ,120,3,1,50.0,32.0,xiaomi
+xiaomi 12 ultra 5g,75999,,None,android,0,True,True,True,snapdragon 8+ gen1,qualcomm snapdragon,8,3.2,12.0,256,4800.0,1,67.0,6.73,1440 x 3200 ,120,3,1,50.0,20.0,xiaomi
+nokia x60 pro 5g,49990,,memory card supported,android,0,True,False,False,snapdragon  870,qualcomm snapdragon,8,3.2,8.0,128,6000.0,1,44.0,6.51,1080 x 2408 ,144,4,1,200.0,32.0,nokia
+xiaomi redmi note 10t 5g,14399,75.0,"memory card supported, upto 1 tb",android,0,True,False,True,dimensity 700,dimensity,8,2.2,4.0,64,5000.0,1,18.0,6.5,1080 x 2400 ,90,3,1,48.0,8.0,xiaomi
+xiaomi redmi 10,10490,71.0,"memory card supported, upto 512 gb",android,0,False,False,False,snapdragon 680,qualcomm snapdragon,8,2.4,4.0,64,6000.0,1,18.0,6.7,720 x 1600 ,60,2,1,50.0,5.0,xiaomi
+vivo y73 2021,19990,80.0,memory card supported,android,0,False,False,False,helio g95,helio,8,2.05,8.0,128,4000.0,1,33.0,6.44,1080 x 2400 ,60,3,1,64.0,16.0,vivo
+poco m3 pro 5g,12490,75.0,"memory card (hybrid), upto 1 tb",android,0,True,False,True,dimensity 700 5g,dimensity,8,2.2,4.0,64,5000.0,1,18.0,6.5,1080 x 2400 ,90,3,1,48.0,8.0,poco
+xiaomi redmi note 8 2021,9990,75.0,memory card supported,android,0,False,False,True,helio g85,helio,8,2.0,4.0,64,4000.0,1,18.0,6.3,1080 x 2340 ,60,4,1,48.0,13.0,xiaomi
+vivo v21 5g (8gb ram + 256gb),25900,86.0,memory card (hybrid),android,0,True,False,False,dimensity 800u,dimensity,8,2.4,8.0,256,4000.0,1,33.0,6.44,1080 x 2400 ,90,3,1,64.0,44.0,vivo
+realme x7 max,26999,84.0,None,android,0,True,True,False,dimensity 1200,dimensity,8,3.0,8.0,128,4500.0,1,50.0,6.43,1080 x 2400 ,120,3,1,64.0,16.0,realme
+realme 8i,11199,74.0,"memory card supported, upto 256 gb",android,0,False,False,False,helio g96,helio,8,2.05,4.0,64,5000.0,1,18.0,6.6,1080 x 2412 ,120,3,1,50.0,16.0,realme
+vivo x70 pro plus 5g,54999,,None,android,0,True,True,False,snapdragon  888+,qualcomm snapdragon,8,2.9,12.0,256,4500.0,1,55.0,6.78,1440 x 3200 ,120,4,1,50.0,32.0,vivo
+xiaomi mi mix fold,109990,,None,android,1,True,True,True,snapdragon  888,qualcomm snapdragon,8,2.84,12.0,256,5020.0,1,67.0,8.01,1860 x 2480 ,90,3,1,108.0,20.0,xiaomi
+poco x3 pro (8gb ram + 128gb),20990,85.0,memory card (hybrid),android,0,False,False,True,snapdragon 860,qualcomm snapdragon,8,2.96,8.0,128,5160.0,1,33.0,6.67,1080 x 2400 ,120,4,1,48.0,20.0,poco
+xiaomi redmi note 11 pro 5g,17990,81.0,memory card (hybrid),android,0,True,False,True,snapdragon 695,qualcomm snapdragon,8,2.2,6.0,64,5000.0,1,67.0,6.67,1080 x 2400 ,120,3,1,108.0,16.0,xiaomi
+oneplus 9 (12gb ram + 256gb),39999,87.0,memory card not supported,android,0,True,True,False,snapdragon 888,qualcomm snapdragon,8,2.84,12.0,256,4500.0,1,15.0,6.55,1080 x 2400 ,120,3,1,50.0,16.0,oneplus
+samsung galaxy a22,12990,76.0,"memory card supported, upto 1 tb",android,0,False,False,False,helio g80,helio,8,2.0,6.0,128,5000.0,1,15.0,6.4,720 x 1600 ,60,4,1,48.0,13.0,samsung
+xiaomi redmi note 10 5g,12490,76.0,"memory card supported, upto 512 gb",android,0,True,False,True,dimensity 700 5g,dimensity,8,2.2,4.0,128,5000.0,1,18.0,6.5,1080 x 2400 ,90,3,1,48.0,8.0,xiaomi
+oppo a74 5g,17990,77.0,memory card supported,android,0,True,False,False,snapdragon  480,qualcomm snapdragon,8,2.0,6.0,128,5000.0,1,18.0,6.5,1080 x 2400 ,90,3,1,48.0,8.0,oppo
+samsung galaxy a32 5g,24499,79.0,"memory card (hybrid), upto 1 tb",android,0,True,True,False,dimensity 720,dimensity,8,2.0,6.0,128,5000.0,1,15.0,6.5,720 x 1600 ,90,4,1,48.0,13.0,samsung
+iqoo 9 5g,42990,84.0,None,android,0,True,False,False,snapdragon  888+,qualcomm snapdragon,8,2.9,8.0,128,4350.0,1,120.0,6.56,1080 x 2376 ,120,3,1,48.0,16.0,iqoo
+samsung galaxy s21 ultra 5g (12gb ram + 128gb),101999,,None,android,0,True,True,False,exynos  2100,exynos,8,2.9,12.0,128,5000.0,1,25.0,6.8,1440 x 3200 ,120,4,1,108.0,40.0,samsung
+itel a36,4990,,"memory card supported, upto 32 gb",android,0,False,False,False,nan,nan,4,1.3,1.0,16,3020.0,0,0.0,5.5,720 x 1520 ,60,1,1,5.0,5.0,itel
+samsung galaxy s21 5g (8gb ram + 256gb),73999,88.0,None,android,0,True,True,False,exynos  2100,exynos,8,2.9,8.0,256,4000.0,1,25.0,6.2,1080 x 2400 ,120,3,1,64.0,10.0,samsung
+motorola edge s,22490,87.0,memory card supported,android,0,True,True,False,snapdragon 870,qualcomm snapdragon,8,3.2,6.0,128,5000.0,1,20.0,6.7,1080 x 2520 ,90,4,2,64.0,16.0,motorola
+samsung galaxy a22 5g,17890,79.0,"memory card supported, upto 1 tb",android,0,True,False,False,dimensity 700 5g,dimensity,8,2.2,6.0,128,5000.0,1,15.0,6.6,1080 x 2408 ,90,3,1,48.0,8.0,samsung
